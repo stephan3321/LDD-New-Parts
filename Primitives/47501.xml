@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="47501"/>
+    <Annotation designname="SHELL W. SNAP"/>
+    <Annotation maingroupid="381"/>
+    <Annotation maingroupname="DECORATION ELEMENTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.74" sY="0.05" sZ="0.45" angle="0" ax="0" ay="1" az="0" tx="0.2" ty="0.86" tz="0"/>
+    <Box sX="0.19" sY="0.05" sZ="0.237516" angle="0" ax="0" ay="1" az="0" tx="1.15" ty="0.86" tz="0"/>
+    <Box sX="0.19" sY="0.05" sZ="0.18721" angle="26.38732" ax="0" ay="0" az="-1" tx="1.14417" ty="0.955139" tz="-0.002484"/>
+    <Box sX="0.242594" sY="0.05" sZ="0.289436" angle="27.12572" ax="0" ay="0" az="-1" tx="0.697833" ty="0.981768" tz="0"/>
+    <Box sX="0.280736" sY="0.05" sZ="0.389651" angle="29.3785" ax="0" ay="0" az="-1" tx="0.267219" ty="1.01034" tz="0.003412"/>
+    <Box sX="0.351332" sY="0.05" sZ="0.266026" angle="0" ax="0" ay="1" az="0" tx="0.677736" ty="0.98881" tz="0"/>
+    <Box sX="0.351332" sY="0.05" sZ="0.417032" angle="0" ax="0" ay="1" az="0" tx="0.365674" ty="0.98881" tz="0"/>
+    <Box sX="0.310529" sY="0.05" sZ="0.365745" angle="26.16707" ax="0" ay="0" az="1" tx="-0.235862" ty="1.0075" tz="0"/>
+    <Box sX="0.310529" sY="0.05" sZ="0.510117" angle="0" ax="0" ay="1" az="0" tx="0.023594" ty="0.98" tz="-0.000365"/>
+    <Box sX="0.202369" sY="0.03" sZ="0.202369" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.76" tz="0"/>
+    <Box sX="0.14" sY="0.34983" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.360151" tz="0"/>
+    <Box sX="0.202369" sY="0.03" sZ="0.202369" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="0.76" tz="0"/>
+    <Box sX="0.14" sY="0.35" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="0.36" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0.8" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.075033,0,0,0,0.14314,0,0,0,0.154386" centerOfMass="0.346243,0.800935,2.6E-005" mass="0.600000023842" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.55" minY="0" minZ="-0.576828" maxX="1.35" maxY="1.2" maxZ="0.576825"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.55" minY="0" minZ="-0.576828" maxX="1.35" maxY="1.2" maxZ="0.576825"/>
+  </GeometryBounding>
+</LEGOPrimitive>

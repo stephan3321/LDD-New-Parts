@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98011"/>
+    <Annotation designname="HOOD FOR CLOAK"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.218749" sY="0.151135" sZ="0.218749" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.161135" tz="0"/>
+    <Box sX="0.319727" sY="0.048517" sZ="0.319727" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.189717" tz="0"/>
+    <Box sX="0.017084" sY="0.538286" sZ="0.253882" angle="63.85442" ax="0.121699" ay="-0.967792" az="-0.22038" tx="-0.283945" ty="-0.384261" tz="-0.490662"/>
+    <Box sX="0.017084" sY="0.567933" sZ="0.253882" angle="20.00449" ax="0" ay="0" az="-1" tx="-0.589222" ty="-0.408889" tz="0"/>
+    <Box sX="0.017084" sY="0.665148" sZ="0.162422" angle="31.70089" ax="-0.07251" ay="0.762597" az="-0.642797" tx="-0.488735" ty="-0.499388" tz="0.45238"/>
+    <Box sX="0.017084" sY="0.538286" sZ="0.253882" angle="118.6328" ax="0.109461" ay="-0.992482" az="-0.054752" tx="0.284518" ty="-0.383867" tz="-0.492206"/>
+    <Box sX="0.017084" sY="0.567933" sZ="0.253882" angle="180" ax="-0.173687" ay="0.984801" az="0" tx="0.589222" ty="-0.408889" tz="0"/>
+    <Box sX="0.017084" sY="0.615355" sZ="0.162422" angle="155.95613" ax="-0.179502" ay="0.983549" az="-0.020249" tx="0.472327" ty="-0.452703" tz="0.446841"/>
+    <Box sX="0.231928" sY="0.030117" sZ="0.119079" angle="30.38589" ax="1" ay="0" az="0" tx="0" ty="0.005993" tz="0.570727"/>
+    <Box sX="0.604038" sY="0.02621" sZ="0.104396" angle="39.83889" ax="1" ay="0" az="0" tx="0" ty="-1.09807" tz="0.608366"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.259328,0,0,0,0.263625,0,0,0,0.286101" centerOfMass="-0.033553,-0.439686,0.045697" mass="0.800000011921" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.863379" minY="-1.31129" minZ="-0.747041" maxX="0.842536" maxY="0.38282" maxZ="0.78573"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.863379" minY="-1.31129" minZ="-0.714654" maxX="0.842536" maxY="0.38282" maxZ="0.78573"/>
+  </GeometryBounding>
+</LEGOPrimitive>

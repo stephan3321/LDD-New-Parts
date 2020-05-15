@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30456"/>
+    <Annotation designname="DINOSAURUS TAIL"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.274908" sY="0.434285" sZ="0.465016" angle="6.7905" ax="0" ay="1" az="0" tx="0.080829" ty="0.455716" tz="-0.003114"/>
+    <Box sX="0.109267" sY="0.434285" sZ="0.352093" angle="6.79056" ax="0" ay="1" az="0" tx="-0.312094" ty="0.45341" tz="0.049781"/>
+    <Box sX="0.615673" sY="0.654611" sZ="0.412368" angle="6.30789" ax="0" ay="1" az="0" tx="0.941968" ty="0.499833" tz="-0.087335"/>
+    <Box sX="0.615673" sY="0.485673" sZ="0.364231" angle="13.13938" ax="0" ay="-1" az="0" tx="2.02308" ty="0.668772" tz="-0.039375"/>
+    <Box sX="0.615673" sY="0.419067" sZ="0.253221" angle="13.13938" ax="0" ay="-1" az="0" tx="3.08909" ty="0.735378" tz="0.231342"/>
+    <Box sX="0.416259" sY="0.325215" sZ="0.253221" angle="23.75344" ax="-0.023529" ay="0.220957" az="-0.975" tx="3.8509" ty="0.686338" tz="0.36126"/>
+    <Box sX="0.580289" sY="0.222536" sZ="0.173038" angle="24.93198" ax="0.080062" ay="0.541116" az="-0.837128" tx="4.65359" ty="0.343755" tz="0.216044"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="97" oriented="1" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.45" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.510065,0,0,0,4.9534,0,0,0,4.91533" centerOfMass="1.76335,0.598423,0.035749" mass="2.17000007629" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.599977" minY="-0.177039" minZ="-0.693271" maxX="5.29797" maxY="1.21483" maxZ="0.658678"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.599977" minY="-0.177039" minZ="-0.693271" maxX="5.136" maxY="1.21483" maxZ="0.655861"/>
+  </GeometryBounding>
+</LEGOPrimitive>

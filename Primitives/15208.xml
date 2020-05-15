@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15208"/>
+    <Annotation designname="1X2 PLATE WITH 3 TEETH"/>
+    <Annotation maingroupid="281"/>
+    <Annotation maingroupname="DECORATION ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.15" sZ="0.454613" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0.064613"/>
+    <Box sX="0.12042" sY="0.086195" sZ="0.197115" angle="0" ax="0" ay="1" az="0" tx="-0.155" ty="0.096195" tz="0.607115"/>
+    <Box sX="0.12042" sY="0.086195" sZ="0.197115" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.096195" tz="0.607115"/>
+    <Box sX="0.12042" sY="0.086195" sZ="0.197115" angle="0" ax="0" ay="1" az="0" tx="0.955" ty="0.096195" tz="0.607115"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.152967,0,0,0,0.345633,0,0,0,0.234" centerOfMass="0.4,0.249,0.23" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="0.86"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.498" maxZ="0.86"/>
+  </GeometryBounding>
+</LEGOPrimitive>

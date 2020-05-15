@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92084"/>
+    <Annotation designname="OWL"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.465997" sY="0.99695" sZ="0.54668" angle="23.44656" ax="1" ay="0" az="0" tx="0" ty="1.36492" tz="-0.039006"/>
+    <Box sX="0.223345" sY="0.86246" sZ="0.223345" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.87246" tz="0"/>
+    <Box sX="0.310268" sY="0.962565" sZ="0.084205" angle="44.42049" ax="1" ay="0" az="0" tx="0" ty="1.09755" tz="-0.242517"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.6249,0,0,0,0.308625,0,0,0,0.530455" centerOfMass="0,1.21946,-0.085892" mass="1.60000002384" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.671462" minY="0" minZ="-1.11715" maxX="0.671462" maxY="2.49708" maxZ="0.859215"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.671462" minY="0" minZ="-1.11715" maxX="0.671462" maxY="2.3789" maxZ="0.699673"/>
+  </GeometryBounding>
+</LEGOPrimitive>

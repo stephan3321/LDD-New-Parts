@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="99008"/>
+    <Annotation designname="KRYDSAKSEL M/STOP 4M"/>
+    <Annotation maingroupid="385"/>
+    <Annotation maingroupname="CONNECTORS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <DefaultOrientation angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0"/>
+  <Collision>
+    <Box sX="0.210836" sY="0.080177" sZ="1.59" angle="0" ax="0" ay="1" az="0" tx="-4.8E-005" ty="0.000177" tz="-1.6"/>
+    <Box sX="0.210836" sY="0.080177" sZ="1.59" angle="90" ax="0" ay="0" az="1" tx="-0.000177" ty="-4.8E-005" tz="-1.6"/>
+    <Box sX="0.163241" sY="0.163241" sZ="0.39" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-1.2"/>
+    <Box sX="0.163241" sY="0.163241" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-1.2"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Axel type="5" length="1.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="-3.2"/>
+    <Axel type="13" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.873342,0,0,0,0.873342,0,0,0,0.040016" centerOfMass="0,0,-1.6" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.244999" minY="-0.244999" minZ="-3.2" maxX="0.244999" maxY="0.244999" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.244999" minY="-0.244999" minZ="-3.2" maxX="0.244999" maxY="0.244999" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

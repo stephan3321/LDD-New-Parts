@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15355"/>
+    <Annotation designname="HOPPING GRABBER TOP"/>
+    <Annotation maingroupid="352"/>
+    <Annotation maingroupname="BODY SHELLS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.048402" sY="0.19" sZ="0.40876" angle="0" ax="0" ay="1" az="0" tx="0.368402" ty="0.2" tz="0"/>
+    <Box sX="0.048402" sY="0.19" sZ="0.40876" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.2" tz="-0.368402"/>
+    <Box sX="0.048402" sY="0.19" sZ="0.40876" angle="180" ax="0" ay="1" az="0" tx="-0.368402" ty="0.2" tz="0"/>
+    <Box sX="0.048402" sY="0.19" sZ="0.40876" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.2" tz="0.368402"/>
+    <Box sX="0.481622" sY="0.149569" sZ="0.320407" angle="180" ax="0" ay="1" az="0" tx="-0.801622" ty="0.159569" tz="0"/>
+    <Box sX="0.173133" sY="0.174069" sZ="0.075635" angle="180" ax="-0.093459" ay="0.995623" az="0" tx="1.73025" ty="0.01417" tz="0"/>
+    <Box sX="0.257718" sY="0.265063" sZ="0.111043" angle="180" ax="0.039174" ay="0.999232" az="0" tx="1.46753" ty="0.479807" tz="0"/>
+    <Box sX="0.364488" sY="0.060987" sZ="0.228335" angle="180" ax="-0.007349" ay="0.999973" az="0" tx="0.841918" ty="0.366964" tz="0.010096"/>
+    <Box sX="0.326888" sY="0.032505" sZ="0.228335" angle="158.64691" ax="0.057999" ay="0.803194" az="-0.592887" tx="1.52393" ty="0.047605" tz="-0.167638"/>
+    <Box sX="0.832788" sY="0.105465" sZ="0.089484" angle="171.51514" ax="0" ay="-1" az="0" tx="-0.399198" ty="0.115465" tz="-0.407332"/>
+    <Box sX="0.486487" sY="0.11682" sZ="0.039199" angle="176.95116" ax="0.247569" ay="0.955461" az="0.160636" tx="0.658184" ty="0.034708" tz="-0.461994"/>
+    <Box sX="0.176788" sY="0.11448" sZ="0.075635" angle="180" ax="0" ay="1" az="0" tx="1.12241" ty="-0.20452" tz="-0.473614"/>
+    <Box sX="0.326888" sY="0.032505" sZ="0.228335" angle="158.64691" ax="-0.057999" ay="-0.803194" az="-0.592887" tx="1.52393" ty="0.047605" tz="0.167638"/>
+    <Box sX="0.832788" sY="0.105465" sZ="0.089484" angle="171.51514" ax="0" ay="1" az="0" tx="-0.399198" ty="0.115465" tz="0.407332"/>
+    <Box sX="0.486487" sY="0.11682" sZ="0.039199" angle="176.95116" ax="-0.247569" ay="-0.955461" az="0.160636" tx="0.658184" ty="0.034708" tz="0.461994"/>
+    <Box sX="0.176788" sY="0.11448" sZ="0.075635" angle="180" ax="0" ay="1" az="0" tx="1.12241" ty="-0.20452" tz="0.473614"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.4" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.245667,0,0,0,1.04188,0,0,0,0.995403" centerOfMass="0.320997,0.217617,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.31834" minY="-0.329" minZ="-0.661976" maxX="1.96033" maxY="0.764233" maxZ="0.661976"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.31834" minY="-0.329" minZ="-0.661976" maxX="1.96033" maxY="0.76411" maxZ="0.661976"/>
+  </GeometryBounding>
+</LEGOPrimitive>

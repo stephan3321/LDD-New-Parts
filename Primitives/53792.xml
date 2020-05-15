@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="53792"/>
+    <Annotation designname="Ultrasound sensor"/>
+    <Annotation maingroupid="392"/>
+    <Annotation maingroupname="ELECTRIC PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="12"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.5585" sY="0.804249" sZ="0.2655" angle="180" ax="1" ay="0" az="0" tx="1.1985" ty="1.40425" tz="0.365499"/>
+    <Box sX="1.5585" sY="0.804249" sZ="0.265501" angle="180" ax="1" ay="0" az="0" tx="1.1985" ty="1.40425" tz="-1.1655"/>
+    <Box sX="1.5585" sY="0.533247" sZ="0.079409" angle="90" ax="-1" ay="0" az="0" tx="1.1985" ty="0.568809" tz="-0.400002"/>
+    <Box sX="1.5585" sY="1.031" sZ="0.270249" angle="90" ax="-1" ay="0" az="0" tx="1.1985" ty="2.38825" tz="-0.400002"/>
+    <Box sX="0.209" sY="0.2085" sZ="1.05107" angle="180" ax="0.707107" ay="0" az="-0.707107" tx="0.691073" ty="0.889502" tz="-0.129001"/>
+    <Box sX="0.787985" sY="0.019017" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.797985" ty="-0.341402" tz="-0.4"/>
+    <Box sX="1.16" sY="0.169443" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.800001" ty="0.491559" tz="-0.4"/>
+    <Box sX="0.020001" sY="0.259776" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.94" ty="0.269805" tz="-0.4"/>
+    <Box sX="0.008514" sY="0.083225" sZ="0.39" angle="45" ax="0" ay="0" az="-1" tx="1.83259" ty="-0.232927" tz="-0.4"/>
+    <Box sX="0.010344" sY="0.084971" sZ="0.39" angle="72.04183" ax="0" ay="0" az="1" tx="-0.083938" ty="-0.321412" tz="-0.4"/>
+    <Box sX="0.331267" sY="0.077703" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="0.400305" ty="-0.029152" tz="-0.4"/>
+    <Box sX="0.331267" sY="0.078612" sZ="0.39" angle="90" ax="0" ay="0" az="1" tx="1.19981" ty="-0.029152" tz="-0.4"/>
+    <Box sX="1.13886" sY="0.975049" sZ="2.75697" angle="0" ax="0" ay="1" az="0" tx="2.86436" ty="1.83945" tz="-0.400002"/>
+    <Box sX="0.01597" sY="0.259776" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="-0.33597" ty="0.269805" tz="-0.4"/>
+    <Box sX="1.333" sY="0.340486" sZ="0.422056" angle="90" ax="-1" ay="0" az="0" tx="1.424" ty="2.01155" tz="-1.24049"/>
+    <Box sX="1.333" sY="0.340487" sZ="0.422056" angle="90" ax="-1" ay="0" az="0" tx="1.424" ty="2.01155" tz="0.440486"/>
+    <Box sX="0.085801" sY="0.144062" sZ="0.715105" angle="90" ax="0" ay="0" az="1" tx="-0.002028" ty="0.575202" tz="-0.4"/>
+    <Box sX="0.085801" sY="0.144062" sZ="0.715105" angle="90" ax="0" ay="0" az="1" tx="0.800455" ty="0.575202" tz="-0.4"/>
+    <Box sX="0.085801" sY="0.144062" sZ="0.715105" angle="90" ax="0" ay="0" az="1" tx="1.60329" ty="0.575202" tz="-0.4"/>
+    <Box sX="0.085801" sY="0.246065" sZ="0.715105" angle="90" ax="0" ay="0" az="1" tx="2.49899" ty="0.575202" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="28" axes="2" tag="Port0" angle="90" ax="0" ay="0" az="-1" tx="0.83" ty="1.108" tz="-0.348001"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0.8" ty="0" tz="0"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="1.6" ty="0" tz="0"/>
+    <Custom2DField type="22" width="6" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="6" height="2" angle="180" ax="0" ay="0.707107" az="0.707107" tx="2" ty="-0.4" tz="-0.8">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="76.54015,0,0,0,93.48022,0,0,0,55.73964" centerOfMass="1.80661,1.21225,-0.400002" mass="22.3899993896" frictionType="0"/>
+  <Decoration faces="5" subMaterialRedirectLookupTable="0,1,2,3,4"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.4" minZ="-3.16698" maxX="4.01322" maxY="2.8245" maxZ="2.36697"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.370001" minZ="-3.16698" maxX="4.01322" maxY="2.8245" maxZ="2.36697"/>
+  </GeometryBounding>
+</LEGOPrimitive>

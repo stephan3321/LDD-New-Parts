@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30376;55527;86025"/>
+    <Annotation designname="SPACE SKELETON LEG"/>
+    <Annotation maingroupid="245"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.752" sY="0.15" sZ="0.355" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0.035"/>
+    <Box sX="0.068409" sY="0.653357" sZ="0.158164" angle="0" ax="0" ay="1" az="0" tx="0.681591" ty="0.983357" tz="-0.001836"/>
+    <Box sX="0.068409" sY="0.653357" sZ="0.158164" angle="0" ax="0" ay="1" az="0" tx="0.121591" ty="0.983357" tz="-0.001836"/>
+    <Box sX="0.35" sY="0.07" sZ="0.16" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="1.56671" tz="0"/>
+    <Box sX="0.15" sY="0.109482" sZ="0.036453" angle="30.72987" ax="-1" ay="0" az="0" tx="0.4" ty="1.72666" tz="-0.163482"/>
+    <Box sX="0.15" sY="0.117052" sZ="0.013187" angle="10.36713" ax="1" ay="0" az="0" tx="0.4" ty="1.91946" tz="-0.179922"/>
+    <Box sX="0.15" sY="0.110443" sZ="0.036453" angle="30.72987" ax="1" ay="0" az="0" tx="0.4" ty="1.72583" tz="0.162991"/>
+    <Box sX="0.15" sY="0.111808" sZ="0.013187" angle="10.36713" ax="-1" ay="0" az="0" tx="0.4" ty="1.92461" tz="0.178979"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0.56" ty="1.85516" tz="0"/>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:2:1,29:0:1,22:2:1,29:0:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.151068,0,0,0,0.061231,0,0,0,0.193261" centerOfMass="0.425417,0.689102,-0.006658" mass="0.40000000596" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="2.048" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.362" minY="0" minZ="-0.33" maxX="1.162" maxY="2.048" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

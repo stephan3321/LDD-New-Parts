@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98379"/>
+    <Annotation designname="JEWEL W. Ø1,5 PIN"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.044919" sY="0.044919" sZ="0.245495" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.018496"/>
+    <Box sX="0.133175" sY="0.297999" sZ="0.064563" angle="0" ax="0" ay="1" az="0" tx="0" ty="7.1E-005" tz="0.074436"/>
+    <Box sX="0.189256" sY="0.189256" sZ="0.064563" angle="45" ax="0" ay="0" az="1" tx="0" ty="0.000204" tz="0.074436"/>
+    <Box sX="0.080349" sY="0.188547" sZ="0.064563" angle="0" ax="0" ay="1" az="0" tx="-0.001114" ty="0.518929" tz="0.074436"/>
+    <Box sX="0.080349" sY="0.16199" sZ="0.167172" angle="57.57962" ax="1" ay="0" az="0" tx="-0.001114" ty="0.602137" tz="0.298321"/>
+    <Box sX="0.050745" sY="0.201112" sZ="0.153977" angle="14.39545" ax="1" ay="0" az="0" tx="0" ty="0.879473" tz="0.211614"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.273991" requireGrabbing="0" startCapped="1" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.017139,0,0,0,0.002837,0,0,0,0.015987" centerOfMass="0,0.328557,0.145895" mass="0.109999999404" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.28179" minY="-0.307927" minZ="-0.273991" maxX="0.28179" maxY="1.13814" maxZ="0.526253"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.28179" minY="-0.307927" minZ="-0.273991" maxX="0.28179" maxY="1.13814" maxZ="0.526253"/>
+  </GeometryBounding>
+</LEGOPrimitive>

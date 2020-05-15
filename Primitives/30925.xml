@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30925"/>
+    <Annotation designname="DESIGN PLATE 1X2, NO. 1"/>
+    <Annotation maingroupid="281"/>
+    <Annotation maingroupname="DECORATION ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.1498" sZ="0.451986" angle="0" ax="0" ay="1" az="0" tx="0.399925" ty="0.1598" tz="-0.074986"/>
+    <Box sX="0.79" sY="0.1081" sZ="0.106255" angle="0" ax="0" ay="1" az="0" tx="0.399925" ty="0.4377" tz="-0.529997"/>
+    <Box sX="0.79" sY="0.1498" sZ="0.106653" angle="31.25906" ax="-1" ay="0" az="0" tx="0.399925" ty="0.631869" tz="-0.596382"/>
+    <Box sX="1.57458" sY="0.290987" sZ="0.088384" angle="27.99999" ax="-1" ay="0" az="0" tx="0.399925" ty="0.96413" tz="-0.742282"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.3196" tz="-0.4">
+      29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.291993,0,0,0,0.998835,0,0,0,0.978333" centerOfMass="0.399925,0.63815,-0.284647" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.18997" minY="0" minZ="-0.969294" maxX="1.98982" maxY="1.2763" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.18997" minY="0" minZ="-0.969294" maxX="1.98982" maxY="1.2763" maxZ="0.387"/>
+  </GeometryBounding>
+</LEGOPrimitive>

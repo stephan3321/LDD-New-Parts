@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="90392"/>
+    <Annotation designname="HOPLITE, HELMET - MINI FIGURE"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.112173" sY="0.287903" sZ="0.453663" angle="19.23331" ax="1" ay="0" az="0" tx="0" ty="0.677696" tz="0.272783"/>
+    <Box sX="0.306657" sY="0.029201" sZ="0.359457" angle="180" ax="0" ay="0.776275" az="-0.630394" tx="-0.002227" ty="-0.310423" tz="-0.63451"/>
+    <Box sX="0.49" sY="0.155863" sZ="0.49" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.187917" tz="0"/>
+    <Box sX="0.306657" sY="0.029201" sZ="0.371709" angle="138.59036" ax="0.377964" ay="-0.654654" az="0.654654" tx="-0.48678" ty="-0.302212" tz="-0.278471"/>
+    <Box sX="0.306657" sY="0.029201" sZ="0.391215" angle="104.47751" ax="0.774597" ay="-0.447214" az="0.447214" tx="-0.484552" ty="-0.43391" tz="0.282328"/>
+    <Box sX="0.306657" sY="0.069795" sZ="0.352212" angle="90" ax="1" ay="0" az="0" tx="0.002227" ty="-0.173721" tz="0.601393"/>
+    <Box sX="0.306657" sY="0.029201" sZ="0.391215" angle="104.47751" ax="0.774597" ay="0.447214" az="-0.447214" tx="0.48678" ty="-0.43391" tz="0.278471"/>
+    <Box sX="0.306657" sY="0.029201" sZ="0.371709" angle="138.59036" ax="0.377964" ay="0.654654" az="-0.654654" tx="0.484552" ty="-0.302212" tz="-0.282328"/>
+    <Box sX="0.112173" sY="0.28239" sZ="0.508808" angle="29.85304" ax="-1" ay="0" az="0" tx="0" ty="0.608584" tz="-0.467918"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.303897,0,0,0,0.206288,0,0,0,0.251904" centerOfMass="-1.2E-005,0.139369,-0.056127" mass="0.899999976158" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.697066" minY="-0.946564" minZ="-1.11411" maxX="0.697066" maxY="1.10678" maxZ="0.851014"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.697066" minY="-0.946564" minZ="-1.11411" maxX="0.697066" maxY="1.07921" maxZ="0.851014"/>
+  </GeometryBounding>
+</LEGOPrimitive>

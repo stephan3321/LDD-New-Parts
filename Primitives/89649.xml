@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="89649"/>
+    <Annotation designname="GLAS FOR WALL 2X8X2 WRY INV."/>
+    <Annotation maingroupid="277"/>
+    <Annotation maingroupname="WINDSCREENS AND COCKPITS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="3.04" sY="0.053828" sZ="0.711234" angle="65.89999" ax="-1" ay="0" az="0" tx="2.8" ty="1.07621" tz="0.609193"/>
+    <Box sX="0.07" sY="0.675" sZ="0.353116" angle="0" ax="0" ay="1" az="0" tx="-0.17" ty="1.085" tz="-0.036884"/>
+    <Box sX="0.663" sY="0.113399" sZ="0.717793" angle="65.89999" ax="-1" ay="0" az="0" tx="2.0155" ty="1.05787" tz="0.66625"/>
+    <Box sX="0.663" sY="0.113399" sZ="0.717793" angle="65.89999" ax="-1" ay="0" az="0" tx="3.5615" ty="1.05787" tz="0.66625"/>
+    <Box sX="0.6515" sY="0.113399" sZ="0.717793" angle="65.89999" ax="-1" ay="0" az="0" tx="5.119" ty="1.05787" tz="0.66625"/>
+    <Box sX="0.105" sY="0.14616" sZ="0.677575" angle="65.89999" ax="-1" ay="0" az="0" tx="-0.205" ty="1.07794" tz="0.498381"/>
+    <Box sX="0.105" sY="0.300825" sZ="0.260803" angle="0" ax="0" ay="1" az="0" tx="-0.205" ty="1.45918" tz="0.349298"/>
+    <Box sX="0.663001" sY="0.112912" sZ="0.717793" angle="65.89999" ax="-1" ay="0" az="0" tx="0.4695" ty="1.05807" tz="0.665805"/>
+    <Box sX="0.105" sY="0.14616" sZ="0.677575" angle="180" ax="0" ay="0.839146" az="-0.543907" tx="5.805" ty="1.07794" tz="0.498381"/>
+    <Box sX="0.105" sY="0.300825" sZ="0.260803" angle="180" ax="0" ay="1" az="0" tx="5.805" ty="1.45918" tz="0.349298"/>
+    <Box sX="0.07" sY="0.675" sZ="0.353116" angle="180" ax="0" ay="1" az="0" tx="5.77" ty="1.085" tz="-0.036884"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="153" axes="2" angle="0" ax="0" ay="0" az="1" tx="2.8" ty="0.32" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.888806,0,0,0,8.56277,0,0,0,8.55004" centerOfMass="2.8,1.04501,0.335477" mass="2.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.32" minY="0.32" minZ="-0.4" maxX="5.92" maxY="1.77002" maxZ="1.07095"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.32" minY="0.32" minZ="-0.4" maxX="5.92" maxY="1.77002" maxZ="1.07095"/>
+  </GeometryBounding>
+</LEGOPrimitive>

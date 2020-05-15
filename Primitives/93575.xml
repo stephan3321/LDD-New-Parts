@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93575"/>
+    <Annotation designname="HAND 2X3X2 BALL CUP Ø10.2"/>
+    <Annotation maingroupid="341"/>
+    <Annotation maingroupname="HANDS AND FEETS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.145629" sY="0.36" sZ="0.1675" angle="0" ax="0" ay="1" az="0" tx="0.400629" ty="0" tz="-0.6225"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="0" ax="0" ay="1" az="0" tx="0.033199" ty="0.273255" tz="-0.611413"/>
+    <Box sX="0.201802" sY="0.044551" sZ="0.077659" angle="90" ax="0" ay="0" az="1" tx="-0.239551" ty="0" tz="-0.635273"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="180" ax="1" ay="0" az="0" tx="0.033199" ty="-0.273255" tz="-0.611413"/>
+    <Box sX="0.15746" sY="0.36" sZ="0.1675" angle="0" ax="0" ay="1" az="0" tx="0.41246" ty="0" tz="0.6225"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="0" ax="0" ay="1" az="0" tx="0.033199" ty="0.273255" tz="0.611413"/>
+    <Box sX="0.201802" sY="0.044551" sZ="0.077659" angle="90" ax="0" ay="0" az="1" tx="-0.239551" ty="0" tz="0.635273"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="0" ax="0" ay="1" az="0" tx="0.033199" ty="-0.273255" tz="0.611413"/>
+    <Box sX="0.076008" sY="0.071049" sZ="0.79" angle="90" ax="0" ay="0" az="1" tx="1.42895" ty="0.176008" tz="0"/>
+    <Box sX="0.105215" sY="0.141143" sZ="0.79" angle="90" ax="0" ay="0" az="1" tx="1.84114" ty="0.205215" tz="0"/>
+    <Box sX="0.070546" sY="0.074517" sZ="0.79" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="1.42548" ty="-0.170546" tz="0"/>
+    <Box sX="0.105215" sY="0.124681" sZ="0.79" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="1.82468" ty="-0.205215" tz="0"/>
+    <Box sX="0.121485" sY="0.473227" sZ="0.79" angle="38.39616" ax="0" ay="0" az="1" tx="1.81388" ty="0.340968" tz="0"/>
+    <Box sX="0.235914" sY="0.473227" sZ="0.79" angle="113.12049" ax="0" ay="0" az="1" tx="1.12123" ty="0.364272" tz="0"/>
+    <Box sX="0.110688" sY="0.275074" sZ="0.79" angle="180" ax="0.944387" ay="-0.328835" az="0" tx="1.92849" ty="-0.178961" tz="0"/>
+    <Box sX="0.266082" sY="0.380134" sZ="0.513465" angle="180" ax="-0.51889" ay="0.854841" az="0" tx="0.902071" ty="-0.256139" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Ball type="4" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0"/>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="1" ay="0" az="0" tx="1.6" ty="0" tz="-0.8"/>
+    <Hinge type="164" oriented="0" angle="180" ax="0.707107" ay="0" az="0.707107" tx="0" ty="0" tz="0"/>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="-1" ay="0" az="0" tx="1.6" ty="0" tz="0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.645981,0,0,0,1.12517,0,0,0,0.997734" centerOfMass="1.20034,0.066986,0" mass="2.09999990463" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.370001" minY="-0.687315" minZ="-0.8" maxX="2.27471" maxY="0.793317" maxZ="0.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.370001" minY="-0.687315" minZ="-0.8" maxX="2.27471" maxY="0.793317" maxZ="0.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

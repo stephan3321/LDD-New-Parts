@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2920"/>
+    <Annotation designname="COUPLING LEVER"/>
+    <Annotation maingroupid="286"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <DefaultOrientation angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  <Collision>
+    <Box sX="0.09" sY="0.486426" sZ="0.083087" angle="12.61246" ax="1" ay="0" az="0" tx="0.7" ty="-1.04404" tz="-0.816402"/>
+    <Box sX="0.09" sY="0.511754" sZ="0.08396" angle="12.73874" ax="-1" ay="0" az="0" tx="0.7" ty="-1.01786" tz="-0.501501"/>
+    <Box sX="0.14073" sY="0.386528" sZ="0.145" angle="60.68574" ax="0" ay="0" az="1" tx="0.346085" ty="-0.397918" tz="-0.655"/>
+    <Box sX="0.14073" sY="0.386528" sZ="0.145" angle="180" ax="0.863018" ay="-0.505174" az="0" tx="-0.345742" ty="-0.397918" tz="-0.655"/>
+    <Box sX="0.190774" sY="0.384028" sZ="0.145" angle="0" ax="0" ay="1" az="0" tx="0.001282" ty="-0.109797" tz="-0.655"/>
+    <Box sX="0.293359" sY="0.319306" sZ="0.145" angle="90" ax="0" ay="0" az="-1" tx="0.000401" ty="-0.200466" tz="-0.655"/>
+    <Box sX="0.150005" sY="0.156943" sZ="0.24" angle="0" ax="0" ay="1" az="0" tx="-0.002609" ty="0" tz="-0.25"/>
+    <Box sX="0.09" sY="0.486426" sZ="0.083087" angle="12.61246" ax="1" ay="0" az="0" tx="-0.7" ty="-1.04404" tz="-0.816402"/>
+    <Box sX="0.09" sY="0.511754" sZ="0.08396" angle="12.73874" ax="-1" ay="0" az="0" tx="-0.7" ty="-1.01786" tz="-0.501501"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="29" oriented="0" angle="180" ax="0" ay="0.707107" az="0.707107" tx="0" ty="0" tz="-0.34"/>
+    <Hinge type="26" oriented="0" angle="120" ax="0.57735" ay="-0.57735" az="0.57735" tx="0" ty="-1.2295" tz="-0.654"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.120487,0,0,0,0.126004,0,0,0,0.217461" centerOfMass="0,-0.583186,-0.601537" mass="0.472999989986" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.8" minY="-1.55" minZ="-1.025" maxX="0.8" maxY="0.35" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8" minY="-1.55" minZ="-1.025" maxX="0.8" maxY="0.35" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

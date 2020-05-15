@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2638"/>
+    <Annotation designname="CRANE ARM 10M"/>
+    <Annotation maingroupid="276"/>
+    <Annotation maingroupname="CRAINS AND SCAFFOLD"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.78863" sY="0.414059" sZ="0.066302" angle="0" ax="0" ay="1" az="0" tx="1.79863" ty="-0.024059" tz="0.476302"/>
+    <Box sX="1.78863" sY="0.414059" sZ="0.066302" angle="0" ax="0" ay="1" az="0" tx="1.79863" ty="-0.024059" tz="-0.473698"/>
+    <Box sX="1.09631" sY="0.414059" sZ="0.066302" angle="0" ax="0" ay="1" az="0" tx="2.62982" ty="-0.207274" tz="0.476302"/>
+    <Box sX="1.09631" sY="0.414059" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="2.62982" ty="-0.207274" tz="-0.475"/>
+    <Box sX="1.67971" sY="0.414059" sZ="0.066302" angle="3.99998" ax="0" ay="1" az="0" tx="5.28818" ty="-0.024059" tz="0.358247"/>
+    <Box sX="1.67971" sY="0.414059" sZ="0.066302" angle="3.99998" ax="0" ay="-1" az="0" tx="5.27753" ty="-0.024059" tz="-0.356016"/>
+    <Box sX="0.240829" sY="0.414059" sZ="0.069531" angle="0" ax="0" ay="1" az="0" tx="7.17474" ty="-0.024059" tz="0.243794"/>
+    <Box sX="0.240829" sY="0.414059" sZ="0.064578" angle="0" ax="0" ay="1" az="0" tx="7.17474" ty="-0.024059" tz="-0.245422"/>
+    <Box sX="0.311317" sY="0.187574" sZ="0.041877" angle="90" ax="0" ay="1" az="0" tx="7.49688" ty="0.002426" tz="0.002009"/>
+    <Box sX="0.16" sY="0.187574" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="7.2" ty="0.002426" tz="0"/>
+    <Box sX="0.16" sY="0.187574" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="6.802" ty="0.002426" tz="0"/>
+    <Box sX="0.05" sY="0.1125" sZ="0.122827" angle="90" ax="0" ay="1" az="0" tx="6.99552" ty="-0.062149" tz="0"/>
+    <Box sX="0.39" sY="0.142945" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="0.8" ty="0.018296" tz="0"/>
+    <Box sX="0.362803" sY="0.045" sZ="2.39" angle="90" ax="0" ay="1" az="0" tx="3.6" ty="0.345" tz="-0.007576"/>
+    <Box sX="0.275072" sY="0.275514" sZ="0.066302" angle="135" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.473698"/>
+    <Box sX="0.275072" sY="0.275514" sZ="0.066302" angle="135" ax="0" ay="0" az="1" tx="0" ty="0" tz="0.476302"/>
+    <Box sX="0.05" sY="0.445832" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="3.66" ty="-0.165832" tz="-0.425"/>
+    <Box sX="0.05" sY="0.419393" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="1.74" ty="-0.139393" tz="-0.425"/>
+    <Box sX="0.05" sY="0.445832" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="3.66" ty="-0.165832" tz="0.425"/>
+    <Box sX="0.05" sY="0.419393" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="1.74" ty="-0.139393" tz="0.425"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="12" height="2" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0.4" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="2.8" ty="-0.300144" tz="0.4"/>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.675831,0,0,0,13.08978,0,0,0,12.91958" centerOfMass="3.52318,0.008828,1.8E-005" mass="3.32399988174" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.417817" minY="-0.679842" minZ="-0.55" maxX="7.60525" maxY="0.57374" maxZ="0.55"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.417817" minY="-0.679842" minZ="-0.55" maxX="7.60525" maxY="0.57374" maxZ="0.55"/>
+  </GeometryBounding>
+</LEGOPrimitive>

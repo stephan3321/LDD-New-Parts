@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3708"/>
+    <Annotation designname="CROSS AXLE 12M"/>
+    <Annotation maingroupid="385"/>
+    <Annotation maingroupname="CONNECTORS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.215" sY="0.0675" sZ="4.79" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-4.8"/>
+    <Box sX="0.0675" sY="0.215" sZ="4.79" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-4.8"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="9.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="10.63522,0,0,0,10.63522,0,0,0,0.036776" centerOfMass="0,0,-4.8" mass="1.76300001144" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.245" minY="-0.245" minZ="-9.6" maxX="0.245" maxY="0.245" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.245" minY="-0.245" minZ="-9.6" maxX="0.245" maxY="0.245" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

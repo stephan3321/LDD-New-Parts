@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11591"/>
+    <Annotation designname="HEAD, ROBOT NO. 3, 2013"/>
+    <Annotation maingroupid="242"/>
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.23691" sY="0.228834" sZ="0.115098" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.242974" tz="0.717526"/>
+    <Box sX="0.050569" sY="0.312236" sZ="0.156187" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.362926" tz="0.426242"/>
+    <Box sX="0.37759" sY="0.251477" sZ="0.012872" angle="0" ax="0" ay="1" az="0" tx="0.001847" ty="0.687369" tz="-0.330884"/>
+    <Box sX="0.054817" sY="0.165354" sZ="0.53648" angle="26.77852" ax="0.964204" ay="-0.258444" az="-0.059317" tx="-0.297566" ty="0.709659" tz="-0.446263"/>
+    <Box sX="0.054817" sY="0.165354" sZ="0.53648" angle="7.04066" ax="0" ay="-1" az="0" tx="-0.297566" ty="0.960245" tz="-0.469242"/>
+    <Box sX="0.069865" sY="0.320044" sZ="0.148779" angle="31.98769" ax="0" ay="1" az="0" tx="-0.263283" ty="0.334184" tz="0.577845"/>
+    <Box sX="0.020765" sY="0.063315" sZ="0.077612" angle="0" ax="0" ay="1" az="0" tx="-0.61818" ty="0.359721" tz="0.002058"/>
+    <Box sX="0.063265" sY="0.255588" sZ="0.257688" angle="0" ax="0" ay="1" az="0" tx="-0.51415" ty="0.359316" tz="0.00245"/>
+    <Box sX="0.100031" sY="0.320044" sZ="0.351226" angle="0" ax="0" ay="1" az="0" tx="-0.330854" ty="0.346382" tz="0.120281"/>
+    <Box sX="0.091474" sY="0.228834" sZ="0.014797" angle="17.76722" ax="0" ay="1" az="0" tx="-0.104414" ty="0.238834" tz="-0.253839"/>
+    <Box sX="0.136583" sY="0.228834" sZ="0.014797" angle="58.56247" ax="0" ay="1" az="0" tx="-0.263911" ty="0.238834" tz="-0.108489"/>
+    <Box sX="0.054817" sY="0.165354" sZ="0.53648" angle="173.13799" ax="0.01376" ay="-0.974566" az="-0.223677" tx="0.297139" ty="0.709659" tz="-0.446263"/>
+    <Box sX="0.054817" sY="0.165354" sZ="0.53648" angle="172.95932" ax="0" ay="-1" az="0" tx="0.297139" ty="0.960245" tz="-0.469242"/>
+    <Box sX="0.069865" sY="0.320044" sZ="0.148779" angle="148.01231" ax="0" ay="1" az="0" tx="0.262855" ty="0.334184" tz="0.577845"/>
+    <Box sX="0.020765" sY="0.063315" sZ="0.077612" angle="180" ax="0" ay="1" az="0" tx="0.617753" ty="0.359721" tz="0.002058"/>
+    <Box sX="0.063265" sY="0.255588" sZ="0.257688" angle="180" ax="0" ay="1" az="0" tx="0.513722" ty="0.359316" tz="0.00245"/>
+    <Box sX="0.100031" sY="0.320044" sZ="0.351226" angle="180" ax="0" ay="1" az="0" tx="0.330426" ty="0.346382" tz="0.120281"/>
+    <Box sX="0.091474" sY="0.228834" sZ="0.014797" angle="162.23277" ax="0" ay="1" az="0" tx="0.103987" ty="0.238834" tz="-0.253839"/>
+    <Box sX="0.136583" sY="0.228834" sZ="0.014797" angle="121.43752" ax="0" ay="1" az="0" tx="0.263484" ty="0.238834" tz="-0.108489"/>
+    <Box sX="0.23691" sY="0.401566" sZ="0.049469" angle="47.4561" ax="-1" ay="0" az="0" tx="0" ty="0.866079" tz="0.333717"/>
+    <Box sX="0.23691" sY="0.030659" sZ="0.55077" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.13212" tz="-0.458005"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.418843,0,0,0,0.431027,0,0,0,0.26857" centerOfMass="0,0.610545,-0.084991" mass="1" frictionType="0"/>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2"/>
+  <Bounding>
+    <AABB minX="-0.648946" minY="-0.009599" minZ="-1.01877" maxX="0.648946" maxY="1.23069" maxZ="0.848793"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.648946" minY="-0.009599" minZ="-1.01877" maxX="0.648946" maxY="1.23069" maxZ="0.848793"/>
+  </GeometryBounding>
+</LEGOPrimitive>

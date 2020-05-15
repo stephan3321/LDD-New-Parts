@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="56891"/>
+    <Annotation designname="TYRE BALLOON WIDE Ø 37x18"/>
+    <Annotation maingroupid="266"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="-1.31578" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="93.84096" ax="-0.935113" ay="-0.250563" az="0.250563" tx="0.657889" ty="-1.1395" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="104.4775" ax="-0.774597" ay="-0.447214" az="0.447214" tx="1.1395" ty="-0.657889" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="119.99998" ax="-0.57735" ay="-0.57735" az="0.57735" tx="1.31578" ty="0" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="138.59036" ax="-0.377964" ay="-0.654654" az="0.654654" tx="1.1395" ty="0.657889" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="158.90941" ax="-0.186157" ay="-0.694747" az="0.694747" tx="0.657889" ty="1.1395" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="0" ty="1.31578" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="158.90941" ax="-0.186157" ay="0.694747" az="-0.694747" tx="-0.657889" ty="1.1395" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="138.59036" ax="-0.377964" ay="0.654654" az="-0.654654" tx="-1.1395" ty="0.657889" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="119.99998" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-1.31578" ty="0" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="104.47751" ax="-0.774597" ay="0.447214" az="-0.447214" tx="-1.1395" ty="-0.657889" tz="-1"/>
+    <Box sX="0.496139" sY="0.89" sZ="0.425778" angle="93.84096" ax="-0.935113" ay="0.250563" az="-0.250563" tx="-0.657889" ty="-1.1395" tz="-1"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="32" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.800001"/>
+    <Fixed type="32" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.800001"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="11.13305,0,0,0,11.1404,0,0,0,18.01783" centerOfMass="-1.2E-005,0,-1.05625" mass="9.06000041962" frictionType="1"/>
+  <Bounding>
+    <AABB minX="-1.83601" minY="-1.83601" minZ="-1.9" maxX="1.83601" maxY="1.83601" maxZ="-0.099999"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.83601" minY="-1.83601" minZ="-1.9" maxX="1.83601" maxY="1.83601" maxZ="-0.099999"/>
+  </GeometryBounding>
+</LEGOPrimitive>

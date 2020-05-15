@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="85959;94448"/>
+    <Annotation designname="FLAME 7M SHAFT Ø3,2"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.166001" sY="0.825901" sZ="0.049772" angle="6.66268" ax="0" ay="0" az="1" tx="0.073312" ty="4.51605" tz="-0.000228"/>
+    <Box sX="0.102261" sY="0.31" sZ="0.102261" angle="45" ax="0" ay="1" az="0" tx="0" ty="-0.32" tz="0"/>
+    <Box sX="0.207089" sY="0.837119" sZ="0.088011" angle="7.872" ax="0" ay="0" az="-1" tx="0.104864" ty="2.95294" tz="0.002641"/>
+    <Box sX="0.102982" sY="0.584514" sZ="0.118352" angle="0" ax="0" ay="1" az="0" tx="0.601394" ty="2.35564" tz="0"/>
+    <Box sX="0.138696" sY="0.675575" sZ="0.103797" angle="25.39877" ax="0" ay="0" az="-1" tx="0.408194" ty="0.718717" tz="0"/>
+    <Box sX="0.286724" sY="0.85456" sZ="0.103797" angle="25.39877" ax="0" ay="0" az="-1" tx="0.083794" ty="1.29329" tz="0"/>
+    <Box sX="0.406314" sY="0.740562" sZ="0.097644" angle="18.32657" ax="0" ay="0" az="1" tx="-0.065278" ty="2.29625" tz="-0.000228"/>
+    <Box sX="0.145483" sY="0.715473" sZ="0.09605" angle="7.00048" ax="0" ay="0" az="-1" tx="-0.450705" ty="3.48369" tz="0"/>
+    <Box sX="0.370016" sY="0.472322" sZ="0.103797" angle="27.9058" ax="0" ay="0" az="1" tx="-0.120466" ty="0.727543" tz="0"/>
+    <Box sX="0.132716" sY="0.530193" sZ="0.118352" angle="6.39169" ax="0" ay="0" az="1" tx="-0.606155" ty="1.4935" tz="0"/>
+    <Box sX="0.18525" sY="0.319867" sZ="0.18525" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.329867" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.64" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.64" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="-0.64" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.53332,0,0,0,0.121178,0,0,0,1.64514" centerOfMass="-0.020741,1.78449,0.001071" mass="1.09300005436" frictionType="0"/>
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,0,0"/>
+  <Bounding>
+    <AABB minX="-0.79707" minY="-0.64" minZ="-0.20424" maxX="0.82325" maxY="5.37439" maxZ="0.20424"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.760005" minY="-0.64" minZ="-0.20424" maxX="0.739963" maxY="5.37439" maxZ="0.20424"/>
+  </GeometryBounding>
+</LEGOPrimitive>

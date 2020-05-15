@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30396"/>
+    <Annotation designname="BALL COUPLING FRICTION/FORK"/>
+    <Annotation maingroupid="285"/>
+    <Annotation maingroupname="CONNECTORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.0785" sY="0.228" sZ="0.1503" angle="0" ax="0" ay="1" az="0" tx="0.2535" ty="0.392" tz="0.5523"/>
+    <Box sX="0.0785" sY="0.153737" sZ="0.1503" angle="0" ax="0" ay="1" az="0" tx="0.2535" ty="0.392" tz="0.816111"/>
+    <Box sX="0.0785" sY="0.228" sZ="0.1503" angle="0" ax="0" ay="1" az="0" tx="-0.2535" ty="0.392" tz="0.5523"/>
+    <Box sX="0.0785" sY="0.153737" sZ="0.1503" angle="0" ax="0" ay="1" az="0" tx="-0.2535" ty="0.392" tz="0.816111"/>
+    <Box sX="0.382" sY="0.382" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.392" tz="0.317"/>
+    <Box sX="0.359497" sY="0.382" sZ="0.065" angle="38.52" ax="0" ay="-1" az="0" tx="-0.455918" ty="0.392" tz="0.093697"/>
+    <Box sX="0.359497" sY="0.382" sZ="0.065" angle="141.47998" ax="0" ay="-1" az="0" tx="0.455918" ty="0.392" tz="0.093697"/>
+    <Box sX="0.14" sY="0.232" sZ="0.15" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.392" tz="0.082"/>
+    <Box sX="0.782" sY="0.036" sZ="0.151" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.738" tz="-0.239"/>
+    <Box sX="0.382" sY="0.036" sZ="0.546" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.738" tz="-0.164"/>
+    <Box sX="0.246124" sY="0.036" sZ="0.170061" angle="38.82012" ax="0" ay="-1" az="0" tx="0.479573" ty="0.738" tz="-0.42027"/>
+    <Box sX="0.246124" sY="0.036" sZ="0.170061" angle="141.17989" ax="0" ay="-1" az="0" tx="-0.479573" ty="0.738" tz="-0.42027"/>
+    <Box sX="0.782" sY="0.036" sZ="0.151" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.046" tz="-0.239"/>
+    <Box sX="0.246124" sY="0.036" sZ="0.170061" angle="180" ax="0.332327" ay="0" az="0.943164" tx="-0.479573" ty="0.046" tz="-0.42027"/>
+    <Box sX="0.382" sY="0.036" sZ="0.546" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.046" tz="-0.164"/>
+    <Box sX="0.246124" sY="0.036" sZ="0.170061" angle="180" ax="0.943164" ay="0" az="0.332327" tx="0.479573" ty="0.046" tz="-0.42027"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.784" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Ball type="2" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.384" tz="-0.41"/>
+    <Hinge type="2" oriented="0" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="-0.005" ty="0.384" tz="0.792" LimMin="-1.57079637051" LimMax="1.57079637051" FlipLimMin="-1.57079637051" FlipLimMax="1.57079637051" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.157129,0,0,0,0.202005,0,0,0,0.15134" centerOfMass="0,0.392003,0.043211" mass="0.800000011921" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.792" minY="-0.178" minZ="-0.72" maxX="0.792" maxY="0.962" maxZ="1.0478"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.792" minY="-0.178" minZ="-0.72" maxX="0.792" maxY="0.962" maxZ="1.0478"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="90195"/>
+    <Annotation designname="WALL 1X2X2 W. BOWED SLIT"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.0495" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="1.8595" tz="0"/>
+    <Box sX="0.031422" sY="0.79" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="1.15858" ty="1.12" tz="0.25"/>
+    <Box sX="0.031566" sY="0.79" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="-0.358434" ty="1.12" tz="0.25"/>
+    <Box sX="0.03325" sY="0.79" sZ="0.185" angle="90" ax="0" ay="-1" az="0" tx="-0.205" ty="1.12" tz="0.35675"/>
+    <Box sX="0.03325" sY="0.79" sZ="0.185" angle="90" ax="0" ay="-1" az="0" tx="1.005" ty="1.12" tz="0.35675"/>
+    <Box sX="0.79" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0"/>
+    <Box sX="0.171014" sY="0.097875" sZ="0.0435" angle="43.26837" ax="0" ay="0" az="-1" tx="0.763633" ty="1.71236" tz="0.3465"/>
+    <Box sX="0.171014" sY="0.097875" sZ="0.0435" angle="180" ax="-0.368679" ay="0.929557" az="0" tx="0.036367" ty="1.71236" tz="0.3465"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,15:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Fixed type="56" axes="2" angle="180" ax="1" ay="0" az="0" tx="-0.16" ty="1.81" tz="0.205"/>
+    <Fixed type="56" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.16" ty="0.31" tz="0.205"/>
+    <Fixed type="56" axes="2" angle="180" ax="0" ay="0" az="1" tx="0.96" ty="1.81" tz="0.205"/>
+    <Fixed type="56" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.96" ty="0.31" tz="0.205"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.412724,0,0,0,0.226288,0,0,0,0.555701" centerOfMass="0.399966,0.937249,0.083965" mass="0.800000011921" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="2.097" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="2.097" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

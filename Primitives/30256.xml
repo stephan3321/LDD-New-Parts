@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30256"/>
+    <Annotation designname="STANDARD WITH FOOT 2X2X5"/>
+    <Annotation maingroupid="236"/>
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.15" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="-0.4"/>
+    <Box sX="0.103137" sY="2.141" sZ="0.103137" angle="45" ax="0" ay="1" az="0" tx="0.4" ty="2.649" tz="-0.4"/>
+    <Box sX="0.163241" sY="0.079" sZ="0.163241" angle="45" ax="0" ay="1" az="0" tx="0.4" ty="0.409" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="7" length="4.48" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.32" tz="-0.4"/>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="0" ty="4.8" tz="-0.8">
+      29:0,29:0,29:0,
+      29:0,0:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.32319,0,0,0,0.258327,0,0,0,2.32319" centerOfMass="0.4,1.29591,-0.4" mass="1.05999994278" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="4.978" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="4.978" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

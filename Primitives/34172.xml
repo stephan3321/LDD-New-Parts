@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="34172"/>
+    <Annotation designname="KITCHEN EQUIPMENT, NO. 5"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.220821" sY="0.151631" sZ="0.220821" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.161631" tz="0"/>
+    <Box sX="0.018265" sY="0.133043" sZ="0.220821" angle="65.23652" ax="-0.291717" ay="-0.647233" az="0.704266" tx="-0.232358" ty="0.309756" tz="-0.232358"/>
+    <Box sX="0.018265" sY="0.114351" sZ="0.220821" angle="48.49944" ax="-0.1504" ay="-0.919532" az="0.363099" tx="-0.330447" ty="0.510195" tz="-0.330447"/>
+    <Box sX="0.018265" sY="0.133043" sZ="0.220821" angle="50.65469" ax="0.125375" ay="0.278169" az="0.952315" tx="-0.317407" ty="0.309756" tz="0.085049"/>
+    <Box sX="0.018265" sY="0.114351" sZ="0.220821" angle="23.83645" ax="0.102022" ay="0.623752" az="0.774935" tx="-0.451399" ty="0.510195" tz="0.120952"/>
+    <Box sX="0.018265" sY="0.133043" sZ="0.220821" angle="87.34763" ax="0.362237" ay="0.803697" az="0.472076" tx="-0.085049" ty="0.309756" tz="0.317407"/>
+    <Box sX="0.018265" sY="0.114351" sZ="0.220821" angle="76.93713" ax="0.15796" ay="0.965749" az="0.205857" tx="-0.120952" ty="0.510195" tz="0.451399"/>
+    <Box sX="0.018265" sY="0.133043" sZ="0.220821" angle="139.16185" ax="0.40508" ay="0.898753" az="0.16779" tx="0.232358" ty="0.309756" tz="0.232358"/>
+    <Box sX="0.018265" sY="0.114351" sZ="0.220821" angle="135.62175" ax="0.161057" ay="0.984688" az="0.066712" tx="0.330447" ty="0.510195" tz="0.330447"/>
+    <Box sX="0.018265" sY="0.133043" sZ="0.220821" angle="166.33147" ax="-0.410305" ay="-0.910347" az="0.054018" tx="0.317407" ty="0.309756" tz="-0.085049"/>
+    <Box sX="0.018265" sY="0.114351" sZ="0.220821" angle="165.19781" ax="-0.161381" ay="-0.986664" az="0.021246" tx="0.451399" ty="0.510195" tz="-0.120952"/>
+    <Box sX="0.018265" sY="0.133043" sZ="0.220821" angle="112.57934" ax="-0.391887" ay="-0.869483" az="0.300706" tx="0.085049" ty="0.309756" tz="-0.317407"/>
+    <Box sX="0.018265" sY="0.114351" sZ="0.220821" angle="106.14867" ax="-0.160193" ay="-0.979402" az="0.12292" tx="0.120952" ty="0.510195" tz="-0.451399"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.142176,0,0,0,0.216086,0,0,0,0.142176" centerOfMass="0,0.32,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.569324" minY="0" minZ="-0.569323" maxX="0.569323" maxY="0.64" maxZ="0.569324"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.569324" minY="0" minZ="-0.569323" maxX="0.569323" maxY="0.64" maxZ="0.569324"/>
+  </GeometryBounding>
+</LEGOPrimitive>

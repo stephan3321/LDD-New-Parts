@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6128"/>
+    <Annotation designname="DRAGON&apos;S ARM, LEFT"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.143797" sY="0.15297" sZ="0.30625" angle="180" ax="-0.461749" ay="0.887011" az="0" tx="-0.000954" ty="0.001323" tz="-0.265701"/>
+    <Box sX="0.36304" sY="0.921328" sZ="0.215" angle="180" ax="0.849768" ay="0.527157" az="0" tx="0.651969" ty="-0.327595" tz="-0.886951"/>
+    <Box sX="0.887733" sY="0.31163" sZ="0.140273" angle="180" ax="0.927184" ay="0.374607" az="0" tx="1.77964" ty="-0.569136" tz="-0.812224"/>
+    <Box sX="0.098864" sY="0.328572" sZ="0.207408" angle="180" ax="0.927184" ay="0.374607" az="0" tx="2.74511" ty="0.337477" tz="-0.812778"/>
+    <Box sX="0.179398" sY="0.328572" sZ="0.168599" angle="180" ax="0.910905" ay="-0.412616" az="0" tx="2.37075" ty="0.179051" tz="-0.81341"/>
+    <Box sX="0.47929" sY="0.328572" sZ="0.14" angle="180" ax="0.957114" ay="-0.289712" az="0" tx="0.557614" ty="-0.860035" tz="-0.811951"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.138049"/>
+    <Axel type="6" length="0.18" grabbing="1" startCapped="0" endCapped="0" angle="148.60028" ax="-0.281085" ay="0.678598" az="-0.678598" tx="2.7" ty="0" tz="-0.721951"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.195317,0,0,0,0.789762,0,0,0,0.927623" centerOfMass="0.94631,-0.281576,-0.82485" mass="1.04200005531" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.412174" minY="-1.40997" minZ="-1.11223" maxX="3.04447" maxY="0.642508" maxZ="0.138049"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.412174" minY="-1.35688" minZ="-1.11223" maxX="2.95813" maxY="0.574928" maxZ="0.050549"/>
+  </GeometryBounding>
+</LEGOPrimitive>

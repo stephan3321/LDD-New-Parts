@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="13753"/>
+    <Annotation designname="MINI FIGURE WIG NO. 57"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.465266" sY="0.130395" sZ="0.422039" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.140395" tz="-0.08004"/>
+    <Box sX="0.265265" sY="0.130395" sZ="0.038675" angle="46.54308" ax="-1" ay="0" az="0" tx="0" ty="0.108451" tz="0.361203"/>
+    <Box sX="0.381039" sY="0.389451" sZ="0.038675" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.377802" tz="-0.575885"/>
+    <Box sX="0.2078" sY="0.327222" sZ="0.029375" angle="110.30237" ax="0.411113" ay="-0.910322" az="-0.047961" tx="0.484493" ty="-0.087739" tz="0.190236"/>
+    <Box sX="0.381039" sY="0.327222" sZ="0.038675" angle="54.87795" ax="0" ay="-1" az="0" tx="0.479807" ty="-0.315573" tz="-0.318986"/>
+    <Box sX="0.2078" sY="0.327222" sZ="0.029375" angle="83.32604" ax="0.05921" ay="-0.859593" az="-0.507538" tx="-0.484493" ty="-0.087739" tz="0.190236"/>
+    <Box sX="0.381039" sY="0.327222" sZ="0.038675" angle="125.12204" ax="0" ay="-1" az="0" tx="-0.479807" ty="-0.315573" tz="-0.318986"/>
+    <Box sX="0.103386" sY="0.614633" sZ="0.085068" angle="180" ax="-0.040519" ay="0.999179" az="0" tx="0.467794" ty="-1.54555" tz="0.495606"/>
+    <Box sX="0.165467" sY="0.306344" sZ="0.054863" angle="124.86632" ax="-0.265589" ay="-0.895453" az="0.357249" tx="0.630896" ty="-0.681812" tz="0.131814"/>
+    <Box sX="0.103386" sY="0.614633" sZ="0.085068" angle="4.64444" ax="0" ay="0" az="-1" tx="-0.467794" ty="-1.54555" tz="0.495606"/>
+    <Box sX="0.165467" sY="0.306344" sZ="0.054863" angle="74.91708" ax="-0.520713" ay="-0.760922" az="0.387112" tx="-0.630896" ty="-0.681812" tz="0.131814"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.696237,0,0,0,0.355569,0,0,0,0.746624" centerOfMass="0,-0.921821,-0.014602" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.780342" minY="-2.1989" minZ="-0.691191" maxX="0.780342" maxY="0.355262" maxZ="0.661987"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.75763" minY="-2.1989" minZ="-0.691191" maxX="0.753601" maxY="0.355262" maxZ="0.661987"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32053"/>
+    <Annotation designname="COUPLING DRUM"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.064006" sZ="0.064705" angle="90" ax="0" ay="-1" az="0" tx="-0.164705" ty="0.164006" tz="-0.4"/>
+    <Box sX="0.39" sY="0.064006" sZ="0.064705" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="0.164006" ty="0.164705" tz="-0.4"/>
+    <Box sX="0.39" sY="0.064006" sZ="0.064705" angle="180" ax="0.707107" ay="0" az="0.707107" tx="0.164705" ty="-0.164006" tz="-0.4"/>
+    <Box sX="0.39" sY="0.064006" sZ="0.064705" angle="120" ax="0.57735" ay="-0.57735" az="0.57735" tx="-0.164006" ty="-0.164705" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="225" oriented="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-0.4"/>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.092614,0,0,0,0.092613,0,0,0,0.07856" centerOfMass="0,0,-0.4" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.343275" minY="-0.343282" minZ="-0.8" maxX="0.343275" maxY="0.343282" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.343275" minY="-0.343282" minZ="-0.8" maxX="0.343275" maxY="0.343282" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

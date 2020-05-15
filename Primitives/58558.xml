@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="58558"/>
+    <Annotation designname="STRING PP 1.3Ø 0.30M BLACK"/>
+    <Annotation maingroupid="290"/>
+    <Annotation maingroupname="RUBBERS AND STRINGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.034483" sY="0.034483" sZ="14.99" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-15"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="29.10335,0,0,0,29.10335,0,0,0,0.000799" centerOfMass="0,0,-15" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.065" minY="-0.065" minZ="-30" maxX="0.065" maxY="0.065" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.065" minY="-0.065" minZ="-30" maxX="0.065" maxY="0.065" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

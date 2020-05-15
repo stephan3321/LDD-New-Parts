@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="64808"/>
+    <Annotation designname="MON CALAMARI HEAD"/>
+    <Annotation maingroupid="242"/>
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.211833" sY="0.708855" sZ="0.040717" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.718855" tz="0.300717"/>
+    <Box sX="0.211833" sY="0.708855" sZ="0.033475" angle="90" ax="0" ay="1" az="0" tx="0.293475" ty="0.718855" tz="0"/>
+    <Box sX="0.211833" sY="0.708855" sZ="0.023377" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.718855" tz="-0.283377"/>
+    <Box sX="0.211833" sY="0.708855" sZ="0.033475" angle="90" ax="0" ay="-1" az="0" tx="-0.293475" ty="0.718855" tz="0"/>
+    <Box sX="0.330199" sY="0.173639" sZ="0.171797" angle="29.30099" ax="-1" ay="0" az="0" tx="0" ty="1.20383" tz="-0.481079"/>
+    <Box sX="0.313956" sY="0.085339" sZ="0.34231" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.40016" tz="-0.052451"/>
+    <Box sX="0.313956" sY="0.262242" sZ="0.34231" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.733163" tz="0.604754"/>
+    <Box sX="0.168759" sY="0.515834" sZ="0.207729" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.748338" tz="0.474157"/>
+    <Box sX="0.066681" sY="0.317205" sZ="0.578904" angle="174.04565" ax="-0.009919" ay="-0.951972" az="-0.306025" tx="-0.347475" ty="0.923067" tz="0.285689"/>
+    <Box sX="0.066681" sY="0.317205" sZ="0.578904" angle="36.13675" ax="0.985361" ay="-0.16746" az="0.031938" tx="0.347475" ty="0.923067" tz="0.285689"/>
+    <Box sX="0.745035" sY="0.154437" sZ="0.138593" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.841443" tz="0.402222"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.446316,0,0,0,0.350444,0,0,0,0.354092" centerOfMass="0,0.841384,0.187651" mass="1.5" frictionType="0"/>
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,0,0,0"/>
+  <Bounding>
+    <AABB minX="-0.786716" minY="0" minZ="-0.759452" maxX="0.786716" maxY="1.67528" maxZ="1.10379"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.786716" minY="0" minZ="-0.759452" maxX="0.786716" maxY="1.67528" maxZ="1.10379"/>
+  </GeometryBounding>
+</LEGOPrimitive>

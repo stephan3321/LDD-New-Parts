@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32068"/>
+    <Annotation designname="TECHNIC STEERING-GEAR 3M"/>
+    <Annotation maingroupid="372"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.4825" sY="0.04" sZ="0.37" angle="0" ax="0" ay="1" az="0" tx="0.7375" ty="0" tz="-0.4"/>
+    <Box sX="0.0675" sY="0.0675" sZ="0.37" angle="0" ax="0" ay="1" az="0" tx="-0.1675" ty="0.1675" tz="-0.4"/>
+    <Box sX="0.0675" sY="0.0675" sZ="0.37" angle="0" ax="0" ay="1" az="0" tx="-0.1675" ty="-0.1675" tz="-0.4"/>
+    <Box sX="0.689928" sY="0.36" sZ="0.025" angle="0" ax="0" ay="1" az="0" tx="0.944928" ty="0" tz="-0.745"/>
+    <Box sX="0.194878" sY="0.115" sZ="0.0525" angle="0" ax="0" ay="1" az="0" tx="1.6" ty="0" tz="0.0625"/>
+    <Box sX="0.194878" sY="0.115" sZ="0.0525" angle="0" ax="0" ay="1" az="0" tx="1.6" ty="0" tz="-0.8625"/>
+    <Box sX="0.689928" sY="0.36" sZ="0.025" angle="0" ax="0" ay="1" az="0" tx="0.944928" ty="0" tz="-0.055"/>
+    <Box sX="0.39" sY="0.008662" sZ="0.098004" angle="98.42105" ax="0.357407" ay="-0.357407" az="-0.862856" tx="1.8324" ty="0" tz="-0.167601"/>
+    <Box sX="0.39" sY="0.008662" sZ="0.098004" angle="98.42105" ax="-0.357407" ay="0.357407" az="-0.862856" tx="1.8324" ty="0" tz="-0.632399"/>
+    <Box sX="0.39" sY="0.008662" sZ="0.098004" angle="90" ax="0" ay="0" az="-1" tx="1.92866" ty="0" tz="-0.4"/>
+    <Box sX="0.020318" sY="0.190686" sZ="0.37" angle="0" ax="0" ay="1" az="0" tx="-0.275318" ty="0" tz="-0.4"/>
+    <Box sX="0.020318" sY="0.212835" sZ="0.37" angle="90" ax="0" ay="0" az="-1" tx="0.022165" ty="0.275334" tz="-0.4"/>
+    <Box sX="0.020318" sY="0.212835" sZ="0.37" angle="90" ax="0" ay="0" az="1" tx="0.022165" ty="-0.275334" tz="-0.4"/>
+    <Box sX="0.224731" sY="0.02" sZ="0.31" angle="90" ax="1" ay="0" az="0" tx="1.55741" ty="0" tz="-0.68"/>
+    <Box sX="0.224731" sY="0.02" sZ="0.31" angle="90" ax="1" ay="0" az="0" tx="1.55741" ty="0" tz="-0.12"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="1.6" ty="-0.4" tz="-0.4"/>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="1.2" ty="0.4" tz="0">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="-0.4" tz="-0.8">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="167" oriented="0" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.6" ty="0" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.070085,0,0,0,0.311406,0,0,0,0.282733" centerOfMass="1.00216,0.004647,-0.395856" mass="0.726999998093" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.37" minY="-0.4" minZ="-0.925" maxX="2" maxY="0.4" maxZ="0.125"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.4" minZ="-0.925" maxX="1.97004" maxY="0.4" maxZ="0.125"/>
+  </GeometryBounding>
+</LEGOPrimitive>

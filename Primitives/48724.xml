@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="48724"/>
+    <Annotation designname="ANGLE PLATE W/SNAP"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.05" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.06" tz="-0.325"/>
+    <Box sX="0.148606" sY="0.148606" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.4" tz="0.92"/>
+    <Box sX="0.065" sY="0.05" sZ="0.45" angle="0" ax="0" ay="1" az="0" tx="-0.325" ty="0.06" tz="0.06"/>
+    <Box sX="0.065" sY="0.05" sZ="0.45" angle="0" ax="0" ay="1" az="0" tx="0.325" ty="0.06" tz="0.06"/>
+    <Box sX="0.53" sY="0.39" sZ="0.05" angle="90" ax="0" ay="0" az="-1" tx="0" ty="-0.42" tz="0.46"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="1" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="-0.4" tz="0.52"/>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0.12" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.054202,0,0,0,0.044468,0,0,0,0.031642" centerOfMass="0,-0.30532,0.50049" mass="0.300000011921" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.96" minZ="-0.4" maxX="0.4" maxY="0.12" maxZ="1.32"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-0.96" minZ="-0.4" maxX="0.4" maxY="0.12" maxZ="1.32"/>
+  </GeometryBounding>
+</LEGOPrimitive>

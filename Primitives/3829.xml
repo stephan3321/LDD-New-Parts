@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3829"/>
+    <Annotation designname="WHEEL CONSOLE"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.38" sY="0.47" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.8" tz="-0.325"/>
+    <Box sX="0.104438" sY="0.47" sZ="0.062185" angle="0" ax="0" ay="1" az="0" tx="0.388299" ty="0.8" tz="-0.207815"/>
+    <Box sX="0.093155" sY="0.093165" sZ="0.135007" angle="34.97033" ax="-1" ay="0" az="0" tx="0.401148" ty="1.29524" tz="-0.113665"/>
+    <Box sX="0.79" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="41" oriented="1" angle="124.99999" ax="-1" ay="0" az="0" tx="0.4" ty="1.29923" tz="-0.111104"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.095266,0,0,0,0.102977,0,0,0,0.141389" centerOfMass="0.4,0.434389,-0.101149" mass="0.460000008345" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.400008" maxX="1.2" maxY="1.51504" maxZ="0.4008"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.400008" maxX="1.2" maxY="1.51504" maxZ="0.4008"/>
+  </GeometryBounding>
+</LEGOPrimitive>

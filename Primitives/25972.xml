@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25972"/>
+    <Annotation designname="MINI WIG NO. 119"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="0.152621" sZ="0.49" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.16262" tz="0"/>
+    <Box sX="0.1813" sY="0.095579" sZ="0.040023" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.002036" tz="0.576388"/>
+    <Box sX="0.320053" sY="0.157199" sZ="0.026415" angle="121.46429" ax="-0.208088" ay="0.970704" az="-0.120139" tx="-0.510201" ty="-0.007584" tz="0.241867"/>
+    <Box sX="0.287359" sY="0.277933" sZ="0.078654" angle="62.81808" ax="-0.162788" ay="0.945516" az="-0.281957" tx="-0.500243" ty="-0.205183" tz="-0.333881"/>
+    <Box sX="0.320053" sY="0.157199" sZ="0.026415" angle="64.27207" ax="-0.197023" ay="0.91909" az="-0.341254" tx="0.510201" ty="-0.007584" tz="0.241867"/>
+    <Box sX="0.287359" sY="0.277933" sZ="0.078654" angle="120.95698" ax="-0.168864" ay="0.980806" az="-0.097494" tx="0.500243" ty="-0.205183" tz="-0.333881"/>
+    <Box sX="0.287359" sY="0.391692" sZ="0.071226" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.294077" tz="-0.607591"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.273427,0,0,0,0.348942,0,0,0,0.299726" centerOfMass="0,-0.171419,-0.065474" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.75024" minY="-0.751346" minZ="-0.76115" maxX="0.75024" maxY="0.408509" maxZ="0.630202"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.655923" minY="-0.751346" minZ="-0.76115" maxX="0.668473" maxY="0.408509" maxZ="0.630202"/>
+  </GeometryBounding>
+</LEGOPrimitive>

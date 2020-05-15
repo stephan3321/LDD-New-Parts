@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="16957"/>
+    <Annotation designname="CREATURE NO. 18"/>
+    <Annotation maingroupid="242"/>
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.1433" sY="0.547303" sZ="0.017676" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.557303" tz="0.275858"/>
+    <Box sX="0.1433" sY="0.547303" sZ="0.017676" angle="60" ax="0" ay="1" az="0" tx="0.2389" ty="0.557303" tz="0.137929"/>
+    <Box sX="0.1433" sY="0.547303" sZ="0.017676" angle="120" ax="0" ay="1" az="0" tx="0.2389" ty="0.557303" tz="-0.137929"/>
+    <Box sX="0.1433" sY="0.547303" sZ="0.017676" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.557303" tz="-0.275858"/>
+    <Box sX="0.1433" sY="0.547303" sZ="0.017676" angle="120" ax="0" ay="-1" az="0" tx="-0.2389" ty="0.557303" tz="-0.137929"/>
+    <Box sX="0.1433" sY="0.547303" sZ="0.017676" angle="60" ax="0" ay="-1" az="0" tx="-0.2389" ty="0.557303" tz="0.137929"/>
+    <Box sX="0.306491" sY="0.035724" sZ="0.405469" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.13432" tz="-0.004145"/>
+    <Box sX="0.170777" sY="0.157432" sZ="0.211897" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.706073" tz="-0.470079"/>
+    <Box sX="0.270923" sY="0.481001" sZ="0.135572" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.603413" tz="0.393755"/>
+    <Box sX="0.13755" sY="0.164115" sZ="0.135572" angle="18.43746" ax="1" ay="0" az="0" tx="0" ty="0.292047" tz="0.577949"/>
+    <Box sX="0.369687" sY="0.432933" sZ="0.087023" angle="90" ax="0" ay="-1" az="0" tx="0.345206" ty="0.65148" tz="0"/>
+    <Box sX="0.369687" sY="0.432933" sZ="0.087023" angle="90" ax="0" ay="-1" az="0" tx="-0.345206" ty="0.65148" tz="0"/>
+    <Box sX="0.369687" sY="0.421575" sZ="0.131731" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.662839" tz="-0.389914"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.310468,0,0,0,0.278329,0,0,0,0.217993" centerOfMass="-0.036452,0.612534,0.012675" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.564449" minY="0" minZ="-0.733116" maxX="0.491545" maxY="1.22507" maxZ="0.758466"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.564449" minY="0" minZ="-0.733116" maxX="0.491545" maxY="1.22507" maxZ="0.72063"/>
+  </GeometryBounding>
+</LEGOPrimitive>

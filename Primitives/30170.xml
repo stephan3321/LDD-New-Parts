@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30170"/>
+    <Annotation designname="FLYING GOGGLES"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.141842" sY="0.022192" sZ="0.424396" angle="90.43523" ax="0.086827" ay="0.086827" az="0.992433" tx="-0.590436" ty="0.000542" tz="0.35687"/>
+    <Box sX="0.498047" sY="0.147198" sZ="0.044927" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.013079" tz="0.741927"/>
+    <Box sX="0.141842" sY="0.02368" sZ="0.425833" angle="90.43523" ax="-0.086827" ay="-0.086827" az="0.992432" tx="0.591385" ty="-0.000424" tz="0.358507"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="51" oriented="0" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.010799,0,0,0,0.041969,0,0,0,0.034607" centerOfMass="-1.2E-005,0.000637,0.463246" mass="0.159999996424" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.7025" minY="-0.227546" minZ="-0.17" maxX="0.7025" maxY="0.229931" maxZ="0.7995"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7025" minY="-0.227546" minZ="-0.17" maxX="0.7025" maxY="0.229931" maxZ="0.7995"/>
+  </GeometryBounding>
+</LEGOPrimitive>

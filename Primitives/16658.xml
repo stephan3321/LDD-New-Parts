@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="16658"/>
+    <Annotation designname="ANIMAL NO. 15"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="0.158375" sZ="0.500515" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.168375" tz="-0.07276"/>
+    <Box sX="0.209097" sY="0.323535" sZ="0.559531" angle="13.93002" ax="1" ay="0" az="0" tx="0" ty="-0.652052" tz="1.1587"/>
+    <Box sX="0.022025" sY="0.161177" sZ="0.598444" angle="24.90893" ax="0.099894" ay="-0.994248" az="0.038626" tx="0.424501" ty="-0.66374" tz="0.512676"/>
+    <Box sX="0.040561" sY="0.438223" sZ="0.313799" angle="60" ax="0" ay="-1" az="0" tx="0.279057" ty="-0.390375" tz="0.483342"/>
+    <Box sX="0.025243" sY="0.369847" sZ="0.313799" angle="0" ax="0" ay="1" az="0" tx="0.558603" ty="-0.321998" tz="0"/>
+    <Box sX="0.048506" sY="0.369847" sZ="0.319879" angle="60" ax="0" ay="1" az="0" tx="0.277765" ty="-0.321998" tz="-0.493263"/>
+    <Box sX="0.022025" sY="0.161177" sZ="0.598444" angle="155.23663" ax="-0.008528" ay="-0.99972" az="-0.022057" tx="-0.424501" ty="-0.66374" tz="0.512676"/>
+    <Box sX="0.040561" sY="0.438223" sZ="0.313799" angle="120" ax="0" ay="-1" az="0" tx="-0.279057" ty="-0.390375" tz="0.483342"/>
+    <Box sX="0.025243" sY="0.369847" sZ="0.313799" angle="180" ax="0" ay="1" az="0" tx="-0.558603" ty="-0.321998" tz="0"/>
+    <Box sX="0.048506" sY="0.369847" sZ="0.319879" angle="120" ax="0" ay="1" az="0" tx="-0.277765" ty="-0.321998" tz="-0.493263"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.732329,0,0,0,0.698337,0,0,0,0.359722" centerOfMass="0,-0.377464,0.512218" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.698995" minY="-1.14595" minZ="-0.755227" maxX="0.698995" maxY="0.391022" maxZ="1.77966"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.663674" minY="-1.14595" minZ="-0.755227" maxX="0.663674" maxY="0.391022" maxZ="1.64577"/>
+  </GeometryBounding>
+</LEGOPrimitive>

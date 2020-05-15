@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30491"/>
+    <Annotation designname="HOLDER FOR CHAIR Ø20MM"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.389951" sY="0.04" sZ="0.023481" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.85" tz="-0.314904"/>
+    <Box sX="0.389951" sY="0.04" sZ="0.023481" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.85" tz="0.314904"/>
+    <Box sX="0.049264" sY="0.152078" sZ="0.271423" angle="0" ax="0" ay="1" az="0" tx="0.36452" ty="0.96874" tz="0"/>
+    <Box sX="0.055" sY="0.044933" sZ="0.132431" angle="0" ax="0" ay="1" az="0" tx="-0.37" ty="1.36393" tz="0"/>
+    <Box sX="0.055" sY="0.130666" sZ="0.068069" angle="14.89153" ax="-1" ay="0" az="0" tx="-0.37" ty="1.19113" tz="0.181288"/>
+    <Box sX="0.055" sY="0.043758" sZ="0.132431" angle="180" ax="0" ay="1" az="0" tx="0.37" ty="1.36276" tz="0"/>
+    <Box sX="0.119121" sY="0.350247" sZ="0.012442" angle="60" ax="0" ay="1" az="0" tx="-0.174016" ty="0.360247" tz="-0.099662"/>
+    <Box sX="0.119121" sY="0.35036" sZ="0.012442" angle="120" ax="0" ay="1" az="0" tx="-0.174459" ty="0.36036" tz="0.101553"/>
+    <Box sX="0.119121" sY="0.35036" sZ="0.012442" angle="180" ax="0" ay="1" az="0" tx="-0.000424" ty="0.36036" tz="0.202544"/>
+    <Box sX="0.119121" sY="0.35036" sZ="0.012442" angle="120" ax="0" ay="-1" az="0" tx="0.174055" ty="0.36036" tz="0.102321"/>
+    <Box sX="0.119121" sY="0.35036" sZ="0.012442" angle="60" ax="0" ay="-1" az="0" tx="0.174498" ty="0.36036" tz="-0.098894"/>
+    <Box sX="0.119121" sY="0.35036" sZ="0.012442" angle="0" ax="0" ay="1" az="0" tx="0.000463" ty="0.36036" tz="-0.199885"/>
+    <Box sX="0.049264" sY="0.152078" sZ="0.271423" angle="0" ax="0" ay="1" az="0" tx="-0.375362" ty="0.96874" tz="0"/>
+    <Box sX="0.055" sY="0.130666" sZ="0.068069" angle="5.63889" ax="1" ay="0" az="0" tx="-0.37" ty="1.17938" tz="-0.173505"/>
+    <Box sX="0.055" sY="0.130666" sZ="0.068069" angle="5.63889" ax="1" ay="0" az="0" tx="0.37" ty="1.17938" tz="-0.173505"/>
+    <Box sX="0.055" sY="0.130666" sZ="0.068069" angle="14.89153" ax="-1" ay="0" az="0" tx="0.37" ty="1.19113" tz="0.181288"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="112" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="1.22" tz="0"/>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.027627,0,0,0,0.019228,0,0,0,0.035826" centerOfMass="0,0.803189,0" mass="0.20000000298" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.435" minY="0" minZ="-0.35" maxX="0.435" maxY="1.45" maxZ="0.35"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.435" minY="0" minZ="-0.35" maxX="0.435" maxY="1.45" maxZ="0.35"/>
+  </GeometryBounding>
+</LEGOPrimitive>

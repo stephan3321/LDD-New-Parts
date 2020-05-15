@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="16968"/>
+    <Annotation designname="DISK SHOOTER 1 X 4"/>
+    <Annotation maingroupid="286"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.39" sZ="0.47" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="0.48" tz="0"/>
+    <Box sX="0.386717" sY="0.39" sZ="0.47" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.40328" ty="0.48" tz="0"/>
+    <Box sX="1.59" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.16" tz="0"/>
+    <Box sX="1.59" sY="0.39" sZ="0.135" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.815" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,29:0:1,15:4,9:4:1,15:4,29:0:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Fixed type="142" axes="2" angle="180" ax="0" ay="1" az="0" tx="2.2" ty="0.32" tz="0"/>
+    <Fixed type="142" axes="2" angle="0" ax="0" ay="1" az="0" tx="0.2" ty="0.32" tz="0"/>
+    <Fixed type="142" axes="2" angle="90" ax="0" ay="1" az="0" tx="1.2" ty="0.32" tz="1"/>
+    <Fixed type="142" axes="2" angle="90" ax="0" ay="-1" az="0" tx="1.2" ty="0.32" tz="-1"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.441254,0,0,0,1.18667,0,0,0,0.961254" centerOfMass="1.2,0.569,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1" maxX="2.8" maxY="1.138" maxZ="1"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.138" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

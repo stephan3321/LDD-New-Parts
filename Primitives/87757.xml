@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87757"/>
+    <Annotation designname="SQUIDHEAD TOP F.MIN FIG. HEAD"/>
+    <Annotation maingroupid="250"/>
+    <Annotation maingroupname="FIGURE, THEME"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.474012" sY="1.01985" sZ="0.166273" angle="90" ax="0" ay="1" az="0" tx="-0.707524" ty="-0.803367" tz="0"/>
+    <Box sX="0.620608" sY="0.219052" sZ="0.22934" angle="167.17216" ax="-0.112414" ay="-0.702625" az="0.702625" tx="-0.265386" ty="0.543112" tz="0"/>
+    <Box sX="0.449244" sY="1.10878" sZ="0.189792" angle="90" ax="0" ay="-1" az="0" tx="0.731043" ty="-0.899832" tz="-0.004077"/>
+    <Box sX="0.367005" sY="0.404593" sZ="0.094454" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0.2736" tz="-0.029964"/>
+    <Box sX="0.33021" sY="0.57983" sZ="0.04736" angle="29.99999" ax="0" ay="1" az="0" tx="-0.282499" ty="-0.370881" tz="-0.481149"/>
+    <Box sX="0.349052" sY="0.57983" sZ="0.047201" angle="29.99999" ax="0" ay="1" az="0" tx="0.290143" ty="-0.370881" tz="0.510696"/>
+    <Box sX="0.33021" sY="0.57983" sZ="0.04736" angle="29.99999" ax="0" ay="-1" az="0" tx="0.275438" ty="-0.370881" tz="-0.485226"/>
+    <Box sX="0.349052" sY="0.57983" sZ="0.047201" angle="29.99999" ax="0" ay="-1" az="0" tx="-0.297204" ty="-0.370881" tz="0.506619"/>
+    <Box sX="0.621364" sY="0.298775" sZ="0.189792" angle="92.85087" ax="0.21767" ay="-0.951441" az="0.21767" tx="0.781989" ty="-1.53017" tz="-4.4E-005"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="-0.019183" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.914604,0,0,0,0.657874,0,0,0,1.28235" centerOfMass="-0.119711,-0.413777,0.004067" mass="1.79999995232" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.03754" minY="-2.16687" minZ="-0.695749" maxX="1.15469" maxY="0.954632" maxZ="0.735558"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.03754" minY="-2.16687" minZ="-0.695749" maxX="1.15469" maxY="0.940487" maxZ="0.735558"/>
+  </GeometryBounding>
+</LEGOPrimitive>

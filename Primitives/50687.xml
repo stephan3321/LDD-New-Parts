@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="50687"/>
+    <Annotation designname="RAT, SITTING"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.223345" sY="0.93021" sZ="0.223345" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.94021" tz="0"/>
+    <Box sX="0.417511" sY="0.447462" sZ="0.382541" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.667462" tz="-0.061805"/>
+    <Box sX="0.19726" sY="0.340907" sZ="0.19599" angle="90" ax="1" ay="0" az="0" tx="0" ty="1.79985" tz="0.379459"/>
+    <Box sX="0.313102" sY="0.365643" sZ="0.262289" angle="23.86943" ax="1" ay="0" az="0" tx="0" ty="1.4106" tz="-0.118143"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.405593,0,0,0,0.120096,0,0,0,0.377737" centerOfMass="-0.006506,0.96612,-0.029326" mass="0.839999973774" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.562251" minY="0" minZ="-0.63349" maxX="0.481442" maxY="2.04911" maxZ="0.905327"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.562251" minY="0" minZ="-0.63349" maxX="0.481442" maxY="2.04911" maxZ="0.905327"/>
+  </GeometryBounding>
+</LEGOPrimitive>

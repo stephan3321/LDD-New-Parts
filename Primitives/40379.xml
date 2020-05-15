@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="40379"/>
+    <Annotation designname="TIP OF THE TAIL Ø6,47"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.0922" sY="0.186" sZ="0.103573" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="-0.008227" tz="0.196"/>
+    <Box sX="0.188719" sY="0.338983" sZ="0.194218" angle="90.44539" ax="0.992257" ay="-0.087826" az="0.087826" tx="0.038728" ty="0.003193" tz="-0.390446"/>
+    <Box sX="0.176228" sY="0.338983" sZ="0.158794" angle="92.19537" ax="0.962399" ay="-0.192078" az="0.192078" tx="0.195453" ty="-0.001756" tz="-1.03331"/>
+    <Box sX="0.150649" sY="0.338983" sZ="0.144362" angle="95.27839" ax="0.911872" ay="-0.29025" az="0.29025" tx="0.493741" ty="0.000596" tz="-1.62685"/>
+    <Box sX="0.132954" sY="0.338983" sZ="0.128536" angle="99.0787" ax="0.852893" ay="-0.36917" az="0.36917" tx="0.904446" ty="-0.001462" tz="-2.12647"/>
+    <Box sX="0.11722" sY="0.231264" sZ="0.112221" angle="102.43289" ax="0.803548" ay="-0.420898" az="0.420898" tx="1.35063" ty="0.001018" tz="-2.48845"/>
+    <Box sX="0.107059" sY="0.231264" sZ="0.095615" angle="108.18646" ax="0.724059" ay="-0.487718" az="0.487718" tx="1.7729" ty="0.00311" tz="-2.73597"/>
+    <Box sX="0.097203" sY="0.21095" sZ="0.086723" angle="109.17612" ax="0.710976" ay="-0.497249" az="0.497249" tx="2.14694" ty="0.001392" tz="-2.88516"/>
+    <Box sX="0.063004" sY="0.069217" sZ="0.055868" angle="109.17612" ax="0.710977" ay="-0.497249" az="0.497249" tx="2.34757" ty="0.001392" tz="-2.95706"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Axel type="7" length="0.349704" requireGrabbing="0" startCapped="0" endCapped="0" angle="132.11479" ax="0.444029" ay="0.633577" az="-0.633577" tx="1.97356" ty="0" tz="-2.82099"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.630126,0,0,0,0.918928,0,0,0,0.313094" centerOfMass="0.528363,2.1E-005,-1.30895" mass="0.600000023842" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.3235" minY="-0.3224" minZ="-3.09836" maxX="2.45622" maxY="0.3233" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3235" minY="-0.3224" minZ="-3.09836" maxX="2.45622" maxY="0.3233" maxZ="0.392"/>
+  </GeometryBounding>
+</LEGOPrimitive>

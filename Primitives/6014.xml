@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6014"/>
+    <Annotation designname="RIM WIDE W. HOLE Ø11"/>
+    <Annotation maingroupid="265"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR SNAP Ø3,2"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.13" sY="0.59" sZ="0.145" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.368481" tz="-0.6"/>
+    <Box sX="0.13" sY="0.575" sZ="0.148316" angle="98.57799" ax="0.86047" ay="0.360272" az="0.360272" tx="-0.250643" ty="0.251962" tz="-0.6"/>
+    <Box sX="0.138439" sY="0.59" sZ="0.145" angle="90" ax="1" ay="0" az="0" tx="-0.358439" ty="0.00124" tz="-0.6"/>
+    <Box sX="0.13" sY="0.575" sZ="0.148316" angle="98.42107" ax="0.862856" ay="-0.357407" az="-0.357407" tx="-0.250643" ty="-0.248508" tz="-0.6"/>
+    <Box sX="0.13" sY="0.59" sZ="0.145" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.368013" tz="-0.6"/>
+    <Box sX="0.13" sY="0.575" sZ="0.148317" angle="98.57799" ax="0.86047" ay="0.360272" az="0.360272" tx="0.246303" ty="-0.253207" tz="-0.6"/>
+    <Box sX="0.139704" sY="0.59" sZ="0.145" angle="90" ax="1" ay="0" az="0" tx="0.359704" ty="0.00124" tz="-0.6"/>
+    <Box sX="0.13" sY="0.575" sZ="0.148317" angle="98.42106" ax="0.862856" ay="-0.357407" az="-0.357407" tx="0.246303" ty="0.255486" tz="-0.6"/>
+    <Box sX="0.265" sY="0.096" sZ="0.265" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.002" tz="-0.744"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="3" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.6"/>
+    <Hinge type="86" oriented="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-0.2"/>
+    <Fixed type="3" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.6"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.102885,0,0,0,0.102876,0,0,0,0.099009" centerOfMass="0,0,-0.556247" mass="0.586000025272" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.55" minY="-0.55" minZ="-1.2" maxX="0.55" maxY="0.55" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.55" minY="-0.55" minZ="-1.2" maxX="0.55" maxY="0.55" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="44572"/>
+    <Annotation designname="WALL ELEMENT W. FORKS"/>
+    <Annotation maingroupid="216"/>
+    <Annotation maingroupname="PLATES, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.045" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0.265" tz="0"/>
+    <Box sX="1.59" sY="0.10606" sZ="0.541725" angle="43.49999" ax="1" ay="0" az="0" tx="1.2" ty="-0.143969" tz="0.720316"/>
+    <Box sX="1.59" sY="0.065" sZ="0.644675" angle="90" ax="1" ay="0" az="0" tx="1.2" ty="-1.09424" tz="1.125"/>
+    <Box sX="0.085" sY="0.160755" sZ="0.327778" angle="90" ax="1" ay="0" az="0" tx="0.145" ty="-2.14778" tz="0.8"/>
+    <Box sX="0.085" sY="0.160755" sZ="0.327778" angle="90" ax="1" ay="0" az="0" tx="0.655" ty="-2.14778" tz="0.8"/>
+    <Box sX="0.085" sY="0.160755" sZ="0.327778" angle="90" ax="1" ay="0" az="0" tx="2.255" ty="-2.14778" tz="0.8"/>
+    <Box sX="0.085" sY="0.160755" sZ="0.327778" angle="90" ax="1" ay="0" az="0" tx="1.745" ty="-2.14778" tz="0.8"/>
+    <Box sX="0.165" sY="0.228" sZ="0.214493" angle="90" ax="1" ay="0" az="0" tx="2.625" ty="-2.09623" tz="0.8"/>
+    <Box sX="0.065" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="2.725" ty="0.16" tz="0"/>
+    <Box sX="1.59" sY="0.15" sZ="0.06989" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0.16" tz="0.32011"/>
+    <Box sX="0.065" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="-0.325" ty="0.16" tz="0"/>
+    <Box sX="0.14" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.16" tz="0"/>
+    <Box sX="0.14" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0.16" tz="0"/>
+    <Box sX="0.14" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="2" ty="0.16" tz="0"/>
+    <Box sX="0.065" sY="0.15" sZ="0.643137" angle="90" ax="1" ay="0" az="0" tx="2.725" ty="-1.09272" tz="1.04"/>
+    <Box sX="0.065" sY="0.15" sZ="0.643137" angle="90" ax="1" ay="0" az="0" tx="-0.325" ty="-1.09272" tz="1.04"/>
+    <Box sX="0.065" sY="0.262022" sZ="0.1695" angle="45" ax="1" ay="0" az="0" tx="2.725" ty="-1.80631" tz="0.881274"/>
+    <Box sX="0.165" sY="0.158538" sZ="0.155943" angle="45" ax="1" ay="0" az="0" tx="2.625" ty="-2.32" tz="0.8"/>
+    <Box sX="0.165" sY="0.228" sZ="0.214493" angle="90" ax="1" ay="0" az="0" tx="-0.225" ty="-2.09623" tz="0.8"/>
+    <Box sX="0.065" sY="0.262022" sZ="0.1695" angle="45" ax="1" ay="0" az="0" tx="-0.325" ty="-1.80631" tz="0.881274"/>
+    <Box sX="0.165" sY="0.158538" sZ="0.155943" angle="45" ax="1" ay="0" az="0" tx="-0.225" ty="-2.32" tz="0.8"/>
+    <Box sX="0.34" sY="0.228" sZ="0.214493" angle="90" ax="1" ay="0" az="0" tx="1.2" ty="-2.09623" tz="0.8"/>
+    <Box sX="0.34" sY="0.158538" sZ="0.155943" angle="45" ax="1" ay="0" az="0" tx="1.2" ty="-2.32" tz="0.8"/>
+    <Box sX="1.59" sY="0.104842" sZ="0.015832" angle="45" ax="1" ay="0" az="0" tx="1.2" ty="-1.80383" tz="1.10108"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,29:0:1,22:2:1,29:0:1,22:2:1,29:0:1,22:2:1,29:0:1,22:1:1,
+      22:2:1,15:4,22:2:1,15:4,22:2:1,15:4,22:2:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="2" oriented="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.4" ty="-2.32" tz="0.8" LimMin="-1.57079637051" LimMax="1.57079637051" FlipLimMin="-1.57079637051" FlipLimMax="1.57079637051" />
+    <Hinge type="2" oriented="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="2" ty="-2.32" tz="0.8" LimMin="-1.57079637051" LimMax="1.57079637051" FlipLimMin="-1.57079637051" FlipLimMax="1.57079637051" />
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.30507,0,0,0,2.49205,0,0,0,3.89342" centerOfMass="1.19994,-0.787924,0.730398" mass="2.75" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-2.56984" minZ="-0.4" maxX="2.8" maxY="0.498" maxZ="1.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-2.56984" minZ="-0.4" maxX="2.8" maxY="0.498" maxZ="1.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

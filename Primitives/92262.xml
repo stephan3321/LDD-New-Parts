@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92262"/>
+    <Annotation designname="LEFT DOOR W/KNOB HINGE 1X3X2"/>
+    <Annotation maingroupid="226"/>
+    <Annotation maingroupname="GATES AND ROOFS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.99" sY="0.95" sZ="0.055" angle="0" ax="0" ay="1" az="0" tx="1" ty="0.96" tz="0.327"/>
+    <Box sX="0.06682" sY="0.199918" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="1.63318" ty="0.995721" tz="0.492"/>
+    <Box sX="0.272843" sY="0.15" sZ="0.272843" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.16" tz="0.008"/>
+    <Box sX="0.272843" sY="0.075" sZ="0.272843" angle="45" ax="0" ay="-1" az="0" tx="0" ty="1.835" tz="0.008"/>
+    <Box sX="0.078205" sY="0.95" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="-0.258205" ty="0.96" tz="0"/>
+    <Box sX="0.037483" sY="0.95" sZ="0.263441" angle="0" ax="0" ay="1" az="0" tx="-0.217483" ty="0.96" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.92" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.38059,0,0,0,0.511188,0,0,0,0.810349" centerOfMass="0.510962,0.97922,0.186558" mass="0.899999976158" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.408" maxX="2" maxY="2.098" maxZ="0.592"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.408" maxX="2" maxY="2.098" maxZ="0.592"/>
+  </GeometryBounding>
+</LEGOPrimitive>

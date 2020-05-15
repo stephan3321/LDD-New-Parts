@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="18396"/>
+    <Annotation designname="FLAME TRIBAL 3.5X12 W/CROSS AXLE"/>
+    <Annotation maingroupid="347"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.21725" sY="0.49" sZ="0.081523" angle="0" ax="0" ay="1" az="0" tx="-0.00826" ty="0.520181" tz="-2.7E-005"/>
+    <Box sX="0.21725" sY="0.49" sZ="0.081523" angle="90" ax="0" ay="1" az="0" tx="-0.00826" ty="0.520181" tz="-2.7E-005"/>
+    <Box sX="0.280361" sY="0.029472" sZ="0.359197" angle="90" ax="0" ay="1" az="0" tx="0.0008" ty="0.839472" tz="0.000299"/>
+    <Box sX="0.208153" sY="0.660507" sZ="0.296559" angle="90" ax="0" ay="1" az="0" tx="0.0008" ty="1.47051" tz="0.000299"/>
+    <Box sX="0.122415" sY="1.06234" sZ="0.408964" angle="121.49635" ax="0.5858" ay="0.560069" az="-0.5858" tx="0.641908" ty="2.52148" tz="0.000299"/>
+    <Box sX="0.122415" sY="1.31381" sZ="0.52336" angle="90.03411" ax="-0.024396" ay="0.999405" az="0.024396" tx="1.28203" ty="3.53802" tz="0.000299"/>
+    <Box sX="0.084692" sY="0.821671" sZ="0.52336" angle="100.62926" ax="0.394625" ay="0.829785" az="-0.394625" tx="-0.030318" ty="4.31491" tz="0.000299"/>
+    <Box sX="0.084692" sY="1.34911" sZ="0.34892" angle="90.0033" ax="-0.007594" ay="0.999942" az="0.007594" tx="-0.171659" ty="5.71583" tz="0.000299"/>
+    <Box sX="0.084692" sY="2.13007" sZ="0.34892" angle="93.83266" ax="-0.250309" ay="0.935249" az="0.250309" tx="0.508901" ty="6.68542" tz="0.000299"/>
+    <Box sX="0.077104" sY="0.670438" sZ="0.211047" angle="92.52754" ax="0.205517" ay="0.956831" az="-0.205517" tx="-0.266733" ty="8.63503" tz="0.000299"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="7.28691,0,0,0,0.738165,0,0,0,7.96875" centerOfMass="0.461472,4.6665,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.997983" minY="0" minZ="-0.29066" maxX="1.92093" maxY="9.333" maxZ="0.29066"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.779911" minY="0.020181" minZ="-0.29066" maxX="1.92093" maxY="9.33015" maxZ="0.29066"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30127"/>
+    <Annotation designname="INDIAN FEATHER WITH HOLDER"/>
+    <Annotation maingroupid="251"/>
+    <Annotation maingroupname="FIGURE, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.184321" sY="0.569074" sZ="0.041785" angle="27.01911" ax="0" ay="0" az="1" tx="-0.254715" ty="0.919392" tz="-0.1924"/>
+    <Box sX="0.184321" sY="0.551102" sZ="0.041785" angle="180" ax="0.233445" ay="0.97237" az="0" tx="0.222865" ty="0.872434" tz="-0.122903"/>
+    <Box sX="0.156973" sY="0.094336" sZ="0.15" angle="180" ax="0" ay="1" az="0" tx="-0.002793" ty="0.262052" tz="-0.16"/>
+    <Box sX="0.139972" sY="0.047832" sZ="0.15" angle="180" ax="0.707107" ay="0.707107" az="0" tx="-0.217259" ty="0.007744" tz="-0.16"/>
+    <Box sX="0.139972" sY="0.047959" sZ="0.15" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.217386" ty="0.007744" tz="-0.16"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.030092,0,0,0,0.010506,0,0,0,0.039384" centerOfMass="0,0.627321,-0.160003" mass="0.170000001788" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.677441" minY="-0.158689" minZ="-0.32" maxX="0.637291" maxY="1.51009" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.602211" minY="-0.158689" minZ="-0.32" maxX="0.602211" maxY="1.49503" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

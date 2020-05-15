@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3581"/>
+    <Annotation designname="SHUTTERHOLDER 1X1X2"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.95" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.96" tz="0"/>
+    <Box sX="0.102766" sY="0.07" sZ="0.102766" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.08" tz="0.52"/>
+    <Box sX="0.102766" sY="0.07" sZ="0.102766" angle="45" ax="0" ay="-1" az="0" tx="0" ty="1.84" tz="0.52"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="76" oriented="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.96" tz="0.52"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.368837,0,0,0,0.120287,0,0,0,0.362199" centerOfMass="0,1.0333,0.015692" mass="0.878000020981" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="2.098" maxZ="0.68"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="2.098" maxZ="0.68"/>
+  </GeometryBounding>
+</LEGOPrimitive>

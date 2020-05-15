@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="10177"/>
+    <Annotation designname="RIGHT MINI FIGURE ROBOT LEG"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.34" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.16" tz="0.05"/>
+    <Box sX="0.26" sY="0.307499" sZ="0.2325" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.637499" tz="-0.0375"/>
+    <Box sX="0.11" sY="0.084791" sZ="0.155503" angle="0" ax="0" ay="1" az="0" tx="0.2" ty="1.3386" tz="0"/>
+    <Box sX="0.309777" sY="0.106574" sZ="0.088291" angle="0" ax="0" ay="1" az="0" tx="0.000223" ty="1.125" tz="-0.231725"/>
+    <Box sX="0.080123" sY="0.084791" sZ="0.155503" angle="0" ax="0" ay="1" az="0" tx="-0.220123" ty="1.3386" tz="0"/>
+    <Box sX="0.084777" sY="0.174339" sZ="0.256151" angle="0" ax="0" ay="1" az="0" tx="-0.224777" ty="1.11203" tz="0"/>
+    <Box sX="0.309777" sY="0.106574" sZ="0.088291" angle="0" ax="0" ay="1" az="0" tx="0.000223" ty="1.125" tz="0.231725"/>
+    <Box sX="0.312903" sY="0.09138" sZ="0.04345" angle="36.10104" ax="1" ay="0" az="0" tx="-0.002903" ty="0.958405" tz="0.226548"/>
+    <Box sX="0.312903" sY="0.043888" sZ="0.091461" angle="53.84579" ax="1" ay="0" az="0" tx="-0.002903" ty="0.958714" tz="-0.226347"/>
+    <Box sX="0.312903" sY="0.006175" sZ="0.073584" angle="127.8994" ax="1" ay="0" az="0" tx="-0.002903" ty="1.29759" tz="-0.265909"/>
+    <Box sX="0.312903" sY="0.006175" sZ="0.073584" angle="52.67406" ax="1" ay="0" az="0" tx="-0.002903" ty="1.2973" tz="0.265253"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="12" oriented="1" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0.2255" ty="1.125" tz="0"/>
+    <Fixed type="55" axes="2" angle="90" ax="0" ay="0" az="1" tx="0.3555" ty="0.32" tz="-0.35"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.24151,0,0,0,0.113542,0,0,0,0.234635" centerOfMass="0,0.737499,0.025" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="1.475" maxZ="0.45"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.35" minY="0" minZ="-0.35" maxX="0.35" maxY="1.475" maxZ="0.45"/>
+  </GeometryBounding>
+</LEGOPrimitive>

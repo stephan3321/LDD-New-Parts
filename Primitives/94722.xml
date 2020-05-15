@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="94722"/>
+    <Annotation designname="M6"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+    <Annotation platformid="0"/>
+    <Annotation platformname="None"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.398421" sY="0.37008" sZ="0.15" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0.38"/>
+    <Box sX="0.300177" sY="0.493196" sZ="0.0725" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.883276" tz="0.3025"/>
+    <Box sX="0.040163" sY="0.046469" sZ="0.1" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.000269" tz="0.11"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.22" requireGrabbing="0" startCapped="1" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.22"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.068841,0,0,0,0.016774,0,0,0,0.081909" centerOfMass="0.010024,-0.333496,0.337427" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.48" minY="-1.43294" minZ="0" maxX="0.489971" maxY="0.48" maxZ="0.54"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.48" minY="-1.43294" minZ="0" maxX="0.489971" maxY="0.48" maxZ="0.54"/>
+  </GeometryBounding>
+</LEGOPrimitive>

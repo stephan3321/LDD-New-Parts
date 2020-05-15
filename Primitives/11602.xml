@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11602"/>
+    <Annotation designname="CAT"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.242423" sY="0.464113" sZ="0.124218" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.66597" tz="0.614222"/>
+    <Box sX="0.242423" sY="0.464113" sZ="0.143822" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.66597" tz="0.166175"/>
+    <Box sX="0.242423" sY="0.200017" sZ="0.212418" angle="15.78428" ax="1" ay="0" az="0" tx="0" ty="1.11556" tz="0.239394"/>
+    <Box sX="0.242423" sY="0.267963" sZ="0.056173" angle="5.27526" ax="1" ay="0" az="0" tx="0" ty="0.613076" tz="0.277691"/>
+    <Box sX="0.317226" sY="0.138535" sZ="0.12664" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.148529" tz="0.379369"/>
+    <Box sX="0.242423" sY="0.344672" sZ="0.03127" angle="70.77561" ax="1" ay="0" az="0" tx="0" ty="0.907356" tz="-0.330603"/>
+    <Box sX="0.311368" sY="0.385809" sZ="0.140595" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.395804" tz="-0.393312"/>
+    <Box sX="0.095158" sY="0.117756" sZ="0.389796" angle="17.83309" ax="-1" ay="0" az="0" tx="0.39858" ty="0.276782" tz="-0.220329"/>
+    <Box sX="0.091863" sY="0.097789" sZ="0.233993" angle="112.50577" ax="-0.46328" ay="-0.806142" az="-0.368111" tx="0.068575" ty="0.437997" tz="-0.642295"/>
+    <Box sX="0.02394" sY="0.292109" sZ="0.389796" angle="0" ax="0" ay="1" az="0" tx="0.27594" ty="0.623685" tz="-0.108138"/>
+    <Box sX="0.119802" sY="0.229338" sZ="0.172237" angle="91.52909" ax="0.257541" ay="-0.952723" az="0.161217" tx="0.553365" ty="1.88732" tz="0.298155"/>
+    <Box sX="0.242423" sY="0.464113" sZ="0.143822" angle="90" ax="0" ay="-1" az="0" tx="0.233824" ty="1.66597" tz="0.4"/>
+    <Box sX="0.063084" sY="0.152707" sZ="0.389796" angle="0" ax="0" ay="1" az="0" tx="0.315084" ty="0.162702" tz="0.05676"/>
+    <Box sX="0.02394" sY="0.292109" sZ="0.389796" angle="180" ax="0" ay="1" az="0" tx="-0.27594" ty="0.623685" tz="-0.108138"/>
+    <Box sX="0.119802" sY="0.229338" sZ="0.172237" angle="93.90472" ax="-0.158061" ay="-0.9546" az="-0.252499" tx="-0.553365" ty="1.88732" tz="0.298155"/>
+    <Box sX="0.242423" sY="0.464113" sZ="0.143822" angle="90" ax="0" ay="-1" az="0" tx="-0.233824" ty="1.66597" tz="0.4"/>
+    <Box sX="0.063084" sY="0.152707" sZ="0.389796" angle="180" ax="0" ay="1" az="0" tx="-0.315084" ty="0.162702" tz="0.05676"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="14" length="0.510185" grabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="1.62989" tz="0.4"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.626465,0,0,0,0.449977,0,0,0,0.613622" centerOfMass="0,1.08865,0.029268" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.809753" minY="0" minZ="-0.803937" maxX="0.809753" maxY="2.1773" maxZ="0.862473"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.72973" minY="0" minZ="-0.803937" maxX="0.72973" maxY="2.14623" maxZ="0.862473"/>
+  </GeometryBounding>
+</LEGOPrimitive>

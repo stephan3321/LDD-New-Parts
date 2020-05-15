@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="20896;55981;57754"/>
+    <Annotation designname="RIM WIDE 18x14 W. HOLE Ø4.8"/>
+    <Annotation maingroupid="266"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="11"/>
+  </Annotations>
+  <DefaultOrientation angle="180" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  <Collision>
+    <Box sX="0.305985" sY="0.69" sZ="0.245361" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.000813" ty="0.565361" tz="-0.8"/>
+    <Box sX="0.305985" sY="0.69" sZ="0.245352" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="-0.000813" ty="-0.565352" tz="-0.799999"/>
+    <Box sX="0.305985" sY="0.69" sZ="0.245361" angle="119.99985" ax="-0.577352" ay="0.577349" az="-0.577349" tx="0.565361" ty="-0.001064" tz="-0.8"/>
+    <Box sX="0.305985" sY="0.69" sZ="0.245363" angle="119.99985" ax="-0.577352" ay="0.577349" az="-0.577349" tx="-0.565363" ty="-0.001065" tz="-0.8"/>
+    <Box sX="0.305985" sY="0.69" sZ="0.245363" angle="148.60008" ax="-0.281087" ay="-0.678598" az="0.678598" tx="0.399197" ty="0.400346" tz="-0.8"/>
+    <Box sX="0.305985" sY="0.69" sZ="0.245361" angle="148.60046" ax="-0.281083" ay="0.678599" az="-0.678599" tx="-0.400345" ty="0.399196" tz="-0.8"/>
+    <Box sX="0.305985" sY="0.69" sZ="0.245362" angle="98.42113" ax="-0.862855" ay="0.357409" az="-0.357408" tx="-0.399197" ty="-0.400346" tz="-0.8"/>
+    <Box sX="0.305986" sY="0.69" sZ="0.245361" angle="98.42094" ax="-0.862858" ay="-0.357405" az="0.357405" tx="0.400345" ty="-0.399196" tz="-0.8"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Fixed type="33" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0.707107" az="0.707107" tx="0.4" ty="-0.4" tz="-1.6">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.614978,0,0,0,0.610495,0,0,0,0.681512" centerOfMass="-0.00769,0,-0.870812" mass="1.79999995232" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.88" minY="-0.88" minZ="-1.6" maxX="0.88" maxY="0.88" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.88" minY="-0.88" minZ="-1.6" maxX="0.88" maxY="0.88" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

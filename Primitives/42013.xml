@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="42013"/>
+    <Annotation designname="SKATE FOR BELVILLE FIGURE"/>
+    <Annotation maingroupid="252"/>
+    <Annotation maingroupname="FIGURE, ACCESSORIES FOR THE UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.638936" sY="0.040007" sZ="0.319579" angle="0" ax="0" ay="1" az="0" tx="0.400376" ty="0.269993" tz="0"/>
+    <Box sX="0.716049" sY="0.09937" sZ="0.059866" angle="0" ax="0" ay="1" az="0" tx="0.477489" ty="0.108607" tz="0.314688"/>
+    <Box sX="0.716049" sY="0.100375" sZ="0.059866" angle="0" ax="0" ay="1" az="0" tx="0.477489" ty="0.109611" tz="-0.314688"/>
+    <Box sX="0.294128" sY="0.081075" sZ="0.059866" angle="22.95358" ax="-0.138102" ay="-0.335306" az="-0.931932" tx="-0.504057" ty="0.19882" tz="0.26844"/>
+    <Box sX="0.295825" sY="0.081075" sZ="0.059866" angle="23.21388" ax="0.153283" ay="0.371052" az="-0.915874" tx="-0.506333" ty="0.199093" tz="-0.262575"/>
+    <Box sX="0.12492" sY="0.062823" sZ="0.130682" angle="66.19445" ax="0" ay="0" az="-1" tx="-0.774047" ty="0.437645" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      29:0:1,15:4,15:4,15:4,29:0:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.018647,0,0,0,0.088727,0,0,0,0.077779" centerOfMass="0.549692,-0.091213,0" mass="0.289999991655" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.881947" minY="-0.000764" minZ="-0.4" maxX="1.20354" maxY="0.609354" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.875016" minY="-0.000764" minZ="-0.384554" maxX="1.20354" maxY="0.609354" maxZ="0.384554"/>
+  </GeometryBounding>
+</LEGOPrimitive>

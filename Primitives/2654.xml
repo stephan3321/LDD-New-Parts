@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2654;54196;93791"/>
+    <Annotation designname="SLIDE SHOE ROUND 2X2"/>
+    <Annotation maingroupid="217"/>
+    <Annotation maingroupname="PLATES, SPECIAL CIRCLES AND ANGLES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.379751" sY="0.006506" sZ="0.152356" angle="180" ax="0.131616" ay="0.991301" az="0" tx="0.019445" ty="-0.190707" tz="-0.394633"/>
+    <Box sX="0.283101" sY="0.005543" sZ="0.300093" angle="135.4126" ax="-0.131421" ay="-0.989831" az="0.054436" tx="0.082617" ty="-0.170845" tz="-0.080499"/>
+    <Box sX="0.283101" sY="0.006111" sZ="0.300093" angle="135.4126" ax="0.131421" ay="0.989831" az="0.054436" tx="0.080395" ty="-0.171393" tz="-0.717488"/>
+    <Box sX="0.283101" sY="0.005615" sZ="0.300093" angle="47.34869" ax="-0.125436" ay="-0.944754" az="0.302829" tx="0.719514" ty="-0.170914" tz="-0.082603"/>
+    <Box sX="0.283101" sY="0.005846" sZ="0.300093" angle="47.34869" ax="0.125436" ay="0.944754" az="0.302829" tx="0.717439" ty="-0.171137" tz="-0.719557"/>
+    <Box sX="0.379751" sY="0.006506" sZ="0.152356" angle="90.99257" ax="-0.130491" ay="-0.982825" az="0.130491" tx="0.405367" ty="-0.190707" tz="-0.019445"/>
+    <Box sX="0.379751" sY="0.006506" sZ="0.152356" angle="15.126" ax="0" ay="0" az="1" tx="0.780555" ty="-0.190707" tz="-0.405367"/>
+    <Box sX="0.379751" sY="0.006506" sZ="0.152356" angle="90.99257" ax="0.130491" ay="0.982825" az="0.130491" tx="0.394633" ty="-0.190707" tz="-0.780555"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      29:0:1,23:4:1,18:2:1,23:4:1,29:0:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      29:0:1,23:4:1,18:2:1,23:4:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.055737,0,0,0,0.102367,0,0,0,0.055759" centerOfMass="0.399993,-0.09096,-0.400041" mass="0.358999997377" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.400188" minY="-0.32" minZ="-1.2" maxX="1.2" maxY="0.178" maxZ="0.400097"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.400188" minY="-0.32" minZ="-1.19997" maxX="1.19988" maxY="0.178" maxZ="0.400097"/>
+  </GeometryBounding>
+</LEGOPrimitive>

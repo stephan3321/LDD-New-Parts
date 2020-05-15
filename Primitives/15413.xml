@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15413"/>
+    <Annotation designname="DÆK 49.53x20 TRUCK"/>
+    <Annotation maingroupid="266"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.806116" sY="0.932524" sZ="0.234992" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="2.0021" tz="0.007524"/>
+    <Box sX="0.806116" sY="0.932524" sZ="0.234992" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="-2.0021" tz="0.007524"/>
+    <Box sX="0.806116" sY="0.932524" sZ="0.234992" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="2.0021" ty="0" tz="0.007524"/>
+    <Box sX="0.806116" sY="0.932524" sZ="0.234992" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-2.0021" ty="0" tz="0.007524"/>
+    <Box sX="0.806116" sY="0.932524" sZ="0.234992" angle="148.60028" ax="-0.281085" ay="-0.678598" az="0.678598" tx="1.41426" ty="1.41219" tz="0.007524"/>
+    <Box sX="0.806116" sY="0.932524" sZ="0.234992" angle="148.60028" ax="-0.281085" ay="0.678598" az="-0.678598" tx="-1.41464" ty="1.41661" tz="0.007524"/>
+    <Box sX="0.806115" sY="0.932524" sZ="0.234993" angle="148.60028" ax="-0.281085" ay="0.678598" az="-0.678598" tx="1.4127" ty="-1.41754" tz="0.007524"/>
+    <Box sX="0.806116" sY="0.932524" sZ="0.234992" angle="148.60028" ax="-0.281085" ay="-0.678598" az="0.678598" tx="-1.4142" ty="-1.41572" tz="0.007524"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="16" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Fixed type="16" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.3144,0,0,0,2.31649,0,0,0,3.96422" centerOfMass="-0.000163,0,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.43932" minY="-2.43787" minZ="-1" maxX="2.43899" maxY="2.43787" maxZ="1"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.43932" minY="-2.43787" minZ="-1" maxX="2.43899" maxY="2.43787" maxZ="1"/>
+  </GeometryBounding>
+</LEGOPrimitive>

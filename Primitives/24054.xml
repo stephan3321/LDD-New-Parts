@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24054"/>
+    <Annotation designname="DOOR W/ BOW 4X72/3, NO. 1"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.3725" sY="2.84582" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="1.66754" ty="2.90582" tz="0"/>
+    <Box sX="0.344759" sY="0.749349" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="2.69528" ty="6.52098" tz="0"/>
+    <Box sX="1.2366" sY="0.593718" sZ="0.14" angle="36.53246" ax="0" ay="0" az="1" tx="1.64609" ty="6.01861" tz="0"/>
+    <Box sX="0.080069" sY="2.545" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0.194973" ty="2.63" tz="0"/>
+    <Box sX="0.096066" sY="0.117499" sZ="0.096066" angle="45" ax="0" ay="-1" az="0" tx="0" ty="5.1325" tz="0"/>
+    <Box sX="0.096066" sY="0.117499" sZ="0.096066" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.127499" tz="0"/>
+    <Box sX="0.096066" sY="2.365" sZ="0.1" angle="0" ax="0" ay="1" az="0" tx="0.046736" ty="2.63" tz="0"/>
+    <Box sX="0.096066" sY="0.117499" sZ="0.096066" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.127499" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="2.25" ty="1.74646" tz="-0.151">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="2.25" ty="2.54646" tz="0.151">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="47" oriented="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="2.63" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="4.60166,0,0,0,0.889217,0,0,0,5.41916" centerOfMass="1.45002,3.659,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.15" minY="-0.042001" minZ="-0.328" maxX="3.05004" maxY="7.36" maxZ="0.328"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.15" minY="-0.042001" minZ="-0.328" maxX="3.05004" maxY="7.36" maxZ="0.328"/>
+  </GeometryBounding>
+</LEGOPrimitive>

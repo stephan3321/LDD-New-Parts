@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3878;88412"/>
+    <Annotation designname="TOP HAT - MINI FIGURE"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="8"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.344574" sY="0.035561" sZ="0.109577" angle="60" ax="0" ay="1" az="0" tx="-0.459333" ty="-0.115973" tz="-0.265196"/>
+    <Box sX="0.374197" sY="0.3175" sZ="0.373097" angle="45" ax="0" ay="1" az="0" tx="0.001091" ty="0.3275" tz="0.00114"/>
+    <Box sX="0.344574" sY="0.035561" sZ="0.109577" angle="120" ax="0" ay="1" az="0" tx="-0.459333" ty="-0.115973" tz="0.265196"/>
+    <Box sX="0.344574" sY="0.035561" sZ="0.109577" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.115973" tz="0.530392"/>
+    <Box sX="0.344574" sY="0.035561" sZ="0.109577" angle="120" ax="0" ay="-1" az="0" tx="0.459333" ty="-0.115973" tz="0.265196"/>
+    <Box sX="0.344574" sY="0.035561" sZ="0.109577" angle="60" ax="0" ay="-1" az="0" tx="0.459333" ty="-0.115973" tz="-0.265196"/>
+    <Box sX="0.344574" sY="0.035561" sZ="0.109577" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.115973" tz="-0.530392"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.106295,0,0,0,0.12976,0,0,0,0.106295" centerOfMass="0,0.218761,0" mass="0.579999983311" frictionType="0"/>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2"/>
+  <Bounding>
+    <AABB minX="-0.8" minY="-0.195" minZ="-0.8" maxX="0.8" maxY="0.655" maxZ="0.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8" minY="-0.195" minZ="-0.8" maxX="0.8" maxY="0.655" maxZ="0.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2549"/>
+    <Annotation designname="SUSPENSION BRIDGE 4X16X3"/>
+    <Annotation maingroupid="235"/>
+    <Annotation maingroupname="FENCES AND LADDERS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="2.74947" sY="0.065294" sZ="0.79" angle="11.11363" ax="0" ay="0" az="-1" tx="3.29321" ty="-1.27947" tz="-1.2"/>
+    <Box sX="0.090001" sY="0.15" sZ="1.59" angle="0" ax="0" ay="1" az="0" tx="0.499999" ty="-0.8" tz="-1.2"/>
+    <Box sX="2.74947" sY="0.065294" sZ="0.79" angle="180" ax="-0.096833" ay="0.995301" az="0" tx="8.70679" ty="-1.27947" tz="-1.2"/>
+    <Box sX="0.090001" sY="0.15" sZ="1.59" angle="180" ax="0" ay="1" az="0" tx="11.5" ty="-0.8" tz="-1.2"/>
+    <Box sX="0.49" sY="0.47" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.1" ty="0.48" tz="0"/>
+    <Box sX="0.090001" sY="0.95" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.499999" ty="0" tz="0"/>
+    <Box sX="2.58281" sY="0.73487" sZ="0.00631" angle="11.11363" ax="0" ay="0" az="-1" tx="3.25874" ty="-0.590329" tz="-0.303513"/>
+    <Box sX="0.49" sY="0.47" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.1" ty="0.48" tz="-2.4"/>
+    <Box sX="0.090001" sY="0.95" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.499999" ty="0" tz="-2.4"/>
+    <Box sX="2.58281" sY="0.73487" sZ="0.00631" angle="11.11363" ax="0" ay="0" az="-1" tx="3.25874" ty="-0.590329" tz="-2.09649"/>
+    <Box sX="0.49" sY="0.47" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="11.9" ty="0.48" tz="0"/>
+    <Box sX="0.090001" sY="0.95" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="11.5" ty="0" tz="0"/>
+    <Box sX="2.58281" sY="0.73487" sZ="0.00631" angle="180" ax="-0.096833" ay="0.995301" az="0" tx="8.74126" ty="-0.590329" tz="-0.303513"/>
+    <Box sX="0.49" sY="0.47" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="11.9" ty="0.48" tz="-2.4"/>
+    <Box sX="0.090001" sY="0.95" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="11.5" ty="0" tz="-2.4"/>
+    <Box sX="2.58281" sY="0.73487" sZ="0.00631" angle="180" ax="-0.096833" ay="0.995301" az="0" tx="8.74126" ty="-0.590329" tz="-2.09649"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="11.6" ty="0.96" tz="-0.4">
+      29:0:1,23:4:1,18:1:1,
+      29:0:1,0:4:1,23:4:1,
+      29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="11.6" ty="0.96" tz="-2.8">
+      29:0:1,23:4:1,18:1:1,
+      29:0:1,0:4:1,23:4:1,
+      29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0.96" tz="0.4">
+      29:0:1,23:4:1,18:1:1,
+      29:0:1,0:4:1,23:4:1,
+      29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0.96" tz="-2">
+      29:0:1,23:4:1,18:1:1,
+      29:0:1,0:4:1,23:4:1,
+      29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="11.6" ty="0" tz="-0.4">
+      29:0:1,22:2:1,22:1:1,
+      29:0:1,15:4:1,22:2:1,
+      29:0:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="11.6" ty="0" tz="-2.8">
+      29:0:1,22:2:1,22:1:1,
+      29:0:1,15:4:1,22:2:1,
+      29:0:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="0.4">
+      29:0:1,22:2:1,22:1:1,
+      29:0:1,15:4:1,22:2:1,
+      29:0:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0" tz="-2">
+      29:0:1,22:2:1,22:1:1,
+      29:0:1,15:4:1,22:2:1,
+      29:0:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="5.2" ty="-1.92" tz="-2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="14.44849,0,0,0,169.19736,0,0,0,167.59558" centerOfMass="6,-0.438846,-1.2" mass="7.89200019836" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-1.92" minZ="-2.8" maxX="12.4" maxY="1.138" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-1.92" minZ="-2.8" maxX="12.4" maxY="1.138" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

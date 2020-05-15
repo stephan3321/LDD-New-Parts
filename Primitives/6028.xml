@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6028"/>
+    <Annotation designname="TAIL"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="11"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.75409" sY="0.579192" sZ="0.405434" angle="0" ax="0" ay="1" az="0" tx="-2.06074" ty="0.779192" tz="-0.20714"/>
+    <Box sX="0.704387" sY="0.397378" sZ="0.296544" angle="8.85326" ax="0" ay="1" az="0" tx="-4.19799" ty="0.425882" tz="-0.609239"/>
+    <Box sX="0.530101" sY="0.397378" sZ="0.063468" angle="8.78635" ax="0" ay="-1" az="0" tx="-2.99045" ty="0.425882" tz="-0.862798"/>
+    <Box sX="0.246763" sY="0.12163" sZ="0.227704" angle="3.47006" ax="0" ay="-1" az="0" tx="-3.22559" ty="0.70163" tz="-0.674999"/>
+    <Box sX="0.643329" sY="0.397378" sZ="0.102483" angle="19.27544" ax="0" ay="-1" az="0" tx="-2.96744" ty="0.425882" tz="-0.229185"/>
+    <Box sX="1.35584" sY="0.44" sZ="0.271465" angle="0" ax="0" ay="1" az="0" tx="-1.80253" ty="0.64" tz="-0.41209"/>
+    <Box sX="0.292728" sY="0.44" sZ="0.505143" angle="0" ax="0" ay="1" az="0" tx="-1.09671" ty="0.64" tz="-0.387453"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.57" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="-3.3204" ty="0" tz="-0.6451"/>
+    <Hinge type="97" oriented="1" angle="0" ax="0" ay="0" az="1" tx="-0.95" ty="0.64" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.321508,0,0,0,1.99643,0,0,0,2.00113" centerOfMass="-2.08386,0.600659,-0.418179" mass="1.70000004768" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-4.93963" minY="0" minZ="-1.03257" maxX="-0.349764" maxY="1.41992" maxZ="0.237131"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-4.87365" minY="0" minZ="-1.03257" maxX="-0.349764" maxY="1.41992" maxZ="0.237131"/>
+  </GeometryBounding>
+</LEGOPrimitive>

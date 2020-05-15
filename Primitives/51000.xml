@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="51000"/>
+    <Annotation designname="PALLET 1.5 MM   5X6 W. FORKS"/>
+    <Annotation maingroupid="236"/>
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.99" sY="0.08" sZ="0.79" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.4" ty="1.6" tz="0"/>
+    <Box sX="1.77885" sY="0.08" sZ="0.79" angle="161.31432" ax="-0.164524" ay="-0.697471" az="0.697471" tx="2.4422" ty="2.48379" tz="0"/>
+    <Box sX="1.77885" sY="0.08" sZ="0.79" angle="161.29802" ax="-0.16467" ay="0.697454" az="-0.697454" tx="2.44223" ty="0.715416" tz="0"/>
+    <Box sX="0.332001" sY="0.08" sZ="0.14" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.502001" ty="0.15" tz="0"/>
+    <Box sX="0.332001" sY="0.08" sZ="0.14" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.502001" ty="3.05" tz="0"/>
+    <Box sX="0.162542" sY="0.043884" sZ="0.14" angle="93.42764" ax="0.941897" ay="-0.237519" az="0.237519" tx="0.222539" ty="0.15" tz="-0.124376"/>
+    <Box sX="0.128426" sY="0.024014" sZ="0.14" angle="172.39355" ax="0.066476" ay="-0.705543" az="0.705543" tx="-0.033456" ty="0.15" tz="-0.194363"/>
+    <Box sX="0.162542" sY="0.043884" sZ="0.14" angle="93.42764" ax="0.941897" ay="-0.237519" az="0.237519" tx="0.222539" ty="3.05" tz="-0.124377"/>
+    <Box sX="0.128426" sY="0.024014" sZ="0.14" angle="172.39355" ax="0.066476" ay="-0.705543" az="0.705543" tx="-0.033456" ty="3.05" tz="-0.194363"/>
+    <Box sX="0.162542" sY="0.043884" sZ="0.14" angle="93.42764" ax="-0.941897" ay="0.237519" az="0.237519" tx="0.222539" ty="0.15" tz="0.124376"/>
+    <Box sX="0.128426" sY="0.024014" sZ="0.14" angle="172.39355" ax="-0.066476" ay="0.705543" az="0.705543" tx="-0.033456" ty="0.15" tz="0.194363"/>
+    <Box sX="0.162542" sY="0.043884" sZ="0.14" angle="93.42764" ax="-0.941897" ay="0.237519" az="0.237519" tx="0.222539" ty="3.05" tz="0.124377"/>
+    <Box sX="0.128426" sY="0.024014" sZ="0.14" angle="172.39355" ax="-0.066476" ay="0.705543" az="0.705543" tx="-0.033456" ty="3.05" tz="0.194363"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.3" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="-1" ay="0" az="0" tx="0" ty="0.3" tz="0"/>
+    <Axel type="6" length="0.3" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="-1" ay="0" az="0" tx="0" ty="3.2" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.96347,0,0,0,3.10785,0,0,0,6.05408" centerOfMass="2.05527,1.6,0" mass="2.94000005722" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.225" minY="-0.8" minZ="-0.263466" maxX="4.4" maxY="4" maxZ="0.263466"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.225" minY="-0.8" minZ="-0.263466" maxX="4.4" maxY="4" maxZ="0.263466"/>
+  </GeometryBounding>
+</LEGOPrimitive>

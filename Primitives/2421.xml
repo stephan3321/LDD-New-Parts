@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2421"/>
+    <Annotation designname="PROPELLER"/>
+    <Annotation maingroupid="275"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, AVIATION"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.1525" sY="0.19" sZ="0.048229" angle="158.90941" ax="-0.186157" ay="0.694747" az="-0.694747" tx="-0.111615" ty="0.193322" tz="-0.2"/>
+    <Box sX="0.1525" sY="0.19" sZ="0.048229" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-0.223229" ty="0" tz="-0.2"/>
+    <Box sX="0.1525" sY="0.19" sZ="0.048229" angle="93.84096" ax="-0.935113" ay="0.250563" az="-0.250563" tx="-0.111615" ty="-0.193322" tz="-0.2"/>
+    <Box sX="0.1525" sY="0.19" sZ="0.048229" angle="93.84097" ax="-0.935113" ay="-0.250563" az="0.250563" tx="0.111615" ty="-0.193322" tz="-0.2"/>
+    <Box sX="0.1525" sY="0.19" sZ="0.048229" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="0.223229" ty="0" tz="-0.2"/>
+    <Box sX="0.1525" sY="0.19" sZ="0.048229" angle="158.90941" ax="-0.186157" ay="-0.694747" az="0.694747" tx="0.111615" ty="0.193322" tz="-0.2"/>
+    <Box sX="0.693912" sY="0.065" sZ="0.235" angle="180" ax="0" ay="-0.608762" az="0.793353" tx="0.876088" ty="0.02776" tz="-0.205145"/>
+    <Box sX="0.693912" sY="0.065" sZ="0.235" angle="93.20367" ax="-0.725578" ay="0.418913" az="-0.545938" tx="-0.462085" ty="0.744835" tz="-0.205145"/>
+    <Box sX="0.693912" sY="0.065" sZ="0.235" angle="93.20367" ax="-0.725578" ay="-0.418913" az="0.545938" tx="-0.414004" ty="-0.772594" tz="-0.205145"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="86" oriented="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-0.2"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.312906,0,0,0,0.242235,0,0,0,0.543941" centerOfMass="0.279904,-0.01388,-0.2" mass="0.419999986887" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.02019" minY="-1.49545" minZ="-0.4" maxX="1.58" maxY="1.46769" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.94709" minY="-1.42264" minZ="-0.4" maxX="1.58" maxY="1.39488" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

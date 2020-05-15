@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="90192"/>
+    <Annotation designname="TWITCH, ANTENNA"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.046956" sY="0.119506" sZ="0.046569" angle="45" ax="0" ay="1" az="0" tx="0.000274" ty="0.129506" tz="-0.000274"/>
+    <Box sX="0.066177" sY="0.202676" sZ="0.067588" angle="90" ax="0" ay="0" az="1" tx="0.560091" ty="0.716706" tz="0"/>
+    <Box sX="0.066177" sY="0.122287" sZ="0.067588" angle="111.43401" ax="0" ay="0" az="1" tx="0.263074" ty="0.679375" tz="0"/>
+    <Box sX="0.066177" sY="0.122287" sZ="0.067588" angle="154.97511" ax="0" ay="0" az="1" tx="0.130536" ty="0.580975" tz="0"/>
+    <Box sX="0.079756" sY="0.1096" sZ="0.067588" angle="161.34985" ax="0" ay="0" az="1" tx="0.037702" ty="0.348363" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.20059" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.001532,0,0,0,0.001827,0,0,0,0.003257" centerOfMass="0.240727,0.502079,-0.000229" mass="0.0299999993294" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.096478" minY="0" minZ="-0.100228" maxX="0.785906" maxY="0.812095" maxZ="0.098466"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.096478" minY="0" minZ="-0.100228" maxX="0.785906" maxY="0.812095" maxZ="0.098466"/>
+  </GeometryBounding>
+</LEGOPrimitive>

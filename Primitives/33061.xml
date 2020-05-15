@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="33061"/>
+    <Annotation designname="DRINKING GLASS"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.310879" sY="0.15044" sZ="0.310879" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.16044" tz="0"/>
+    <Box sX="0.095" sY="0.430556" sZ="0.095" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.761436" tz="0"/>
+    <Box sX="0.013776" sY="0.378324" sZ="0.214908" angle="180" ax="0" ay="1" az="0" tx="0.356036" ty="1.53168" tz="0"/>
+    <Box sX="0.013776" sY="0.378324" sZ="0.214908" angle="120" ax="0" ay="1" az="0" tx="0.178611" ty="1.53168" tz="0.307309"/>
+    <Box sX="0.013776" sY="0.378324" sZ="0.214908" angle="60" ax="0" ay="-1" az="0" tx="-0.176239" ty="1.53168" tz="-0.307309"/>
+    <Box sX="0.013776" sY="0.378324" sZ="0.214908" angle="60" ax="0" ay="1" az="0" tx="-0.176239" ty="1.53168" tz="0.307309"/>
+    <Box sX="0.013776" sY="0.378324" sZ="0.214908" angle="0" ax="0" ay="1" az="0" tx="-0.353664" ty="1.53168" tz="0"/>
+    <Box sX="0.013776" sY="0.378324" sZ="0.214908" angle="120" ax="0" ay="-1" az="0" tx="0.178611" ty="1.53168" tz="-0.307309"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.78" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.32" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.72" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,19:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.17027,0,0,0,0.043062,0,0,0,0.170269" centerOfMass="0,1.043,0" mass="0.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.468389" minY="0" minZ="-0.468389" maxX="0.468389" maxY="1.92" maxZ="0.468389"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.468389" minY="0" minZ="-0.468389" maxX="0.468389" maxY="1.92" maxZ="0.468389"/>
+  </GeometryBounding>
+</LEGOPrimitive>

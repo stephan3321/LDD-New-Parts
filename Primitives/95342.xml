@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="95342"/>
+    <Annotation designname="CHICKEN"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.222916" sY="0.240492" sZ="0.222916" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.249508" tz="0"/>
+    <Box sX="0.456581" sY="0.30136" sZ="0.312183" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.979773" tz="0"/>
+    <Box sX="0.254" sY="0.240492" sZ="0.254" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.468008" tz="0"/>
+    <Box sX="0.456581" sY="0.221488" sZ="0.119094" angle="32.38313" ax="0" ay="0" az="1" tx="0.313569" ty="1.10656" tz="0"/>
+    <Box sX="0.456581" sY="0.221488" sZ="0.119094" angle="106.98856" ax="0" ay="0" az="1" tx="-0.455931" ty="1.28481" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.112677,0,0,0,0.096055,0,0,0,0.160377" centerOfMass="-0.016146,0.90418,0" mass="0.790000021458" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.801158" minY="-0.000985" minZ="-0.392647" maxX="0.817769" maxY="1.80268" maxZ="0.392647"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.786177" minY="-0.000985" minZ="-0.392647" maxX="0.780407" maxY="1.80268" maxZ="0.392647"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="61482;91795"/>
+    <Annotation designname="HANDCUFFS"/>
+    <Annotation maingroupid="251"/>
+    <Annotation maingroupname="FIGURE, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.384157" sY="0.106603" sZ="0.091636" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.001151" tz="-0.000156"/>
+    <Box sX="0.377717" sY="0.089918" sZ="0.04" angle="149.99998" ax="0" ay="-1" az="0" tx="0.554376" ty="-4.7E-005" tz="-0.120608"/>
+    <Box sX="0.168452" sY="0.04" sZ="0.139012" angle="109.99999" ax="0" ay="-1" az="0" tx="0.688905" ty="0" tz="-0.226142"/>
+    <Box sX="0.085415" sY="0.09" sZ="0.062677" angle="173.9832" ax="0" ay="-1" az="0" tx="0.608164" ty="0" tz="-0.586333"/>
+    <Box sX="0.085416" sY="0.09" sZ="0.062677" angle="6.01679" ax="0" ay="-1" az="0" tx="-0.608164" ty="0" tz="-0.586333"/>
+    <Box sX="0.171461" sY="0.04" sZ="0.139012" angle="56.37823" ax="0" ay="-1" az="0" tx="-0.688063" ty="0" tz="-0.253049"/>
+    <Box sX="0.340761" sY="0.089918" sZ="0.04" angle="34.99999" ax="0" ay="-1" az="0" tx="-0.509947" ty="-4.7E-005" tz="-0.120608"/>
+    <Box sX="0.149385" sY="0.15" sZ="0.021525" angle="50.16271" ax="0" ay="-1" az="0" tx="1.08825" ty="0" tz="-0.725919"/>
+    <Box sX="0.165419" sY="0.15" sZ="0.012587" angle="24.23646" ax="0" ay="1" az="0" tx="0.798049" ty="0" tz="-0.778539"/>
+    <Box sX="0.165419" sY="0.15" sZ="0.012587" angle="46.15143" ax="0" ay="1" az="0" tx="-1.0753" ty="0" tz="-0.722594"/>
+    <Box sX="0.138914" sY="0.15" sZ="0.021525" angle="28.24775" ax="0" ay="-1" az="0" tx="-0.777214" ty="0" tz="-0.777131"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.400001" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0.2" ty="0" tz="0"/>
+    <Hinge type="140" oriented="0" angle="180" ax="-0.382683" ay="0" az="0.92388" tx="0.910279" ty="0" tz="-0.577129"/>
+    <Hinge type="140" oriented="0" angle="180" ax="0.92388" ay="0" az="-0.382683" tx="-0.910279" ty="0" tz="-0.577129"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.017755,0,0,0,0.098422,0,0,0,0.08279" centerOfMass="0,0,-0.405118" mass="0.20000000298" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.22256" minY="-0.16" minZ="-0.88072" maxX="1.22256" maxY="0.16" maxZ="0.159744"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.22256" minY="-0.16" minZ="-0.88072" maxX="1.22256" maxY="0.16" maxZ="0.159744"/>
+  </GeometryBounding>
+</LEGOPrimitive>

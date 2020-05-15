@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6237"/>
+    <Annotation designname="WINDOW FOR FRAME 2X6X6"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.060711" sY="1.59" sZ="0.060711" angle="45" ax="0" ay="1" az="0" tx="0" ty="1.6" tz="0"/>
+    <Box sX="0.92" sY="0.203" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0.93" ty="0.213" tz="0"/>
+    <Box sX="0.92" sY="0.1125" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0.93" ty="1.5995" tz="0"/>
+    <Box sX="0.92" sY="0.125275" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0.93" ty="3.06473" tz="0"/>
+    <Box sX="0.09" sY="1.377" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="1.76" ty="1.813" tz="0"/>
+    <Box sX="0.14289" sY="1.377" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0.15289" ty="1.813" tz="0"/>
+    <Box sX="0.538728" sY="0.228511" sZ="0.09" angle="45" ax="0" ay="0" az="1" tx="0.567878" ty="2.64008" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="143" oriented="0" angle="90" ax="0" ay="-1" az="0" tx="0" ty="1.6" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.803686,0,0,0,0.296128,0,0,0,1.09508" centerOfMass="0.781795,1.65929,0" mass="0.731000006199" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.1" minY="0" minZ="-0.1" maxX="1.86" maxY="3.2" maxZ="0.1"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.1" minY="0" minZ="-0.1" maxX="1.86" maxY="3.2" maxZ="0.1"/>
+  </GeometryBounding>
+</LEGOPrimitive>

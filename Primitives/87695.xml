@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87695"/>
+    <Annotation designname="HORN"/>
+    <Annotation maingroupid="251"/>
+    <Annotation maingroupname="FIGURE, ACCESSORIES IN THE HAND"/>
+    <Annotation platformid="0"/>
+    <Annotation platformname="None"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.459188" sY="0.107031" sZ="0.107031" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Box sX="0.275216" sY="0.084612" sZ="0.084612" angle="27.86308" ax="0" ay="0" az="-1" tx="-0.595663" ty="0.082652" tz="0"/>
+    <Box sX="0.328443" sY="0.070644" sZ="0.070644" angle="61.22857" ax="0" ay="0" az="-1" tx="-0.966171" ty="0.538662" tz="0"/>
+    <Box sX="0.248155" sY="0.084612" sZ="0.084612" angle="180" ax="-0.240762" ay="0.970584" az="0" tx="0.595663" ty="0.082652" tz="0"/>
+    <Box sX="0.328443" sY="0.070644" sZ="0.070644" angle="180" ax="-0.509256" ay="0.860615" az="0" tx="0.966171" ty="0.538662" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.8" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="1" tx="0.4" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.099039,0,0,0,0.521388,0,0,0,0.600495" centerOfMass="0,0.344077,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.23865" minY="-0.172857" minZ="-0.172909" maxX="1.23865" maxY="0.86101" maxZ="0.172909"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.23865" minY="-0.172857" minZ="-0.172909" maxX="1.23865" maxY="0.86101" maxZ="0.172909"/>
+  </GeometryBounding>
+</LEGOPrimitive>

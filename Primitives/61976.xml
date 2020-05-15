@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="61976"/>
+    <Annotation designname="SHOULDER BAG"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.100551" sY="1.00638" sZ="0.042914" angle="39.82728" ax="0" ay="0" az="-1" tx="0.205755" ty="0.490096" tz="0.459914"/>
+    <Box sX="0.100551" sY="1.00638" sZ="0.042914" angle="39.82728" ax="0" ay="0" az="-1" tx="0.205755" ty="0.490096" tz="-0.459914"/>
+    <Box sX="0.084101" sY="0.032239" sZ="0.517" angle="0" ax="0" ay="1" az="0" tx="0.867715" ty="1.33298" tz="0"/>
+    <Box sX="0.119398" sY="0.505" sZ="0.42" angle="0" ax="0" ay="1" az="0" tx="-0.537542" ty="-0.535" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.7" ty="1.28" tz="0"/>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="0.1" ty="1.28" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.176856,0,0,0,0.116864,0,0,0,0.227303" centerOfMass="-0.159524,-0.036411,1.2E-005" mass="0.239999994636" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.737268" minY="-1.05" minZ="-0.527" maxX="0.962532" maxY="1.44661" maxZ="0.527"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.737268" minY="-1.05" minZ="-0.527" maxX="0.962532" maxY="1.44661" maxZ="0.527"/>
+  </GeometryBounding>
+</LEGOPrimitive>

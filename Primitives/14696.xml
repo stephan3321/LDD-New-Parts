@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="14696"/>
+    <Annotation designname="CHAIN LINK M=1"/>
+    <Annotation maingroupid="367"/>
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.111252" sY="0.19" sZ="0.04" angle="0" ax="0" ay="1" az="0" tx="0.451252" ty="0" tz="0.335"/>
+    <Box sX="0.233162" sY="0.19" sZ="0.0275" angle="0" ax="0" ay="1" az="0" tx="0.155538" ty="0" tz="0.2375"/>
+    <Box sX="0.028195" sY="0.029685" sZ="0.364352" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Box sX="0.025424" sY="0.025864" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="0.318955" ty="0" tz="0"/>
+    <Box sX="0.017543" sY="0.132429" sZ="0.04" angle="0" ax="0" ay="1" az="0" tx="0.73504" ty="0" tz="0.335"/>
+    <Box sX="0.111252" sY="0.19" sZ="0.04" angle="0" ax="0" ay="1" az="0" tx="0.451252" ty="0" tz="-0.335"/>
+    <Box sX="0.233162" sY="0.19" sZ="0.0275" angle="0" ax="0" ay="1" az="0" tx="0.155538" ty="0" tz="-0.2375"/>
+    <Box sX="0.017543" sY="0.132429" sZ="0.04" angle="0" ax="0" ay="1" az="0" tx="0.73504" ty="0" tz="-0.335"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="11" oriented="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Hinge type="10" oriented="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.64" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.062742,0,0,0,0.139542,0,0,0,0.103467" centerOfMass="0.32,0,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.2" minY="-0.2" minZ="-0.385" maxX="0.84" maxY="0.2" maxZ="0.385"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2" minY="-0.2" minZ="-0.385" maxX="0.84" maxY="0.2" maxZ="0.385"/>
+  </GeometryBounding>
+</LEGOPrimitive>

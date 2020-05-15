@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="40240"/>
+    <Annotation designname="RONS WIG"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.44" sY="0.099717" sZ="0.44" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.142455" tz="0"/>
+    <Box sX="0.037956" sY="0.194077" sZ="0.205574" angle="0" ax="0" ay="1" az="0" tx="0.547956" ty="-0.171338" tz="0"/>
+    <Box sX="0.037956" sY="0.340547" sZ="0.205574" angle="45" ax="0" ay="1" az="0" tx="0.387464" ty="-0.317808" tz="-0.387464"/>
+    <Box sX="0.037956" sY="0.352033" sZ="0.205574" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.329294" tz="-0.547956"/>
+    <Box sX="0.037956" sY="0.340547" sZ="0.205574" angle="135" ax="0" ay="1" az="0" tx="-0.387464" ty="-0.317808" tz="-0.387464"/>
+    <Box sX="0.037956" sY="0.194077" sZ="0.205574" angle="180" ax="0" ay="1" az="0" tx="-0.547956" ty="-0.171338" tz="0"/>
+    <Box sX="0.037956" sY="0.130945" sZ="0.205574" angle="135" ax="0" ay="-1" az="0" tx="-0.387464" ty="-0.108206" tz="0.387464"/>
+    <Box sX="0.037956" sY="0.130945" sZ="0.205574" angle="45" ax="0" ay="-1" az="0" tx="0.387464" ty="-0.108206" tz="0.387464"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.105817,0,0,0,0.142804,0,0,0,0.111357" centerOfMass="-0.0133,-0.026989,-0.157725" mass="0.579999983311" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.699142" minY="-0.73015" minZ="-0.7508" maxX="0.697133" maxY="0.43405" maxZ="0.6378"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.699142" minY="-0.73015" minZ="-0.7508" maxX="0.697133" maxY="0.43405" maxZ="0.6378"/>
+  </GeometryBounding>
+</LEGOPrimitive>

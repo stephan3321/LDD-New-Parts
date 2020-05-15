@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="96479"/>
+    <Annotation designname="M1"/>
+    <Annotation maingroupid="251"/>
+    <Annotation maingroupname="FIGURE, SPECIAL"/>
+    <Annotation platformid="0"/>
+    <Annotation platformname="None"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.535861" sY="0.087921" sZ="0.4561" angle="0" ax="0" ay="1" az="0" tx="-0.006626" ty="0.315921" tz="0.155311"/>
+    <Box sX="0.042686" sY="0.083129" sZ="0.042686" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.094903" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.218" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.004462,0,0,0,0.015331,0,0,0,0.011525" centerOfMass="0.010692,0.283582,0.077339" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.55" minY="0" minZ="-0.309232" maxX="0.55" maxY="0.437321" maxZ="0.634294"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.55" minY="0" minZ="-0.309232" maxX="0.55" maxY="0.437321" maxZ="0.634294"/>
+  </GeometryBounding>
+</LEGOPrimitive>

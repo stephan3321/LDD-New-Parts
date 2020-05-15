@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2545"/>
+    <Annotation designname="MINI SHAKO"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="45.3564" ax="-0.050461" ay="-0.991268" az="0.121823" tx="0.356455" ty="0.25168" tz="0.362589"/>
+    <Box sX="0.034521" sY="0.730022" sZ="0.180454" angle="90" ax="0" ay="-1" az="0" tx="-0.004338" ty="0.440024" tz="0.564521"/>
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="45.3564" ax="0.050461" ay="0.991268" az="0.121823" tx="0.362589" ty="0.25168" tz="-0.356455"/>
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="5.8282" ax="0" ay="0" az="1" tx="0.50844" ty="0.25168" tz="0.004338"/>
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="135.06136" ax="0.050828" ay="0.998485" az="0.021054" tx="-0.356455" ty="0.25168" tz="-0.362589"/>
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="90.14809" ax="0.050774" ay="0.997419" az="0.050774" tx="0.004338" ty="0.25168" tz="-0.50844"/>
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="135.06136" ax="-0.050828" ay="-0.998485" az="0.021054" tx="-0.362589" ty="0.25168" tz="0.356455"/>
+    <Box sX="0.034521" sY="0.54" sZ="0.238454" angle="180" ax="0.050839" ay="0.998707" az="0" tx="-0.50844" ty="0.25168" tz="-0.004338"/>
+    <Box sX="0.373403" sY="0.389112" sZ="0.35149" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.399112" tz="0"/>
+    <Box sX="0.476853" sY="0.04" sZ="0.148109" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.249998" tz="0.678109"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.185158,0,0,0,0.179192,0,0,0,0.171697" centerOfMass="0.000813,0.318819,0.032545" mass="0.64200001955" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.62" minY="-0.3" minZ="-0.62" maxX="0.62" maxY="1.20012" maxZ="0.848133"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.62" minY="-0.3" minZ="-0.62" maxX="0.62" maxY="1.20012" maxZ="0.848133"/>
+  </GeometryBounding>
+</LEGOPrimitive>

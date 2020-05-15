@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30088"/>
+    <Annotation designname="HARPOON 5 M"/>
+    <Annotation maingroupid="247"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.095" sY="0.510876" sZ="0.095" angle="0" ax="0" ay="1" az="0" tx="-0.007608" ty="0.535299" tz="-0.007608"/>
+    <Box sX="0.221537" sY="0.182249" sZ="0.040007" angle="59.6452" ax="0" ay="0" az="-1" tx="0.195494" ty="0.927448" tz="2.5E-005"/>
+    <Box sX="0.114131" sY="0.564401" sZ="0.063828" angle="120.00776" ax="0" ay="0" az="1" tx="2.39229" ty="2.35527" tz="0.001173"/>
+    <Box sX="0.095" sY="0.857338" sZ="0.095" angle="124.9753" ax="-0.373672" ay="0.215739" az="0.902123" tx="1.15816" ty="1.61868" tz="0"/>
+    <Box sX="0.134019" sY="0.525" sZ="0.134019" angle="124.9753" ax="-0.373672" ay="0.215739" az="0.902123" tx="-0.056298" ty="0.917511" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.63049" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Axel type="7" length="1.73001" requireGrabbing="0" startCapped="0" endCapped="1" angle="138.59036" ax="-0.654654" ay="0.377964" az="0.654654" tx="1.90565" ty="2.04934" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.135979,0,0,0,0.262396,0,0,0,0.39317" centerOfMass="0.632028,1.21858,0.000711" mass="0.340000003576" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.605727" minY="0" minZ="-0.2" maxX="2.94437" maxY="2.73637" maxZ="0.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.584974" minY="0" minZ="-0.2" maxX="2.94437" maxY="2.71882" maxZ="0.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

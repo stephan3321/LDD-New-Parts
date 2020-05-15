@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3644"/>
+    <Annotation designname="DOOR 4X6"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.28" sY="2.59236" sZ="0.079443" angle="0" ax="0" ay="1" az="0" tx="1.49" ty="2.65764" tz="0"/>
+    <Box sX="1.28" sY="0.060711" sZ="0.060711" angle="45" ax="1" ay="0" az="0" tx="1.48998" ty="0.1" tz="0"/>
+    <Box sX="0.692253" sY="0.060711" sZ="0.060711" angle="98.42105" ax="0.357407" ay="0.357407" az="0.862856" tx="0.001009" ty="0.789747" tz="0"/>
+    <Box sX="0.771152" sY="0.060711" sZ="0.060711" angle="98.42105" ax="0.357407" ay="0.357407" az="0.862856" tx="0.001009" ty="2.51685" tz="0"/>
+    <Box sX="0.845999" sY="0.060711" sZ="0.060711" angle="98.42105" ax="0.357407" ay="0.357407" az="0.862856" tx="0.001009" ty="4.404" tz="0"/>
+    <Box sX="1.37999" sY="0.060711" sZ="0.060711" angle="45" ax="1" ay="0" az="0" tx="1.38999" ty="5.26" tz="0"/>
+    <Box sX="0.033017" sY="0.207134" sZ="0.389999" angle="0" ax="0" ay="1" az="0" tx="2.30198" ty="2.52" tz="0"/>
+    <Box sX="0.044793" sY="0.17724" sZ="0.039999" angle="0" ax="0" ay="1" az="0" tx="2.39979" ty="2.52" tz="0.349998"/>
+    <Box sX="0.044793" sY="0.17724" sZ="0.039999" angle="0" ax="0" ay="1" az="0" tx="2.39979" ty="2.52" tz="-0.35"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="77" oriented="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="2.52" tz="-8.2E-005"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="6.35223,0,0,0,1.90552,0,0,0,8.23521" centerOfMass="1.38242,2.67833,0" mass="2.93899989128" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.1" minY="0" minZ="-0.4" maxX="2.78" maxY="5.36" maxZ="0.399998"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.1" minY="0" minZ="-0.4" maxX="2.78" maxY="5.36" maxZ="0.399998"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24131"/>
+    <Annotation designname="HAT W/ 1.5 SHAFT"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.160458" sY="0.160458" sZ="0.160458" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.895205" tz="0"/>
+    <Box sX="0.097696" sY="0.160458" sZ="0.097696" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.572162" tz="0"/>
+    <Box sX="0.172359" sY="0.160458" sZ="0.172359" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.356838" tz="0"/>
+    <Box sX="0.253988" sY="0.122002" sZ="0.265672" angle="45" ax="0" ay="-1" az="0" tx="0.008262" ty="0.13203" tz="0.008262"/>
+    <Box sX="0.043446" sY="0.122002" sZ="0.043446" angle="45" ax="0" ay="-1" az="0" tx="0" ty="-0.07797" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.26" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.26" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.206319,0,0,0,0.101326,0,0,0,0.206319" centerOfMass="0,0.42335,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.389858" minY="-0.26" minZ="-0.389858" maxX="0.389858" maxY="1.1067" maxZ="0.389858"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.389858" minY="-0.209972" minZ="-0.389858" maxX="0.389858" maxY="1.1067" maxZ="0.389858"/>
+  </GeometryBounding>
+</LEGOPrimitive>

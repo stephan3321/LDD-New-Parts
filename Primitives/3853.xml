@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3853"/>
+    <Annotation designname="WINDOW FRAME 4X3"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.065" sY="0.39" sZ="1.43" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.325" ty="1.44" tz="0"/>
+    <Box sX="0.065" sY="0.39" sZ="1.43" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.725" ty="1.44" tz="0"/>
+    <Box sX="1.44" sY="0.39" sZ="0.065" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="2.805" tz="0"/>
+    <Box sX="1.44" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.16" tz="0"/>
+    <Box sX="1.44" sY="0.04" sZ="0.04" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.37" tz="0"/>
+    <Box sX="0.117279" sY="0.117279" sZ="0.065" angle="148.6003" ax="0.281085" ay="-0.678598" az="0.678598" tx="-0.35" ty="0.245" tz="0.52"/>
+    <Box sX="0.117279" sY="0.117279" sZ="0.065" angle="148.60028" ax="0.281085" ay="-0.678598" az="0.678598" tx="-0.35" ty="2.805" tz="0.52"/>
+    <Box sX="0.117279" sY="0.117279" sZ="0.065" angle="148.60031" ax="0.281085" ay="-0.678598" az="0.678598" tx="2.75" ty="0.245" tz="0.52"/>
+    <Box sX="0.117279" sY="0.117279" sZ="0.065" angle="148.60031" ax="0.281085" ay="-0.678598" az="0.678598" tx="2.75" ty="2.805" tz="0.52"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="2.88" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,0:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Hinge type="18" oriented="0" angle="0" ax="0" ay="0" az="1" tx="-0.12824" ty="1.52022" tz="-0.165"/>
+    <Hinge type="18" oriented="0" angle="0" ax="0" ay="0" az="1" tx="-0.12824" ty="1.52022" tz="0.165"/>
+    <Hinge type="18" oriented="0" angle="0" ax="0" ay="0" az="1" tx="2.527" ty="1.52022" tz="0.165"/>
+    <Hinge type="18" oriented="0" angle="0" ax="0" ay="0" az="1" tx="2.527" ty="1.52022" tz="-0.165"/>
+    <Hinge type="18" oriented="0" angle="0" ax="0" ay="0" az="1" tx="-0.352001" ty="1.52022" tz="0.507"/>
+    <Hinge type="18" oriented="0" angle="0" ax="0" ay="0" az="1" tx="2.752" ty="1.52022" tz="0.507"/>
+    <Hinge type="22" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="1.2" ty="1.52455" tz="0.17"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.21052,0,0,0,2.41219,0,0,0,4.41862" centerOfMass="1.2001,1.45761,0.017026" mass="1.72399997711" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.53" minY="0" minZ="-0.4" maxX="2.93" maxY="3.058" maxZ="0.7"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.53" minY="0" minZ="-0.4" maxX="2.93" maxY="3.058" maxZ="0.7"/>
+  </GeometryBounding>
+</LEGOPrimitive>

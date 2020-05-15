@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30408"/>
+    <Annotation designname="STORM TROOPER HELMET"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="11"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.30426" sY="0.467485" sZ="0.054823" angle="45" ax="0" ay="-1" az="0" tx="0.402453" ty="-0.355606" tz="-0.402453"/>
+    <Box sX="0.392993" sY="0.115186" sZ="0.459359" angle="0" ax="0" ay="1" az="0" tx="0.018751" ty="0.247065" tz="0.079366"/>
+    <Box sX="0.399296" sY="0.471542" sZ="0.054823" angle="90" ax="0" ay="-1" az="0" tx="0.569155" ty="-0.359664" tz="0.095036"/>
+    <Box sX="0.399296" sY="0.471542" sZ="0.054823" angle="90" ax="0" ay="1" az="0" tx="-0.569155" ty="-0.359664" tz="0.095036"/>
+    <Box sX="0.30426" sY="0.467485" sZ="0.054823" angle="45" ax="0" ay="1" az="0" tx="-0.402453" ty="-0.355606" tz="-0.402453"/>
+    <Box sX="0.51598" sY="0.630314" sZ="0.120068" angle="180" ax="0" ay="1" az="0" tx="-0.004182" ty="-0.518435" tz="0.6344"/>
+    <Box sX="0.30426" sY="0.467485" sZ="0.054823" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.355606" tz="-0.569155"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.379444,0,0,0,0.343513,0,0,0,0.334203" centerOfMass="0,-0.321834,0.179741" mass="1.10000002384" frictionType="0"/>
+  <Decoration faces="6" subMaterialRedirectLookupTable="0,1,0,0,0,0"/>
+  <Bounding>
+    <AABB minX="-0.801851" minY="-1.14875" minZ="-0.766632" maxX="0.801851" maxY="0.429474" maxZ="0.943115"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.801851" minY="-1.13211" minZ="-0.766632" maxX="0.801851" maxY="0.429474" maxZ="0.943115"/>
+  </GeometryBounding>
+</LEGOPrimitive>

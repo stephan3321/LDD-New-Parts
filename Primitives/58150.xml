@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="58150"/>
+    <Annotation designname="FUNC. IR/RX, BUTTON"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.0625" sY="0.34" sZ="0.33" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="-0.077498"/>
+  </Collision>
+  <Connectivity>
+    <Slider type="15" length="0.6" startCapped="0" endCapped="0" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-0.3" tz="-0.149999"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.117891,0,0,0,0.025764,0,0,0,0.126182" centerOfMass="0,0,-0.288387" mass="0.40000000596" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.34" minY="-1.13" minZ="-0.3" maxX="0.34" maxY="1.13" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.34" minY="-1.13" minZ="-0.3" maxX="0.34" maxY="1.13" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="18905"/>
+    <Annotation designname="CROCODILE  HEAD"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.464555" sY="0.079756" sZ="0.602392" angle="9.24288" ax="0" ay="0" az="1" tx="2.6878" ty="1.29423" tz="-0.4"/>
+    <Box sX="0.925651" sY="0.079756" sZ="0.46578" angle="2.31393" ax="0" ay="0" az="1" tx="3.78642" ty="1.22459" tz="-0.4"/>
+    <Box sX="0.938951" sY="0.126867" sZ="0.043486" angle="11.92274" ax="0.01981" ay="-0.980919" az="0.193405" tx="3.76217" ty="1.15431" tz="-0.892256"/>
+    <Box sX="0.188881" sY="0.134448" sZ="0.095553" angle="22.36113" ax="0.042117" ay="0.285097" az="0.957573" tx="2.11822" ty="1.041" tz="-0.966708"/>
+    <Box sX="0.028646" sY="0.161471" sZ="0.053659" angle="2.4201" ax="-0.005911" ay="0.292668" az="0.956196" tx="3.60147" ty="0.969833" tz="-0.908219"/>
+    <Box sX="0.028646" sY="0.134424" sZ="0.035101" angle="2.41994" ax="-0.005911" ay="0.292668" az="0.956196" tx="3.90414" ty="0.993281" tz="-0.857111"/>
+    <Box sX="0.05307" sY="0.144112" sZ="0.053471" angle="2.31393" ax="0" ay="0" az="1" tx="4.58247" ty="1.04911" tz="-0.750259"/>
+    <Box sX="0.395209" sY="0.112979" sZ="0.023454" angle="5.76041" ax="-0.012016" ay="0.817726" az="0.575483" tx="2.43867" ty="1.09906" tz="-1.07775"/>
+    <Box sX="0.938951" sY="0.124352" sZ="0.043486" angle="11.92274" ax="-0.01981" ay="0.980919" az="0.193405" tx="3.76207" ty="1.15683" tz="0.092256"/>
+    <Box sX="0.05307" sY="0.144112" sZ="0.053471" angle="2.31393" ax="0" ay="0" az="1" tx="4.58247" ty="1.04911" tz="-0.049741"/>
+    <Box sX="0.028646" sY="0.134424" sZ="0.035101" angle="2.41994" ax="0.005911" ay="-0.292668" az="0.956196" tx="3.90414" ty="0.993281" tz="0.05711"/>
+    <Box sX="0.028646" sY="0.161471" sZ="0.053659" angle="2.4201" ax="0.005911" ay="-0.292668" az="0.956196" tx="3.60147" ty="0.969833" tz="0.108219"/>
+    <Box sX="0.395209" sY="0.112979" sZ="0.023454" angle="5.76041" ax="0.012016" ay="-0.817726" az="0.575483" tx="2.43867" ty="1.09906" tz="0.27775"/>
+    <Box sX="0.188881" sY="0.134448" sZ="0.095553" angle="22.36113" ax="-0.042117" ay="-0.285097" az="0.957573" tx="2.11822" ty="1.041" tz="0.166708"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="237" oriented="1" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="2.00834" ty="1.00352" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.25472,0,0,0,0.949279,0,0,0,0.792787" centerOfMass="3.30918,1.10001,-0.4" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="1.81552" minY="0.716156" minZ="-1.18538" maxX="4.80284" maxY="1.48386" maxZ="0.385377"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="1.81552" minY="0.716156" minZ="-1.18538" maxX="4.80284" maxY="1.48386" maxZ="0.385377"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="99948"/>
+    <Annotation designname="STEEL BALL"/>
+    <Annotation maingroupid="292"/>
+    <Annotation maingroupname="ELECTRIC PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.9335" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Ball type="15" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.627267,0,0,0,0.627267,0,0,0,0.627267" centerOfMass="0,0,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.97" minY="-0.97" minZ="-0.97" maxX="0.97" maxY="0.97" maxZ="0.97"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.97" minY="-0.97" minZ="-0.97" maxX="0.97" maxY="0.97" maxZ="0.97"/>
+  </GeometryBounding>
+</LEGOPrimitive>

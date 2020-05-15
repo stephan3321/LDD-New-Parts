@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="97782"/>
+    <Annotation designname="M2"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="0"/>
+    <Annotation platformname="None"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.103137" sY="0.24" sZ="0.103137" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.25" tz="0"/>
+    <Box sX="0.131421" sY="0.035" sZ="0.131421" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.545" tz="0"/>
+    <Box sX="0.166987" sY="0.100147" sZ="0.13" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-0.110147" tz="0"/>
+    <Box sX="0.08" sY="0.463847" sZ="0.141668" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.06385" tz="0.008332"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.5" requireGrabbing="1" startCapped="1" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.298397,0,0,0,0.026667,0,0,0,0.298397" centerOfMass="0,0.655235,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.2" minY="-0.269529" minZ="-0.2" maxX="0.2" maxY="1.58" maxZ="0.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.2" minY="-0.269529" minZ="-0.2" maxX="0.2" maxY="1.58" maxZ="0.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

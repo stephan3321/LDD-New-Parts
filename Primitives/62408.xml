@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="62408"/>
+    <Annotation designname="BREAST PLATE, 2"/>
+    <Annotation maingroupid="252"/>
+    <Annotation maingroupname="FIGURE, ACCESSORIES FOR THE UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.609926" sY="0.045" sZ="0.061348" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.125356" tz="-0.806773"/>
+    <Box sX="0.831112" sY="0.372233" sZ="0.057905" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.278879" tz="-0.475453"/>
+    <Box sX="0.559172" sY="0.485812" sZ="0.046871" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.395239" tz="0.468189"/>
+    <Box sX="0.26605" sY="0.167353" sZ="0.477295" angle="8.2545" ax="1" ay="0" az="0" tx="0.99605" ty="0.029196" tz="-0.138842"/>
+    <Box sX="0.26605" sY="0.163662" sZ="0.477295" angle="180" ax="0" ay="0.997407" az="0.071972" tx="-0.99605" ty="0.025544" tz="-0.139371"/>
+    <Box sX="0.235329" sY="0.0311" sZ="0.366303" angle="0" ax="0" ay="1" az="0" tx="0.497739" ty="0.0411" tz="-0.001305"/>
+    <Box sX="0.235329" sY="0.0311" sZ="0.366303" angle="0" ax="0" ay="1" az="0" tx="-0.497739" ty="0.0411" tz="-0.001305"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.201771,0,0,0,0.573237,0,0,0,0.464174" centerOfMass="0,-0.075265,-0.128412" mass="0.75" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.39292" minY="-0.931582" minZ="-0.912378" maxX="1.39292" maxY="0.370017" maxZ="0.676578"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.39292" minY="-0.931582" minZ="-0.912378" maxX="1.39292" maxY="0.370017" maxZ="0.676578"/>
+  </GeometryBounding>
+</LEGOPrimitive>

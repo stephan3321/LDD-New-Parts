@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2653"/>
+    <Annotation designname="SLIDING PIECE 1X4"/>
+    <Annotation maingroupid="202"/>
+    <Annotation maingroupname="BRICKS, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.39" sZ="0.145" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.155" tz="0"/>
+    <Box sX="1.59" sY="0.19" sZ="0.16" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.48" tz="-0.2"/>
+    <Box sX="1.59" sY="0.39" sZ="0.145" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.805" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Slider type="4" length="3.2" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="-0.4" ty="0.48" tz="0.057845"/>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.219543,0,0,0,1.47579,0,0,0,1.51713" centerOfMass="1.2,0.499952,-0.055958" mass="1.33000004292" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.13796" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="2.8" maxY="1.13796" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="63586"/>
+    <Annotation designname="M3"/>
+    <Annotation maingroupid="247"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.089739" sY="0.259842" sZ="0.089057" angle="90" ax="0" ay="0" az="1" tx="0.145158" ty="1.05893" tz="-0.003913"/>
+    <Box sX="0.048308" sY="0.098676" sZ="0.048308" angle="98.42105" ax="0.357407" ay="0.357407" az="-0.862856" tx="0.108676" ty="0.003356" tz="0"/>
+    <Box sX="0.04262" sY="0.590153" sZ="0.042261" angle="45" ax="0" ay="1" az="0" tx="0.213883" ty="0.525353" tz="-0.001803"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.140001" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.130975,0,0,0,0.028379,0,0,0,0.151196" centerOfMass="0.145,0.5422,-7.4E-005" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.125" minY="-0.0748" minZ="-0.110691" maxX="0.415" maxY="1.1592" maxZ="0.110542"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.125" minY="-0.0748" minZ="-0.110691" maxX="0.415" maxY="1.1592" maxZ="0.110542"/>
+  </GeometryBounding>
+</LEGOPrimitive>

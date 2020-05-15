@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="12884"/>
+    <Annotation designname="BUCKET STRAIGHT"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.018529" sY="0.47" sZ="0.25325" angle="0" ax="0" ay="1" az="0" tx="-0.427434" ty="0.48" tz="0"/>
+    <Box sX="0.018529" sY="0.47" sZ="0.25325" angle="60" ax="0" ay="1" az="0" tx="-0.213717" ty="0.48" tz="0.370169"/>
+    <Box sX="0.018529" sY="0.47" sZ="0.25325" angle="120" ax="0" ay="1" az="0" tx="0.213717" ty="0.48" tz="0.370169"/>
+    <Box sX="0.018529" sY="0.47" sZ="0.25325" angle="180" ax="0" ay="1" az="0" tx="0.427434" ty="0.48" tz="0"/>
+    <Box sX="0.018529" sY="0.47" sZ="0.25325" angle="120" ax="0" ay="-1" az="0" tx="0.213717" ty="0.48" tz="-0.370169"/>
+    <Box sX="0.018529" sY="0.47" sZ="0.25325" angle="60" ax="0" ay="-1" az="0" tx="-0.213717" ty="0.48" tz="-0.370169"/>
+    <Box sX="0.362292" sY="0.155" sZ="0.362292" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.165" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,7:4,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="178" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="-0.000153" ty="0.810685" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.169201,0,0,0,0.208434,0,0,0,0.192833" centerOfMass="0,0.48,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.59" minY="0" minZ="-0.5265" maxX="0.59" maxY="0.96" maxZ="0.5265"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.59" minY="0" minZ="-0.5265" maxX="0.59" maxY="0.96" maxZ="0.5265"/>
+  </GeometryBounding>
+</LEGOPrimitive>

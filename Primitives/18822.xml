@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="18822"/>
+    <Annotation designname="MINI HAT NO. 26"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.64056" sY="0.281011" sZ="0.62689" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.291011" tz="-0.057059"/>
+    <Box sX="0.328141" sY="0.504795" sZ="0.100196" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.197305" tz="-0.629443"/>
+    <Box sX="0.328141" sY="0.186894" sZ="0.073359" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.120596" tz="0.592209"/>
+    <Box sX="0.328141" sY="0.276875" sZ="0.101518" angle="120" ax="0" ay="1" az="0" tx="-0.543969" ty="0.030615" tz="0.314061"/>
+    <Box sX="0.328141" sY="0.428227" sZ="0.097734" angle="60" ax="0" ay="1" az="0" tx="-0.547246" ty="-0.120737" tz="-0.315953"/>
+    <Box sX="0.328141" sY="0.276875" sZ="0.096278" angle="60" ax="0" ay="1" az="0" tx="0.548507" ty="0.030615" tz="0.31668"/>
+    <Box sX="0.328141" sY="0.428227" sZ="0.097422" angle="120" ax="0" ay="1" az="0" tx="0.547516" ty="-0.120737" tz="-0.316109"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.396182,0,0,0,0.439339,0,0,0,0.397055" centerOfMass="-0.002602,-0.048001,-0.062958" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.815202" minY="-0.776593" minZ="-0.873945" maxX="0.809997" maxY="0.68059" maxZ="0.748028"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.815202" minY="-0.776593" minZ="-0.873945" maxX="0.809997" maxY="0.68059" maxZ="0.748028"/>
+  </GeometryBounding>
+</LEGOPrimitive>

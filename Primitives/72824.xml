@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="72824"/>
+    <Annotation designname="BALL Ø14,2"/>
+    <Annotation maingroupid="296"/>
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.433999" sY="0.433999" sZ="0.433999" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="0.238245,0,0,0,0.238628,0,0,0,0.238064" centerOfMass="-0.000119,-0.000184,-6.9E-005" mass="1.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.6954" minY="-0.6496" minZ="-0.7007" maxX="0.6954" maxY="0.6496" maxZ="0.7007"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6954" minY="-0.6496" minZ="-0.7007" maxX="0.6954" maxY="0.6496" maxZ="0.7007"/>
+  </GeometryBounding>
+</LEGOPrimitive>

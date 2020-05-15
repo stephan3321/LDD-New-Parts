@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92409"/>
+    <Annotation designname="TYRE Ø17,6 X 6,24"/>
+    <Annotation maingroupid="265"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR SNAP Ø3,2"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.326761" sY="0.116507" sZ="0.31" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.686507" tz="-0.4"/>
+    <Box sX="0.326761" sY="0.116507" sZ="0.31" angle="45" ax="0" ay="0" az="-1" tx="0.485434" ty="0.485434" tz="-0.4"/>
+    <Box sX="0.326761" sY="0.116507" sZ="0.31" angle="90" ax="0" ay="0" az="-1" tx="0.686507" ty="0" tz="-0.4"/>
+    <Box sX="0.326761" sY="0.116507" sZ="0.31" angle="135" ax="0" ay="0" az="-1" tx="0.485434" ty="-0.485434" tz="-0.4"/>
+    <Box sX="0.326761" sY="0.116507" sZ="0.31" angle="90" ax="0" ay="0" az="1" tx="-0.686507" ty="0" tz="-0.4"/>
+    <Box sX="0.326761" sY="0.116507" sZ="0.31" angle="45" ax="0" ay="0" az="1" tx="-0.485434" ty="0.485434" tz="-0.4"/>
+    <Box sX="0.326761" sY="0.116507" sZ="0.31" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.686507" tz="-0.4"/>
+    <Box sX="0.326761" sY="0.116507" sZ="0.31" angle="135" ax="0" ay="0" az="1" tx="-0.485434" ty="-0.485434" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="38" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.4"/>
+    <Fixed type="38" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.271158,0,0,0,0.271482,0,0,0,0.481777" centerOfMass="6.7E-005,0.001588,-0.399932" mass="0.839999973774" frictionType="1"/>
+  <Bounding>
+    <AABB minX="-0.877766" minY="-0.876261" minZ="-0.72" maxX="0.877766" maxY="0.876261" maxZ="-0.08"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.877766" minY="-0.876261" minZ="-0.72" maxX="0.877766" maxY="0.876261" maxZ="-0.08"/>
+  </GeometryBounding>
+</LEGOPrimitive>

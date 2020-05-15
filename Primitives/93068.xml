@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93068"/>
+    <Annotation designname="HEADTOP W/Ø3,2  GRIP"/>
+    <Annotation maingroupid="245"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.150069" sY="0.010248" sZ="0.165904" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.180248" tz="0.002872"/>
+    <Box sX="0.150069" sY="0.010248" sZ="0.165904" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.180248" tz="0.002872"/>
+    <Box sX="0.150069" sY="0.218057" sZ="0.130518" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.029918" tz="0.300518"/>
+    <Box sX="0.106596" sY="0.089354" sZ="0.388185" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.38606" tz="0.795208"/>
+    <Box sX="0.329169" sY="0.624569" sZ="0.054791" angle="6.432" ax="-1" ay="0" az="0" tx="0" ty="-0.450254" tz="1.31651"/>
+    <Box sX="0.185366" sY="0.24927" sZ="0.181809" angle="50.01975" ax="-0.874425" ay="-0.019965" az="0.48475" tx="0.686422" ty="-0.269929" tz="0.765358"/>
+    <Box sX="0.064773" sY="0.433235" sZ="0.311313" angle="22.64043" ax="-0.773369" ay="-0.096992" az="0.626492" tx="0.419944" ty="-0.150215" tz="0.750312"/>
+    <Box sX="0.064773" sY="0.433235" sZ="0.311313" angle="165.8723" ax="0.019185" ay="0.152967" az="0.988045" tx="-0.419944" ty="-0.150215" tz="0.750312"/>
+    <Box sX="0.185366" sY="0.24927" sZ="0.181809" angle="156.34804" ax="0.008624" ay="0.377701" az="0.925887" tx="-0.686422" ty="-0.269929" tz="0.765358"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.320137" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.160069" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.19133,0,0,0,0.273715,0,0,0,0.245557" centerOfMass="0,-0.175004,0.892081" mass="1.12999999523" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.977556" minY="-1.0851" minZ="-0.182088" maxX="0.977556" maxY="0.555982" maxZ="1.60252"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.967582" minY="-1.0851" minZ="-0.182088" maxX="0.967582" maxY="0.555982" maxZ="1.60252"/>
+  </GeometryBounding>
+</LEGOPrimitive>

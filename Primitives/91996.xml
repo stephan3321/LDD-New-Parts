@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="91996"/>
+    <Annotation designname="LED-FOR FX LIGHT, VIRTUEL A"/>
+    <Annotation maingroupid="292"/>
+    <Annotation maingroupname="ELECTRIC PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.19" sY="0.523534" sZ="0.095001" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="0.533534" tz="-1.095"/>
+    <Box sX="1.19" sY="0.1" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="0.11" tz="-0.4"/>
+    <Box sX="0.2805" sY="0.6296" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="1.7095" ty="0.6396" tz="-0.400001"/>
+    <Box sX="1.19" sY="0.0471" sZ="0.579483" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="1.2221" tz="-0.399142"/>
+    <Box sX="1.19" sY="0.523534" sZ="0.095001" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="0.533534" tz="0.295"/>
+    <Box sX="1.19" sY="0.138251" sZ="0.118294" angle="45" ax="-1" ay="0" az="0" tx="0.8" ty="1.08118" tz="0.204452"/>
+    <Box sX="1.19" sY="0.139464" sZ="0.121278" angle="45" ax="1" ay="0" az="0" tx="0.8" ty="1.07993" tz="-1.00149"/>
+    <Box sX="0.1695" sY="0.096066" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="0.791" ty="1.17313" tz="-0.4"/>
+    <Box sX="0.065" sY="0.119864" sZ="0.112084" angle="0" ax="0" ay="1" az="0" tx="-0.325" ty="0.350136" tz="0.067916"/>
+    <Box sX="0.065" sY="0.119864" sZ="0.112084" angle="0" ax="0" ay="1" az="0" tx="-0.325" ty="0.350136" tz="-0.867916"/>
+    <Box sX="0.075" sY="0.225" sZ="0.219431" angle="0" ax="0" ay="1" az="0" tx="-0.315" ty="0.93" tz="-0.970568"/>
+    <Box sX="0.075" sY="0.225" sZ="0.219431" angle="0" ax="0" ay="1" az="0" tx="-0.315" ty="0.93" tz="0.170569"/>
+    <Box sX="0.28025" sY="0.166684" sZ="0.34" angle="0" ax="0" ay="1" az="0" tx="-0.109749" ty="1.10252" tz="0.050001"/>
+    <Box sX="0.28025" sY="0.166684" sZ="0.34" angle="0" ax="0" ay="1" az="0" tx="-0.109749" ty="1.10252" tz="-0.85"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="6" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.28" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:2,23:4:1,0:4:2,23:4:1,0:4:2,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:2,23:4:1,0:4:2,23:4:1,0:4:2,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="6" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,23:4:1,15:4:2,23:4:1,15:4:2,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:2,23:4:1,15:4:2,23:4:1,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Slider type="6" length="0.97" startCapped="1" endCapped="1" angle="180" ax="-0.707107" ay="-0.707107" az="0" tx="-0.73" ty="0.580328" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.390286,0,0,0,0.843542,0,0,0,0.807162" centerOfMass="0.645,0.7286,-0.4" mass="1" frictionType="0"/>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2"/>
+  <Bounding>
+    <AABB minX="-0.73" minY="0" minZ="-1.2" maxX="2.02" maxY="1.4572" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.02" maxY="1.4572" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

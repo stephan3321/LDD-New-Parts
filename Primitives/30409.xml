@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30409"/>
+    <Annotation designname="PRINCESS LEIA HAIR"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.553974" sY="0.172257" sZ="0.542525" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.182257" tz="-0.065794"/>
+    <Box sX="0.519935" sY="0.340234" sZ="0.065691" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.320751" tz="-0.581068"/>
+    <Box sX="0.110059" sY="0.340234" sZ="0.384819" angle="0" ax="0" ay="1" az="0" tx="-0.618575" ty="-0.313822" tz="-0.106187"/>
+    <Box sX="0.110059" sY="0.340234" sZ="0.384819" angle="0" ax="0" ay="1" az="0" tx="0.618575" ty="-0.313822" tz="-0.106187"/>
+    <Box sX="0.505989" sY="0.130571" sZ="0.023333" angle="0" ax="0" ay="1" az="0" tx="-0.013966" ty="-0.067333" tz="0.515722"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.120629,0,0,0,0.195252,0,0,0,0.184614" centerOfMass="-0.010279,-0.154951,-0.165352" mass="0.699999988079" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.776505" minY="-0.764542" minZ="-0.740776" maxX="0.776505" maxY="0.418906" maxZ="0.588264"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.776505" minY="-0.764542" minZ="-0.740776" maxX="0.776505" maxY="0.418906" maxZ="0.588264"/>
+  </GeometryBounding>
+</LEGOPrimitive>

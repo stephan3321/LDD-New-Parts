@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2338"/>
+    <Annotation designname="MINI HENNIN"/>
+    <Annotation maingroupid="250"/>
+    <Annotation maingroupname="FIGURE, THEME"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.184873" sY="0.143063" sZ="0.488947" angle="130.19559" ax="-1" ay="0" az="0" tx="-0.003579" ty="0.508817" tz="-0.053089"/>
+    <Box sX="0.299333" sY="0.113719" sZ="0.37486" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="-0.634933" ty="-0.351842" tz="0"/>
+    <Box sX="0.299247" sY="0.112403" sZ="0.470726" angle="158.90941" ax="-0.186157" ay="-0.694747" az="-0.694747" tx="-0.316809" ty="-0.447707" tz="-0.548728"/>
+    <Box sX="0.299333" sY="0.112403" sZ="0.470726" angle="158.90941" ax="-0.186157" ay="0.694747" az="0.694747" tx="0.316808" ty="-0.447707" tz="-0.548728"/>
+    <Box sX="0.299333" sY="0.029179" sZ="0.148535" angle="93.84096" ax="-0.935113" ay="-0.250563" az="-0.250563" tx="-0.275196" ty="-0.055539" tz="0.476654"/>
+    <Box sX="0.299333" sY="0.113719" sZ="0.37486" angle="120" ax="-0.57735" ay="0.57735" az="0.57735" tx="0.634933" ty="-0.351842" tz="0"/>
+    <Box sX="0.299247" sY="0.029179" sZ="0.148535" angle="93.84096" ax="-0.935113" ay="0.250563" az="0.250563" tx="0.275196" ty="-0.055539" tz="0.476654"/>
+    <Box sX="0.327781" sY="0.191594" sZ="0.500784" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.516175" tz="-0.310384"/>
+    <Box sX="0.470843" sY="0.45058" sZ="0.235375" angle="90" ax="-1" ay="0" az="0" tx="-0.010823" ty="0.250766" tz="-0.116747"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.525926,0,0,0,0.401468,0,0,0,0.557963" centerOfMass="0,0.037395,-0.081901" mass="1.02999997139" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.794555" minY="-0.959508" minZ="-0.815391" maxX="0.794555" maxY="1.0343" maxZ="0.65159"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.794555" minY="-0.959508" minZ="-0.815391" maxX="0.794555" maxY="1.0343" maxZ="0.622611"/>
+  </GeometryBounding>
+</LEGOPrimitive>

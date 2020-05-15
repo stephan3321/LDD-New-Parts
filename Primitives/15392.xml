@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15392"/>
+    <Annotation designname="TRIGGER FOR MINI SHOOTER"/>
+    <Annotation maingroupid="286"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.163576" sY="0.302783" sZ="0.122" angle="0" ax="0" ay="1" az="0" tx="0.091424" ty="-0.004212" tz="0"/>
+    <Box sX="0.067782" sY="0.067782" sZ="0.335" angle="45" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0"/>
+    <Box sX="0.27862" sY="0.286178" sZ="0.07" angle="0" ax="0" ay="1" az="0" tx="-0.370773" ty="0" tz="0"/>
+    <Box sX="0.266235" sY="0.131564" sZ="0.07" angle="0" ax="0" ay="1" az="0" tx="-0.43805" ty="0" tz="0"/>
+    <Box sX="0.047741" sY="0.05142" sZ="0.122" angle="0" ax="0" ay="1" az="0" tx="0.322741" ty="0.247151" tz="0"/>
+    <Box sX="0.047741" sY="0.05142" sZ="0.122" angle="180" ax="1" ay="0" az="0" tx="0.322741" ty="-0.247151" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="209" oriented="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.07317,0,0,0,0.153257,0,0,0,0.147078" centerOfMass="-0.171264,0,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.755" minY="-0.316995" minZ="-0.345" maxX="0.412471" maxY="0.316995" maxZ="0.345"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.755" minY="-0.316995" minZ="-0.345" maxX="0.412471" maxY="0.316995" maxZ="0.345"/>
+  </GeometryBounding>
+</LEGOPrimitive>

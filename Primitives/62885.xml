@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="62885;63288;63972"/>
+    <Annotation designname="SUBMACHINE GUN Ø3.2 SHAFT"/>
+    <Annotation maingroupid="247"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.103137" sY="0.49" sZ="0.103137" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.5" tz="0"/>
+    <Box sX="0.103137" sY="0.19" sZ="0.103137" angle="114.21797" ax="0.368698" ay="-0.267875" az="0.890115" tx="1.00759" ty="1.33691" tz="0"/>
+    <Box sX="0.06353" sY="0.120442" sZ="0.05" angle="38.0087" ax="0" ay="0" az="1" tx="-0.400749" ty="0.921189" tz="0"/>
+    <Box sX="0.22272" sY="0.177697" sZ="0.05" angle="23.18869" ax="0" ay="0" az="1" tx="0.177214" ty="0.646619" tz="0"/>
+    <Box sX="0.633717" sY="0.215" sZ="0.19" angle="18.00001" ax="0" ay="0" az="1" tx="0.194349" ty="1.10947" tz="0"/>
+    <Box sX="0.654372" sY="0.065" sZ="0.16" angle="18.00001" ax="0" ay="0" az="1" tx="0.26741" ty="0.817774" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="108" ax="0" ay="0" az="1" tx="1.32141" ty="1.01829" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.600041" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="-0.809017" ay="0.587785" az="0" tx="1.1978" ty="1.39871" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.21377,0,0,0,0.276887,0,0,0,0.46399" centerOfMass="0.358051,0.775441,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.53114" minY="0" minZ="-0.2" maxX="1.24724" maxY="1.55088" maxZ="0.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.53114" minY="0" minZ="-0.2" maxX="1.24724" maxY="1.55088" maxZ="0.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

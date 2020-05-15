@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="44360"/>
+    <Annotation designname="SNOWTROOPER HELMET"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.323334" sY="0.039798" sZ="0.423554" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.369799" tz="0"/>
+    <Box sX="0.04409" sY="0.606637" sZ="0.187168" angle="0" ax="0" ay="1" az="0" tx="-0.50891" ty="-1.48377" tz="-0.620798"/>
+    <Box sX="0.04409" sY="0.606637" sZ="0.190642" angle="180" ax="0" ay="1" az="0" tx="0.50891" ty="-1.48377" tz="-0.617323"/>
+    <Box sX="0.016225" sY="0.429525" sZ="0.366266" angle="0" ax="0" ay="1" az="0" tx="-0.536775" ty="-0.409851" tz="-0.024941"/>
+    <Box sX="0.016225" sY="0.429" sZ="0.366266" angle="0" ax="0" ay="1" az="0" tx="0.536775" ty="-0.409326" tz="-0.024941"/>
+    <Box sX="0.47884" sY="0.428146" sZ="0.016225" angle="0" ax="0" ay="1" az="0" tx="-0.032403" ty="-0.408473" tz="-0.536775"/>
+    <Box sX="0.553" sY="0.45952" sZ="0.048512" angle="13.05849" ax="1" ay="0" az="0" tx="0" ty="-1.39471" tz="-0.827079"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.080194" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.663737,0,0,0,0.389457,0,0,0,0.572119" centerOfMass="-0.006272,-0.656003,-0.268828" mass="1.30999994278" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.697867" minY="-2.19938" minZ="-1.05644" maxX="0.697867" maxY="0.439" maxZ="0.751383"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.697867" minY="-2.19938" minZ="-1.05644" maxX="0.697867" maxY="0.439" maxZ="0.751383"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15344"/>
+    <Annotation designname="MINI ROBOT HEAD NO.1, 2014"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="0.187013" sZ="0.468934" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.206966" tz="-0.103677"/>
+    <Box sX="0.328942" sY="0.56089" sZ="0.042112" angle="12.26521" ax="-1" ay="0" az="0" tx="0" ty="-0.230509" tz="0.616629"/>
+    <Box sX="0.337008" sY="0.394767" sZ="0.042112" angle="0.990711" ax="1" ay="0" az="0" tx="0" ty="0.001529" tz="-0.572285"/>
+    <Box sX="0.235013" sY="0.365828" sZ="0.042112" angle="57.68855" ax="0.217256" ay="-0.95857" az="-0.184238" tx="-0.372245" ty="-0.365393" tz="0.498429"/>
+    <Box sX="0.298446" sY="0.394767" sZ="0.042112" angle="118.95184" ax="0.126945" ay="-0.988592" az="-0.081056" tx="-0.489205" ty="-0.07503" tz="-0.24784"/>
+    <Box sX="0.168706" sY="0.365828" sZ="0.042112" angle="81.81621" ax="0.126627" ay="-0.98368" az="-0.127821" tx="-0.548938" ty="-0.249882" tz="0.141544"/>
+    <Box sX="0.235013" sY="0.365828" sZ="0.042112" angle="124.91019" ax="0.100245" ay="-0.987916" az="-0.11821" tx="0.372245" ty="-0.365393" tz="0.498429"/>
+    <Box sX="0.168706" sY="0.365828" sZ="0.042112" angle="99.7944" ax="0.109432" ay="-0.988065" az="-0.10841" tx="0.548938" ty="-0.249882" tz="0.141544"/>
+    <Box sX="0.298446" sY="0.394767" sZ="0.042112" angle="63.23014" ax="0.133197" ay="-0.968887" az="-0.208604" tx="0.489205" ty="-0.07503" tz="-0.24784"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.314742,0,0,0,0.38102,0,0,0,0.328989" centerOfMass="0,-0.197532,0.063136" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.77" minY="-0.825279" minZ="-0.678592" maxX="0.77" maxY="0.430216" maxZ="0.804864"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.77" minY="-0.825279" minZ="-0.678592" maxX="0.77" maxY="0.430216" maxZ="0.802379"/>
+  </GeometryBounding>
+</LEGOPrimitive>

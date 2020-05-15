@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2815"/>
+    <Annotation designname="TYRE FOR WEDGE-BELT WHEEL"/>
+    <Annotation maingroupid="367"/>
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.45807" sY="0.078562" sZ="0.091075" angle="180" ax="0" ay="-0.707106" az="0.707107" tx="0.007259" ty="1.31656" tz="-0.199083"/>
+    <Box sX="0.45807" sY="0.078562" sZ="0.091075" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.007259" ty="-1.31236" tz="-0.199083"/>
+    <Box sX="0.45807" sY="0.078562" sZ="0.091075" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-1.31352" ty="0.0046" tz="-0.199083"/>
+    <Box sX="0.45807" sY="0.078562" sZ="0.091075" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="1.31243" ty="0.0046" tz="-0.199083"/>
+    <Box sX="0.45807" sY="0.078562" sZ="0.091075" angle="98.42105" ax="-0.862856" ay="0.357407" az="-0.357407" tx="-0.92205" ty="-0.931761" tz="-0.199083"/>
+    <Box sX="0.45807" sY="0.078562" sZ="0.091075" angle="148.60028" ax="-0.281085" ay="0.678598" az="-0.678598" tx="-0.929623" ty="0.926641" tz="-0.199083"/>
+    <Box sX="0.45807" sY="0.078562" sZ="0.091075" angle="148.60028" ax="-0.281085" ay="-0.678598" az="0.678598" tx="0.927293" ty="0.928326" tz="-0.199083"/>
+    <Box sX="0.45807" sY="0.078562" sZ="0.091075" angle="98.42105" ax="-0.862856" ay="-0.357407" az="0.357407" tx="0.937386" ty="-0.913096" tz="-0.199083"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="10" axes="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.2"/>
+    <Fixed type="10" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.2"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.817591,0,0,0,0.817749,0,0,0,1.62144" centerOfMass="0,0.000342,-0.19993" mass="0.875" frictionType="1"/>
+  <Bounding>
+    <AABB minX="-1.54" minY="-1.54" minZ="-0.37" maxX="1.54" maxY="1.54" maxZ="-0.03"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.54" minY="-1.54" minZ="-0.37" maxX="1.54" maxY="1.54" maxZ="-0.03"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="10049"/>
+    <Annotation designname="MINI SHILD NO.1"/>
+    <Annotation maingroupid="247"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.060004" sY="0.103133" sZ="0.103133" angle="45" ax="1" ay="0" az="0" tx="0.229996" ty="0" tz="0"/>
+    <Box sX="0.060004" sY="0.103133" sZ="0.103133" angle="45" ax="1" ay="0" az="0" tx="-0.229996" ty="0" tz="0"/>
+    <Box sX="0.29" sY="0.069997" sZ="0.057779" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-0.070779"/>
+    <Box sX="0.368622" sY="0.09" sZ="0.0165" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0.3435"/>
+    <Box sX="0.578508" sY="0.744051" sZ="0.07742" angle="5.98727" ax="0" ay="0" az="-1" tx="0.118129" ty="-0.083393" tz="0.45742"/>
+    <Box sX="0.134631" sY="0.134631" sZ="0.100836" angle="45" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0.480836"/>
+    <Box sX="0.056791" sY="0.09" sZ="0.200162" angle="9.99997" ax="0" ay="1" az="0" tx="0.349341" ty="0" tz="0.29719"/>
+    <Box sX="0.056791" sY="0.09" sZ="0.200162" angle="170.00003" ax="0" ay="1" az="0" tx="-0.349341" ty="0" tz="0.29719"/>
+    <Box sX="0.543744" sY="0.396093" sZ="0.091356" angle="21.25406" ax="0" ay="0" az="-1" tx="0.192142" ty="0.653098" tz="0.471356"/>
+    <Box sX="0.543744" sY="0.502908" sZ="0.066113" angle="7.60824" ax="0" ay="0" az="1" tx="-0.170765" ty="-0.28136" tz="0.446113"/>
+    <Box sX="0.103758" sY="0.407946" sZ="0.080883" angle="8.22877" ax="0.021611" ay="0.948237" az="0.316827" tx="0.450488" ty="-0.946812" tz="0.47845"/>
+    <Box sX="0.103758" sY="0.407946" sZ="0.080883" angle="172.19781" ax="0.022784" ay="0.999739" az="0.001554" tx="-0.450488" ty="-0.946812" tz="0.47845"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0.3" ty="0" tz="0"/>
+    <Axel type="6" length="0.2" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="-0.1" tz="0.157"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.657355,0,0,0,0.288444,0,0,0,0.809065" centerOfMass="0.029941,-0.045728,0.292887" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.782604" minY="-1.375" minZ="-0.159994" maxX="0.842487" maxY="1.28354" maxZ="0.745768"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.782604" minY="-1.375" minZ="-0.159994" maxX="0.795359" maxY="1.28354" maxZ="0.745768"/>
+  </GeometryBounding>
+</LEGOPrimitive>

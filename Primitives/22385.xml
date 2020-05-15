@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="22385"/>
+    <Annotation designname="FLAT TILE 2X3 W/ ANGLE"/>
+    <Annotation maingroupid="215"/>
+    <Annotation maingroupname="PLATES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.789838" sY="0.79" sZ="0.086" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.399839" ty="0.096" tz="-0.4"/>
+    <Box sX="0.763827" sY="0.662003" sZ="0.086" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.373827" ty="0.224" tz="-0.400003"/>
+    <Box sX="0.150341" sY="0.064873" sZ="0.086" angle="148.60028" ax="0.281085" ay="0.678598" az="-0.678598" tx="1.26026" ty="0.096" tz="-1.0335"/>
+    <Box sX="0.064886" sY="0.150457" sZ="0.086" angle="148.60028" ax="0.281085" ay="0.678598" az="-0.678598" tx="1.26018" ty="0.096" tz="0.233588"/>
+    <Box sX="0.150231" sY="0.150218" sZ="0.086" angle="148.60028" ax="0.281085" ay="0.678598" az="-0.678598" tx="1.77307" ty="0.096" tz="-0.399994"/>
+    <Box sX="0.465178" sY="0.464347" sZ="0.045" angle="148.60028" ax="0.281085" ay="0.678598" az="-0.678598" tx="1.14707" ty="0.265" tz="-0.399415"/>
+    <Box sX="0.465178" sY="0.464347" sZ="0.008783" angle="148.60028" ax="0.281085" ay="0.678598" az="-0.678598" tx="1.2541" ty="0.228783" tz="-0.400604"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="6" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,29:0:1,29:0:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,29:0:1,29:0:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,29:0:1,29:0:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,29:0:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.22212,0,0,0,0.693586,0,0,0,0.488534" centerOfMass="0.8,0.159994,-0.399526" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-1.2E-005" minZ="-1.2" maxX="2" maxY="0.32" maxZ="0.400948"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="-1.2E-005" minZ="-1.2" maxX="2" maxY="0.32" maxZ="0.400948"/>
+  </GeometryBounding>
+</LEGOPrimitive>

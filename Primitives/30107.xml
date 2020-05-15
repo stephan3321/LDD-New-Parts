@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30107"/>
+    <Annotation designname="BROOM 10 M"/>
+    <Annotation maingroupid="251"/>
+    <Annotation maingroupname="FIGURE, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.103137" sY="3.47876" sZ="0.103137" angle="45" ax="0" ay="-1" az="0" tx="0" ty="3.64098" tz="0.010653"/>
+    <Box sX="0.046569" sY="0.059282" sZ="0.046569" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.082935" tz="0.010653"/>
+    <Box sX="1.18997" sY="0.470029" sZ="0.068995" angle="15.5" ax="1" ay="0" az="0" tx="0" ty="7.51608" tz="-0.176521"/>
+    <Box sX="0.068985" sY="0.470029" sZ="0.381995" angle="15.5" ax="1" ay="0" az="0" tx="-1.12098" ty="7.43244" tz="0.125096"/>
+    <Box sX="0.068985" sY="0.470029" sZ="0.381995" angle="15.5" ax="1" ay="0" az="0" tx="1.12098" ty="7.43244" tz="0.125096"/>
+    <Box sX="1.18997" sY="0.081439" sZ="0.381995" angle="15.5" ax="1" ay="0" az="0" tx="0" ty="7.05798" tz="0.02125"/>
+    <Box sX="1.18997" sY="0.470029" sZ="0.061" angle="15.5" ax="1" ay="0" az="0" tx="0" ty="7.34665" tz="0.434417"/>
+    <Box sX="0.033651" sY="0.438995" sZ="0.381995" angle="15.5" ax="1" ay="0" az="0" tx="1.5E-005" ty="7.40253" tz="0.116802"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="6.77491" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0.152217" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="5.42669,0,0,0,0.563314,0,0,0,5.82343" centerOfMass="0,3.99599,0.131253" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.20003" minY="-0.007783" minZ="-0.368616" maxX="1.20003" maxY="7.99976" maxZ="0.631122"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.20003" minY="-0.007783" minZ="-0.319627" maxX="1.20003" maxY="7.99976" maxZ="0.631122"/>
+  </GeometryBounding>
+</LEGOPrimitive>

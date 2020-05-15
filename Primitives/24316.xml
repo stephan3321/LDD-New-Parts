@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24316"/>
+    <Annotation designname="CROSS AXLE 3M W/END STOP"/>
+    <Annotation maingroupid="385"/>
+    <Annotation maingroupname="CONNECTORS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.215" sY="0.0675" sZ="1.15" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-1.16"/>
+    <Box sX="0.0675" sY="0.215" sZ="1.15" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-1.16"/>
+    <Box sX="0.201751" sY="0.201751" sZ="0.025" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-2.365"/>
+    <Box sX="0.201751" sY="0.201751" sZ="0.025" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-2.365"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="17" length="0.08" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="-2.4"/>
+    <Axel type="5" length="2.4" requireGrabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.51,0,0,0,0.51,0,0,0,0.06" centerOfMass="0,0,-1.2" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.30001" minY="-0.3" minZ="-2.4" maxX="0.29999" maxY="0.3" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.30001" minY="-0.3" minZ="-2.4" maxX="0.29999" maxY="0.3" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

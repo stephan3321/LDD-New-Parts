@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="85973"/>
+    <Annotation designname="TOMMY GUN"/>
+    <Annotation maingroupid="247"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.102251" sY="0.405152" sZ="0.102251" angle="45.00001" ax="0" ay="1" az="0" tx="0" ty="0.415152" tz="-0.001254"/>
+    <Box sX="0.160595" sY="0.1303" sZ="0.05" angle="18.18051" ax="0" ay="0" az="1" tx="0.257871" ty="0.708365" tz="0"/>
+    <Box sX="0.15" sY="0.254863" sZ="0.254863" angle="48.29228" ax="0.923989" ay="0.146346" az="0.353309" tx="0.807135" ty="0.808639" tz="0"/>
+    <Box sX="0.102251" sY="0.59" sZ="0.102251" angle="114.21797" ax="-0.368699" ay="0.267875" az="0.890115" tx="1.64582" ty="1.59295" tz="0"/>
+    <Box sX="0.010525" sY="0.026346" sZ="0.026346" angle="48.29228" ax="0.923989" ay="0.146345" az="0.353309" tx="0.97721" ty="0.869393" tz="0"/>
+    <Box sX="0.7" sY="0.24" sZ="0.19" angle="161.99998" ax="0" ay="0" az="-1" tx="0.412743" ty="1.14871" tz="0"/>
+    <Box sX="0.160536" sY="0.05" sZ="0.19" angle="161.99998" ax="0" ay="0" az="-1" tx="-0.14007" ty="1.29505" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.691548" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="1.2" requireGrabbing="0" startCapped="1" endCapped="0" angle="110.2118" ax="0.506732" ay="0.697457" az="-0.506732" tx="1.07557" ty="1.40635" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="108" ax="0" ay="0" az="1" tx="2.34045" ty="1.39675" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.087089,0,0,0,0.208985,0,0,0,0.277673" centerOfMass="0.659165,0.964164,-0.001503" mass="0.600000023842" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.345942" minY="0" minZ="-0.379995" maxX="2.26628" maxY="1.92934" maxZ="0.380005"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.345942" minY="0" minZ="-0.379995" maxX="2.26628" maxY="1.92934" maxZ="0.380005"/>
+  </GeometryBounding>
+</LEGOPrimitive>

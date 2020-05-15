@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="29592"/>
+    <Annotation designname="SPORT EQUIPMENT NO. 1, PART 1"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.4415" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.85019" tz="0"/>
+    <Sphere radius="0.4415" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.85019" tz="0"/>
+    <Box sX="0.105964" sY="0.84019" sZ="0.105964" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.885266" requireGrabbing="1" startCapped="1" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="-0.442633" tz="0"/>
+    <Ball type="5" angle="180" ax="1" ay="0" az="0" tx="0" ty="0.85019" tz="0"/>
+    <Ball type="5" angle="0" ax="0" ay="0" az="1" tx="0" ty="-0.85019" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.63275,0,0,0,0.135902,0,0,0,0.63275" centerOfMass="0,0,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4515" minY="-1.30169" minZ="-0.4515" maxX="0.4515" maxY="1.30169" maxZ="0.4515"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4515" minY="-1.30169" minZ="-0.4515" maxX="0.4515" maxY="1.30169" maxZ="0.4515"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3836"/>
+    <Annotation designname="MINI BROOM"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.68" sY="0.060001" sZ="0.28" angle="24.00001" ax="1" ay="0" az="0" tx="0" ty="2.96395" tz="0.028472"/>
+    <Box sX="0.64" sY="0.15" sZ="0.24" angle="24.00001" ax="1" ay="0" az="0" tx="0" ty="3.17406" tz="0.122021"/>
+    <Box sX="0.0975" sY="0.0975" sZ="1.45608" angle="90" ax="1" ay="0" az="0" tx="0" ty="1.46608" tz="0"/>
+    <Box sX="0.0975" sY="0.0975" sZ="1.45608" angle="98.42105" ax="0.862856" ay="-0.357407" az="0.357407" tx="0" ty="1.46608" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="2.8336" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.45083,0,0,0,0.043784,0,0,0,0.47901" centerOfMass="0,2.19735,0.031847" mass="0.442000001669" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.69" minY="0" minZ="-0.264928" maxX="0.69" maxY="3.42192" maxZ="0.415485"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.69" minY="0" minZ="-0.264928" maxX="0.69" maxY="3.42192" maxZ="0.415485"/>
+  </GeometryBounding>
+</LEGOPrimitive>

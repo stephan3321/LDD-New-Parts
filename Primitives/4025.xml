@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4025;15604"/>
+    <Annotation designname="BOGIE PLATE 4X6"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="2.39" sY="0.13" sZ="1.59" angle="0" ax="0" ay="1" az="0" tx="2" ty="0.14" tz="-1.2"/>
+    <Box sX="0.15" sY="0.43" sZ="0.141987" angle="0" ax="0" ay="1" az="0" tx="2" ty="0.44" tz="-1.2"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="12" height="8" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-2.8">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="29" oriented="0" angle="0" ax="0" ay="0" az="1" tx="2" ty="0.48" tz="-1.2"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.3611,0,0,0,8.21584,0,0,0,5.92586" centerOfMass="2,0.201916,-1.2" mass="2.54600000381" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-2.8" maxX="4.4" maxY="0.88" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-2.8" maxX="4.4" maxY="0.88" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

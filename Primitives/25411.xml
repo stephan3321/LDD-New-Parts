@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25411"/>
+    <Annotation designname="MINI WIG, NO. 146"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.382372" sY="0.289716" sZ="0.343089" angle="0" ax="0" ay="1" az="0" tx="0.016431" ty="0.314517" tz="0"/>
+    <Box sX="0.525003" sY="0.028006" sZ="0.343089" angle="82.62942" ax="0.003469" ay="0.001587" az="0.999993" tx="-0.508306" ty="-0.059285" tz="-0.088609"/>
+    <Box sX="0.591161" sY="0.028006" sZ="0.343089" angle="96.744" ax="0.002869" ay="0.001768" az="0.999994" tx="0.509726" ty="-0.002621" tz="-0.088513"/>
+    <Box sX="0.670107" sY="0.028006" sZ="0.428186" angle="124.13263" ax="0.60039" ay="0.533112" az="0.59609" tx="0.031348" ty="-0.062262" tz="-0.505895"/>
+    <Box sX="0.34552" sY="0.028006" sZ="0.343089" angle="111.63174" ax="0.519876" ay="0.681575" az="0.514961" tx="0.065801" ty="0.271806" tz="0.447399"/>
+    <Box sX="0.340657" sY="0.143656" sZ="0.228634" angle="22.71248" ax="0" ay="-1" az="0" tx="0.15033" ty="0.766911" tz="-0.021272"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.438323,0,0,0,0.349876,0,0,0,0.42124" centerOfMass="0.015862,0.066025,-0.066387" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.690672" minY="-0.808349" minZ="-0.808303" maxX="0.722396" maxY="0.940399" maxZ="0.675528"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.690672" minY="-0.808349" minZ="-0.808303" maxX="0.722396" maxY="0.940399" maxZ="0.675528"/>
+  </GeometryBounding>
+</LEGOPrimitive>

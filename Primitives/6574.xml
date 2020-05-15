@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6574"/>
+    <Annotation designname="RACK W. BALL"/>
+    <Annotation maingroupid="388"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.95" sY="0.175" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="0.085" tz="-0.475"/>
+    <Box sX="0.096098" sY="0.076143" sZ="0.159828" angle="0" ax="0" ay="1" az="0" tx="1.6005" ty="0.029539" tz="-0.380172"/>
+    <Box sX="0.096098" sY="0.076143" sZ="0.159828" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.029539" tz="-0.380172"/>
+    <Box sX="0.95" sY="0.175" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="0.085" tz="-1.125"/>
+    <Box sX="0.95" sY="0.045" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.8" ty="0.215" tz="-0.8"/>
+    <Box sX="0.033636" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.32" tz="-0.8"/>
+    <Box sX="0.033636" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.32" ty="0.32" tz="-0.8"/>
+    <Box sX="0.033636" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.64" ty="0.32" tz="-0.8"/>
+    <Box sX="0.033636" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.96" ty="0.32" tz="-0.8"/>
+    <Box sX="0.033636" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.28" ty="0.32" tz="-0.8"/>
+    <Box sX="0.033636" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.6" ty="0.32" tz="-0.8"/>
+    <Sphere radius="0.25" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Sphere radius="0.25" angle="0" ax="0" ay="1" az="0" tx="1.6" ty="0" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.1" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      15:4,15:4:1,15:4:1,15:4:1,15:4,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Ball type="3" angle="180" ax="0" ay="0.707107" az="0.707107" tx="0" ty="0" tz="0"/>
+    <Ball type="3" angle="180" ax="0" ay="0.707107" az="0.707107" tx="1.6" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.150991,0,0,0,0.425368,0,0,0,0.314538" centerOfMass="0.8,0.141798,-0.555176" mass="0.839999973774" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.295" minY="-0.295" minZ="-1.2" maxX="1.895" maxY="0.48" maxZ="0.295"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.295" minY="-0.295" minZ="-1.2" maxX="1.895" maxY="0.48" maxZ="0.295"/>
+  </GeometryBounding>
+</LEGOPrimitive>

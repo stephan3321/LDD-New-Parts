@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="95053"/>
+    <Annotation designname="SWORD"/>
+    <Annotation maingroupid="247"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="0"/>
+    <Annotation platformname="None"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.097729" sY="1.27276" sZ="0.100262" angle="0" ax="0" ay="1" az="0" tx="0.000202" ty="1.28276" tz="0"/>
+    <Box sX="0.454479" sY="0.162402" sZ="0.100262" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.969074" tz="0"/>
+    <Box sX="0.21462" sY="0.878616" sZ="0.033626" angle="0" ax="0" ay="1" az="0" tx="0.000202" ty="1.6769" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.637652" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.093007,0,0,0,0.004919,0,0,0,0.096314" centerOfMass="0.000166,1.13328,0.001015" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.477271" minY="0" minZ="-0.17" maxX="0.477271" maxY="2.7" maxZ="0.17"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.477271" minY="0" minZ="-0.17" maxX="0.477271" maxY="2.7" maxZ="0.17"/>
+  </GeometryBounding>
+</LEGOPrimitive>

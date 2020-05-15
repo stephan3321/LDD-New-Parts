@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3678;90512"/>
+    <Annotation designname="ROOF TILE 2X2X2/65 DEG."/>
+    <Annotation maingroupid="205"/>
+    <Annotation maingroupname="BRICKS, WITH SLOPE"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.95" sZ="0.390022" angle="0" ax="0" ay="1" az="0" tx="0.399861" ty="0.96" tz="-0.000205"/>
+    <Box sX="0.79" sY="0.938472" sZ="0.218876" angle="25" ax="-1" ay="0" az="0" tx="0.399861" ty="0.963665" tz="0.593409"/>
+    <Box sX="0.79" sY="0.09" sZ="0.790227" angle="0" ax="0" ay="1" az="0" tx="0.399861" ty="0.1" tz="0.4"/>
+    <Box sX="0.79" sY="0.311449" sZ="0.141096" angle="0" ax="0" ay="1" az="0" tx="0.399861" ty="0.521449" tz="0.550913"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.92" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.952033,0,0,0,0.876556,0,0,0,1.08554" centerOfMass="0.399837,0.995574,0.213339" mass="2.09999990463" frictionType="0"/>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,0,0"/>
+  <Bounding>
+    <AABB minX="-0.400139" minY="0" minZ="-0.400227" maxX="1.2" maxY="2.098" maxZ="1.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.400139" minY="0" minZ="-0.400227" maxX="1.2" maxY="2.098" maxZ="1.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

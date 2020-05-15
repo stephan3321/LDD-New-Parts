@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="60607"/>
+    <Annotation designname="LATTIC 1/2 FOR FRAME 1X4X3"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.64" sY="1.19" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0.610001" ty="1.19962" tz="0"/>
+    <Box sX="0.16" sY="0.09" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="0.170001" ty="0.099619" tz="0"/>
+    <Box sX="0.16" sY="0.09" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="0.170001" ty="2.29962" tz="0"/>
+    <Box sX="0.060711" sY="1.19" sZ="0.060711" angle="45" ax="0" ay="1" az="0" tx="-0.039999" ty="1.19962" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="19" oriented="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="1.2" tz="0"/>
+    <Custom2DField type="22" width="2" height="4" angle="90" ax="1" ay="0" az="0" tx="0.155001" ty="1.99962" tz="-0.1">
+      29:0,29:0,29:0,
+      29:0,15:4:64,29:0,
+      29:0,29:0:1,29:0,
+      29:0,15:4:64,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="4" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.955001" ty="1.99962" tz="0.1">
+      29:0,29:0,29:0,
+      29:0,15:4:64,29:0,
+      29:0,29:0:1,29:0,
+      29:0,15:4:64,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.249997,0,0,0,0.086827,0,0,0,0.333859" centerOfMass="0.561496,1.19962,0" mass="0.40000000596" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.149999" minY="-0.037881" minZ="-0.15" maxX="1.26" maxY="2.43712" maxZ="0.15"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.149999" minY="-0.037881" minZ="-0.15" maxX="1.26" maxY="2.43712" maxZ="0.15"/>
+  </GeometryBounding>
+</LEGOPrimitive>

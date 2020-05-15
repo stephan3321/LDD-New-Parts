@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6546"/>
+    <Annotation designname="CONTAINER DOOR 1X2X3"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.68873" sY="1.19" sZ="0.064999" angle="0" ax="0" ay="1" az="0" tx="1.93627" ty="1.51999" tz="-0.08"/>
+    <Box sX="0.070229" sY="0.065" sZ="0.092946" angle="0" ax="0" ay="1" az="0" tx="1.372" ty="2.64499" tz="0.097946"/>
+    <Box sX="0.070229" sY="0.065" sZ="0.092946" angle="0" ax="0" ay="1" az="0" tx="1.372" ty="0.394995" tz="0.097946"/>
+    <Box sX="0.08" sY="0.239999" sZ="0.092946" angle="0" ax="0" ay="1" az="0" tx="1.447" ty="1.51999" tz="-0.252054"/>
+    <Box sX="0.090277" sY="1.19" sZ="0.028022" angle="0" ax="0" ay="1" az="0" tx="2.53472" ty="1.51999" tz="-0.193022"/>
+    <Box sX="0.045021" sY="1.19" sZ="0.028022" angle="0" ax="0" ay="1" az="0" tx="2.53831" ty="1.51999" tz="-0.293022"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="19" oriented="0" angle="90" ax="0" ay="-1" az="0" tx="2.535" ty="1.51999" tz="-0.255"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.280411,0,0,0,0.116745,0,0,0,0.388756" centerOfMass="2.0189,1.52,-0.098669" mass="0.54699999094" frictionType="0"/>
+  <Bounding>
+    <AABB minX="1.197" minY="0.27207" minZ="-0.355" maxX="2.635" maxY="2.76791" maxZ="0.244999"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="1.197" minY="0.27207" minZ="-0.355" maxX="2.635" maxY="2.76791" maxZ="0.244999"/>
+  </GeometryBounding>
+</LEGOPrimitive>

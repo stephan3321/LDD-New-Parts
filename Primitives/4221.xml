@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4221"/>
+    <Annotation designname="GRAB FOR LINK"/>
+    <Annotation maingroupid="285"/>
+    <Annotation maingroupname="CONNECTORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79702" sY="0.090352" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.21759" ty="0.399648" tz="0"/>
+    <Box sX="0.323691" sY="0.064755" sZ="0.045" angle="22.45808" ax="0" ay="0" az="1" tx="0.130744" ty="0.272536" tz="-0.105"/>
+    <Box sX="0.149459" sY="0.041687" sZ="0.045" angle="0" ax="0" ay="1" az="0" tx="-0.003791" ty="-0.196029" tz="-0.105"/>
+    <Box sX="0.135324" sY="0.20829" sZ="0.045" angle="27.08837" ax="0" ay="0" az="1" tx="0.223547" ty="0.162789" tz="-0.105"/>
+    <Box sX="0.323534" sY="0.064755" sZ="0.045" angle="22.45808" ax="0" ay="0" az="1" tx="0.13089" ty="0.272597" tz="0.245"/>
+    <Box sX="0.135324" sY="0.20829" sZ="0.045" angle="27.08837" ax="0" ay="0" az="1" tx="0.223547" ty="0.162789" tz="0.245"/>
+    <Box sX="0.424603" sY="0.060946" sZ="0.045" angle="42.18866" ax="0" ay="0" az="1" tx="0.383753" ty="0.080584" tz="-0.105"/>
+    <Box sX="0.424603" sY="0.060946" sZ="0.045" angle="42.18866" ax="0" ay="0" az="1" tx="0.383753" ty="0.080584" tz="0.245"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="174" oriented="1" angle="90.9762" ax="-0.983106" ay="-0.129428" az="0.129428" tx="0" ty="0" tz="-0.16"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.026901,0,0,0,0.129837,0,0,0,0.120684" centerOfMass="0.867866,0.320718,0.010449" mass="0.31099998951" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.282586" minY="-0.296898" minZ="-0.4" maxX="2.06898" maxY="0.5" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.282586" minY="-0.296898" minZ="-0.4" maxX="2.06898" maxY="0.5" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

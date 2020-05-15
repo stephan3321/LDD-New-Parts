@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="18986"/>
+    <Annotation designname="BACK PLATE W.2 KNOBS FOR TEXTILE"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.668538" sY="0.324151" sZ="0.09" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.39" tz="0.5"/>
+    <Box sX="0.06151" sY="0.05" sZ="0.39" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.06" tz="-0.32151"/>
+    <Box sX="0.115304" sY="0.05" sZ="0.14" angle="90" ax="0" ay="-1" az="0" tx="0.25" ty="0.06" tz="0.352196"/>
+    <Box sX="0.065" sY="0.05" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.325" ty="0.06" tz="0.00698"/>
+    <Box sX="0.115304" sY="0.05" sZ="0.14" angle="90" ax="0" ay="-1" az="0" tx="-0.25" ty="0.06" tz="0.352196"/>
+    <Box sX="0.065" sY="0.05" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="-0.325" ty="0.06" tz="0.00698"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="180" ax="0" ay="0.707107" az="0.707107" tx="0.8" ty="-0.8" tz="0.72">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="0.4" ty="0.12" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.210501,0,0,0,0.353301,0,0,0,0.283867" centerOfMass="0,-0.34,0.248" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.8" minY="-0.8" minZ="-0.4" maxX="0.8" maxY="0.12" maxZ="0.896"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.799473" minY="-0.8" minZ="-0.4" maxX="0.799473" maxY="0.12" maxZ="0.896"/>
+  </GeometryBounding>
+</LEGOPrimitive>

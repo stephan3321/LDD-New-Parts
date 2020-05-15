@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="33286"/>
+    <Annotation designname="BRACELET LOWER PART"/>
+    <Annotation maingroupid="227"/>
+    <Annotation maingroupname="INTERIOR"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.03" sY="0.065" sZ="0.363483" angle="0" ax="0" ay="1" az="0" tx="-0.29" ty="0.075" tz="-0.000587"/>
+    <Box sX="0.048828" sY="0.205615" sZ="0.132365" angle="45" ax="0" ay="1" az="0" tx="0.151192" ty="0.425572" tz="-0.151192"/>
+    <Box sX="0.03" sY="0.065" sZ="0.363483" angle="90" ax="0" ay="1" az="0" tx="-0.000587" ty="0.075" tz="0.29"/>
+    <Box sX="0.03" sY="0.065" sZ="0.363483" angle="180" ax="0" ay="1" az="0" tx="0.29" ty="0.075" tz="0.000587"/>
+    <Box sX="0.03" sY="0.065" sZ="0.363483" angle="90" ax="0" ay="-1" az="0" tx="0.000587" ty="0.075" tz="-0.29"/>
+    <Box sX="0.048828" sY="0.205615" sZ="0.132365" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.425572" tz="-0.213818"/>
+    <Box sX="0.048828" sY="0.205615" sZ="0.132365" angle="135" ax="0" ay="1" az="0" tx="-0.151192" ty="0.425572" tz="-0.151192"/>
+    <Box sX="0.048828" sY="0.205615" sZ="0.132365" angle="180" ax="0" ay="1" az="0" tx="-0.213818" ty="0.425572" tz="0"/>
+    <Box sX="0.048828" sY="0.205615" sZ="0.132365" angle="135" ax="0" ay="-1" az="0" tx="-0.151192" ty="0.425572" tz="0.151192"/>
+    <Box sX="0.048828" sY="0.205615" sZ="0.132365" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.425572" tz="0.213818"/>
+    <Box sX="0.048828" sY="0.205615" sZ="0.132365" angle="45" ax="0" ay="-1" az="0" tx="0.151192" ty="0.425572" tz="0.151192"/>
+    <Box sX="0.048828" sY="0.205615" sZ="0.132365" angle="0" ax="0" ay="1" az="0" tx="0.213818" ty="0.425572" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.64" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,3:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.608" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.21" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="45" ax="0" ay="1" az="0" tx="-0.565685" ty="0" tz="0">
+      29:0,29:0,29:0,
+      29:0,14:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.018399,0,0,0,0.016754,0,0,0,0.018399" centerOfMass="0.00085,0.372821,-0.00085" mass="0.202000007033" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.818" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="0.818" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

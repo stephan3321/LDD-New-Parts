@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="614410"/>
+    <Annotation designname="SHURICAN STAR Ø3,2, 1 PCS B"/>
+    <Annotation maingroupid="247"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="0"/>
+    <Annotation platformname="None"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.215" sY="0.0785" sZ="0.084767" angle="93.84096" ax="-0.935113" ay="0.250563" az="-0.250563" tx="0.126805" ty="0.220108" tz="0"/>
+    <Box sX="0.206778" sY="0.078956" sZ="0.153156" angle="90.05589" ax="-0.999025" ay="-0.031218" az="0.031218" tx="0.404085" ty="0.01041" tz="0"/>
+    <Box sX="0.215" sY="0.0785" sZ="0.084767" angle="158.90941" ax="-0.186157" ay="0.694747" az="-0.694747" tx="0.126805" ty="-0.220108" tz="0"/>
+    <Box sX="0.185999" sY="0.070429" sZ="0.137518" angle="136.25932" ax="-0.401396" ay="0.647642" az="-0.647642" tx="-0.193008" ty="-0.354523" tz="0"/>
+    <Box sX="0.215" sY="0.0785" sZ="0.084767" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="-0.254434" ty="0" tz="0"/>
+    <Box sX="0.206778" sY="0.078956" sZ="0.153156" angle="140.94557" ax="-0.354653" ay="-0.661143" az="0.661143" tx="-0.21147" ty="0.344981" tz="0"/>
+    <Box sX="0.186261" sY="0.020535" sZ="0.02129" angle="97.83337" ax="-0.871843" ay="-0.346331" az="0.346331" tx="0.705058" ty="0.038534" tz="0"/>
+    <Box sX="0.186261" sY="0.020535" sZ="0.02129" angle="168.23332" ax="-0.103046" ay="-0.703342" az="0.703343" tx="-0.386277" ty="0.591621" tz="0"/>
+    <Box sX="0.186261" sY="0.020535" sZ="0.02129" angle="112.62643" ax="-0.666584" ay="0.527099" az="-0.527099" tx="-0.319597" ty="-0.630046" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.22" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="-0.000275" ty="0" tz="0.11"/>
+    <Axel type="7" length="0.450146" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="-1" az="0" tx="-0.220275" ty="-0.225" tz="0"/>
+    <Axel type="7" length="0.450146" requireGrabbing="1" startCapped="1" endCapped="1" angle="138.59036" ax="-0.654654" ay="-0.377964" az="-0.654654" tx="-0.08513" ty="0.303026" tz="0"/>
+    <Axel type="7" length="0.450146" requireGrabbing="1" startCapped="1" endCapped="1" angle="138.59036" ax="0.654654" ay="-0.377964" az="0.654654" tx="0.304581" ty="-0.078026" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.219317,0,0,0,0.207764,0,0,0,0.410014" centerOfMass="0.145118,-0.0975,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.627987" minY="-0.892705" minZ="-0.16" maxX="0.918224" maxY="0.697705" maxZ="0.16"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.627987" minY="-0.892705" minZ="-0.16" maxX="0.918224" maxY="0.697705" maxZ="0.16"/>
+  </GeometryBounding>
+</LEGOPrimitive>

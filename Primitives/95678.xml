@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="95678"/>
+    <Annotation designname="MINI ESKIMO HOOD"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.449572" sY="0.149673" sZ="0.558339" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.159673" tz="0.180507"/>
+    <Box sX="0.377832" sY="0.12296" sZ="0.079632" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.911699" tz="0.617934"/>
+    <Box sX="0.341555" sY="0.044619" sZ="0.558339" angle="89.65488" ax="-1" ay="0" az="0" tx="0" ty="-0.388129" tz="-0.589491"/>
+    <Box sX="0.568625" sY="0.044619" sZ="0.321549" angle="94.90353" ax="-0.267357" ay="0.269475" az="-0.925151" tx="0.473811" ty="-0.376113" tz="-0.32717"/>
+    <Box sX="0.568625" sY="0.044619" sZ="0.321549" angle="91.05279" ax="0.101469" ay="-0.102272" az="-0.989568" tx="0.565268" ty="-0.368047" tz="0.272145"/>
+    <Box sX="0.341555" sY="0.044619" sZ="0.558339" angle="180" ax="0" ay="0.709233" az="-0.704974" tx="0" ty="-0.388129" tz="-0.589491"/>
+    <Box sX="0.568625" sY="0.044619" sZ="0.321549" angle="157.09865" ax="-0.695408" ay="0.689943" az="-0.200964" tx="-0.473811" ty="-0.376113" tz="-0.32717"/>
+    <Box sX="0.568625" sY="0.044619" sZ="0.321549" angle="171.62982" ax="0.708017" ay="-0.702454" az="-0.072599" tx="-0.565268" ty="-0.368047" tz="0.272145"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.362614,0,0,0,0.411382,0,0,0,0.369005" centerOfMass="0,-0.299232,0.017609" mass="1.20000004768" frictionType="0"/>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2"/>
+  <Bounding>
+    <AABB minX="-0.756251" minY="-1.12856" minZ="-0.762004" maxX="0.756251" maxY="0.392882" maxZ="0.807604"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.756251" minY="-1.12856" minZ="-0.762004" maxX="0.756251" maxY="0.392882" maxZ="0.807604"/>
+  </GeometryBounding>
+</LEGOPrimitive>

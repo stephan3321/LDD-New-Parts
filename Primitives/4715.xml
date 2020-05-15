@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4715"/>
+    <Annotation designname="UNDERFRAME FOR STRETCHER"/>
+    <Annotation maingroupid="272"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.75" sY="0.16" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0.255"/>
+    <Box sX="0.045" sY="0.13705" sZ="0.397507" angle="0" ax="0" ay="1" az="0" tx="-0.705" ty="9.4E-005" tz="0.322521"/>
+    <Box sX="0.0625" sY="0.165288" sZ="0.166798" angle="135" ax="-1" ay="0" az="0" tx="-0.7275" ty="9.4E-005" tz="0.539884"/>
+    <Box sX="0.0625" sY="0.137051" sZ="0.194492" angle="0" ax="0" ay="1" az="0" tx="0.3975" ty="9.4E-005" tz="0.119506"/>
+    <Box sX="0.045" sY="0.137051" sZ="0.399516" angle="0" ax="0" ay="1" az="0" tx="0.705" ty="9.4E-005" tz="0.32453"/>
+    <Box sX="0.0625" sY="0.137051" sZ="0.194492" angle="0" ax="0" ay="1" az="0" tx="-0.3975" ty="9.4E-005" tz="0.119506"/>
+    <Box sX="0.0625" sY="0.165288" sZ="0.166798" angle="135" ax="-1" ay="0" az="0" tx="0.7225" ty="9.4E-005" tz="0.539884"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="100" oriented="0" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.011778,0,0,0,0.077185,0,0,0,0.069863" centerOfMass="0,0,0.289558" mass="0.216999992728" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.8" minY="-0.250819" minZ="-0.169885" maxX="0.8" maxY="0.250819" maxZ="0.790703"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8" minY="-0.250819" minZ="-0.169885" maxX="0.8" maxY="0.250819" maxZ="0.790703"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3831"/>
+    <Annotation designname="HINGE 1X2 LOWER PART"/>
+    <Annotation maingroupid="286"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.47" sZ="0.23" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.48" tz="-0.16"/>
+    <Box sX="0.63" sY="0.47" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.24" ty="0.48" tz="0"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="14.99998" ax="0" ay="1" az="0" tx="1.2725" ty="0.32" tz="0.670574"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="45" ax="0" ay="1" az="0" tx="1.39807" ty="0.32" tz="0.598074"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="74.99999" ax="0" ay="1" az="0" tx="1.47057" ty="0.32" tz="0.4725"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="105" ax="0" ay="1" az="0" tx="1.47057" ty="0.32" tz="0.3275"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="135" ax="0" ay="1" az="0" tx="1.39807" ty="0.32" tz="0.201926"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="165.00002" ax="0" ay="1" az="0" tx="1.2725" ty="0.32" tz="0.129426"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="14.99998" ax="0" ay="-1" az="0" tx="1.1275" ty="0.32" tz="0.670574"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="45" ax="0" ay="-1" az="0" tx="1.00193" ty="0.32" tz="0.598074"/>
+    <Box sX="0.072822" sY="0.31" sZ="0.018978" angle="74.99999" ax="0" ay="-1" az="0" tx="0.929426" ty="0.32" tz="0.4725"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,29:0:1
+    </Custom2DField>
+    <Hinge type="54" oriented="1" angle="0" ax="0" ay="0" az="1" tx="1.2" ty="0.32" tz="0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.149961,0,0,0,0.296063,0,0,0,0.31055" centerOfMass="0.438386,0.540126,0.022891" mass="0.865999996662" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.52" maxY="1.138" maxZ="0.72"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.52" maxY="1.138" maxZ="0.72"/>
+  </GeometryBounding>
+</LEGOPrimitive>

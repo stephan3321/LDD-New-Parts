@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98369"/>
+    <Annotation designname="MINI CLEAVER W/ Ø3,2 SHAFT"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.103137" sY="0.388842" sZ="0.103137" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.398842" tz="0"/>
+    <Box sX="0.36434" sY="0.49" sZ="0.089122" angle="0" ax="0" ay="1" az="0" tx="0.190067" ty="1.26698" tz="0"/>
+    <Box sX="0.387978" sY="0.331567" sZ="0.089122" angle="8.9283" ax="0" ay="0" az="1" tx="0.149326" ty="1.5096" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.76698" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.059499,0,0,0,0.010448,0,0,0,0.06812" centerOfMass="0.113666,1.07154,2.3E-005" mass="0.239999994636" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.302544" minY="0" minZ="-0.16" maxX="0.597339" maxY="1.89736" maxZ="0.16"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.302544" minY="0" minZ="-0.16" maxX="0.597339" maxY="1.89698" maxZ="0.16"/>
+  </GeometryBounding>
+</LEGOPrimitive>

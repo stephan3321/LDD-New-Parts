@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="57051"/>
+    <Annotation designname="AXLE F. BEAR.ELEM. Ø2X44"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.060711" sY="0.060711" sZ="1.94" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-1.95"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="0.153829,0,0,0,0.153829,0,0,0,0.000599" centerOfMass="0,0,-1.95" mass="0.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.1" minY="-0.1" minZ="-3.9" maxX="0.1" maxY="0.1" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.1" minY="-0.1" minZ="-3.9" maxX="0.1" maxY="0.1" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

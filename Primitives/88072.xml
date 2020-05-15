@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="88072"/>
+    <Annotation designname="PLATE 1X2 W. VERTICAL SCHAFT"/>
+    <Annotation maingroupid="216"/>
+    <Annotation maingroupname="PLATES, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.4" ty="0.16" tz="0"/>
+    <Box sX="0.098417" sY="0.2255" sZ="0.098417" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.4" ty="0.16" tz="0.6355"/>
+    <Box sX="0.097914" sY="0.097914" sZ="0.3905" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.4" ty="0.5605" tz="0.8"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.32" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="8E-005" ty="0.96" tz="1.2">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.64" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="-0.707107" ay="0" az="-0.707107" tx="0.4" ty="0.96" tz="0.8"/>
+    <Axel type="7" length="0.24" requireGrabbing="1" startCapped="1" endCapped="1" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.4" ty="0.16" tz="0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.077599,0,0,0,0.142556,0,0,0,0.095978" centerOfMass="0.400001,0.265905,0.153192" mass="0.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.961" maxZ="0.959"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.961" maxZ="0.959"/>
+  </GeometryBounding>
+</LEGOPrimitive>

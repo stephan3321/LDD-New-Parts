@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87837"/>
+    <Annotation designname="CLAW W/BALL CUP"/>
+    <Annotation maingroupid="340"/>
+    <Annotation maingroupname="FIGURE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.458724" sY="0.257203" sZ="0.702081" angle="0" ax="0" ay="1" az="0" tx="0.027189" ty="-0.827203" tz="-0.003745"/>
+    <Box sX="0.723118" sY="0.10432" sZ="0.179309" angle="19.74152" ax="0" ay="0" az="1" tx="-1.00133" ty="-0.917979" tz="-0.003745"/>
+    <Box sX="0.19" sY="0.0655" sZ="0.205527" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.3255" tz="0.684473"/>
+    <Box sX="0.19" sY="0.05" sZ="0.205527" angle="90" ax="0" ay="0" az="1" tx="-0.31" ty="0" tz="0.684473"/>
+    <Box sX="0.19" sY="0.05" sZ="0.205527" angle="90" ax="0" ay="0" az="-1" tx="0.31" ty="0" tz="0.684473"/>
+    <Box sX="0.36" sY="0.265006" sZ="0.205527" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.523994" tz="0.684473"/>
+    <Box sX="0.657435" sY="0.159702" sZ="0.134988" angle="76.63692" ax="-0.105563" ay="0.135594" az="0.985125" tx="-0.196579" ty="-1.71407" tz="0.662854"/>
+    <Box sX="0.657129" sY="0.067579" sZ="0.134988" angle="20.94814" ax="0.134564" ay="-0.061955" az="0.988966" tx="-0.675182" ty="-2.35891" tz="0.682848"/>
+    <Box sX="0.19" sY="0.0655" sZ="0.205527" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.3255" tz="-0.684473"/>
+    <Box sX="0.19" sY="0.05" sZ="0.205527" angle="90" ax="0" ay="0" az="1" tx="-0.31" ty="0" tz="-0.684473"/>
+    <Box sX="0.19" sY="0.05" sZ="0.205527" angle="90" ax="0" ay="0" az="-1" tx="0.31" ty="0" tz="-0.684473"/>
+    <Box sX="0.36" sY="0.265006" sZ="0.205527" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.523994" tz="-0.684473"/>
+    <Box sX="0.657435" sY="0.159702" sZ="0.134988" angle="76.63692" ax="0.105563" ay="-0.135594" az="0.985125" tx="-0.196579" ty="-1.71407" tz="-0.662854"/>
+    <Box sX="0.657129" sY="0.067579" sZ="0.134988" angle="20.94814" ax="-0.134564" ay="0.061955" az="0.988966" tx="-0.675182" ty="-2.35891" tz="-0.682848"/>
+  </Collision>
+  <Connectivity>
+    <Ball type="4" angle="180" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Hinge type="164" oriented="0" angle="120" ax="0.57735" ay="-0.57735" az="0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.74997,0,0,0,1.03898,0,0,0,1.43812" centerOfMass="-0.181426,-1.05678,0" mass="1.70000004768" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.76177" minY="-2.69452" minZ="-1.025" maxX="0.601754" maxY="0.401" maxZ="1.025"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.76177" minY="-2.69452" minZ="-1.025" maxX="0.601754" maxY="0.401" maxZ="1.025"/>
+  </GeometryBounding>
+</LEGOPrimitive>

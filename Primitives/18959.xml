@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="18959"/>
+    <Annotation designname="MINI HAT NO. 28"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.243864" sY="0.13421" sZ="0.243864" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.1433" tz="0"/>
+    <Box sX="0.437747" sY="0.054152" sZ="0.41533" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.214923" tz="-0.049895"/>
+    <Box sX="0.289741" sY="0.021688" sZ="0.195914" angle="61.25908" ax="1" ay="0" az="0" tx="0" ty="0.077263" tz="0.4617"/>
+    <Box sX="0.324705" sY="0.031439" sZ="0.535529" angle="80.02525" ax="-1" ay="0" az="0" tx="0" ty="-0.328802" tz="-0.609962"/>
+    <Box sX="0.211843" sY="0.031439" sZ="0.519095" angle="136.06346" ax="-0.335288" ay="-0.720618" az="-0.60687" tx="0.603745" ty="-0.325522" tz="0.021755"/>
+    <Box sX="0.263438" sY="0.031439" sZ="0.519095" angle="91.82027" ax="-0.843896" ay="-0.425867" az="-0.326306" tx="0.513847" ty="-0.310189" tz="-0.347636"/>
+    <Box sX="0.196458" sY="0.031439" sZ="0.519095" angle="96.12878" ax="0.756565" ay="-0.502883" az="0.417992" tx="-0.603745" ty="-0.325522" tz="0.021755"/>
+    <Box sX="0.244474" sY="0.031439" sZ="0.519095" angle="144.37787" ax="0.246168" ay="-0.730813" az="0.636642" tx="-0.513847" ty="-0.310189" tz="-0.347636"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.282644,0,0,0,0.379467,0,0,0,0.35123" centerOfMass="0,-0.267552,-0.101187" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.819805" minY="-0.885299" minZ="-0.784063" maxX="0.819805" maxY="0.350195" maxZ="0.58169"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.819805" minY="-0.885299" minZ="-0.784063" maxX="0.819805" maxY="0.350195" maxZ="0.58169"/>
+  </GeometryBounding>
+</LEGOPrimitive>

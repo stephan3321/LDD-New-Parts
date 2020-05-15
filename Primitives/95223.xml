@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="95223"/>
+    <Annotation designname="CONCH HEADGEAR"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.508837" sY="0.15172" sZ="0.564741" angle="0" ax="0" ay="1" az="0" tx="0.018837" ty="0.16172" tz="-0.074741"/>
+    <Box sX="0.370863" sY="0.255626" sZ="0.365444" angle="18.16428" ax="-1" ay="0" az="0" tx="0.050708" ty="0.389629" tz="-0.199238"/>
+    <Box sX="0.16128" sY="0.255626" sZ="0.158843" angle="18.1643" ax="-1" ay="0" az="0" tx="0.067615" ty="0.769343" tz="-0.303512"/>
+    <Box sX="0.03808" sY="0.298283" sZ="0.394845" angle="73.42645" ax="-0.49391" ay="0.823056" az="0.280413" tx="-0.35203" ty="-0.267861" tz="0.465935"/>
+    <Box sX="0.044779" sY="0.455419" sZ="0.309404" angle="0" ax="0" ay="1" az="0" tx="-0.569376" ty="-0.367954" tz="-0.019616"/>
+    <Box sX="0.034744" sY="0.129717" sZ="0.299698" angle="120" ax="0" ay="1" az="0" tx="0.244792" ty="-0.042252" tz="0.50454"/>
+    <Box sX="0.061478" sY="0.400543" sZ="0.255578" angle="180" ax="0" ay="0.988479" az="0.151356" tx="0.594468" ty="-0.329345" tz="-0.006387"/>
+    <Box sX="0.040489" sY="0.41197" sZ="0.306501" angle="120" ax="0" ay="-1" az="0" tx="0.297017" ty="-0.324505" tz="-0.481023"/>
+    <Box sX="0.040489" sY="0.43039" sZ="0.32248" angle="60" ax="0" ay="-1" az="0" tx="-0.254231" ty="-0.342924" tz="-0.505725"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.499845,0,0,0,0.383955,0,0,0,0.501675" centerOfMass="-0.048051,0.099279,-0.030529" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.808759" minY="-0.863191" minZ="-0.78762" maxX="0.712658" maxY="1.06175" maxZ="0.726563"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.775681" minY="-0.863191" minZ="-0.78762" maxX="0.712658" maxY="1.05607" maxZ="0.653867"/>
+  </GeometryBounding>
+</LEGOPrimitive>

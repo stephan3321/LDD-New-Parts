@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="22118;30385;61748;61749;70770;71968"/>
+    <Annotation designname="ROCK CRYSTAL, TRANSPARENT"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.129252" sY="0.536174" sZ="0.129252" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.05617" tz="0"/>
+    <Box sX="0.128565" sY="0.458813" sZ="0.105471" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.8275" tz="0.275"/>
+    <Box sX="0.124063" sY="0.274971" sZ="0.124063" angle="23.00001" ax="0" ay="0" az="-1" tx="0.388325" ty="0.676391" tz="0"/>
+    <Box sX="0.126641" sY="0.31667" sZ="0.126641" angle="16.99999" ax="-1" ay="0" az="0" tx="0" ty="0.731436" tz="-0.368935"/>
+    <Box sX="0.13023" sY="0.369673" sZ="0.13023" angle="16.99999" ax="0" ay="0" az="1" tx="-0.384301" ty="0.781695" tz="0"/>
+    <Box sX="0.041023" sY="0.15" sZ="0.165893" angle="45" ax="0" ay="1" az="0" tx="-0.238922" ty="0.16" tz="0.238922"/>
+    <Box sX="0.041023" sY="0.15" sZ="0.165893" angle="135" ax="0" ay="1" az="0" tx="0.238922" ty="0.16" tz="0.238922"/>
+    <Box sX="0.041023" sY="0.15" sZ="0.165893" angle="135" ax="0" ay="-1" az="0" tx="0.238922" ty="0.16" tz="-0.238922"/>
+    <Box sX="0.041023" sY="0.15" sZ="0.165893" angle="45" ax="0" ay="-1" az="0" tx="-0.238922" ty="0.16" tz="-0.238922"/>
+    <Box sX="0.046568" sY="0.15" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="-0.343432" ty="0.16" tz="0"/>
+    <Box sX="0.046568" sY="0.15" sZ="0.14" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.16" tz="0.343432"/>
+    <Box sX="0.046568" sY="0.15" sZ="0.14" angle="180" ax="0" ay="1" az="0" tx="0.343432" ty="0.16" tz="0"/>
+    <Box sX="0.046568" sY="0.15" sZ="0.14" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.16" tz="-0.343432"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.89" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.32" tz="0.275"/>
+    <Axel type="7" length="1" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.51" tz="0"/>
+    <Axel type="7" length="0.499972" requireGrabbing="0" startCapped="0" endCapped="1" angle="156.99998" ax="0" ay="0" az="1" tx="0.457267" ty="0.838841" tz="0"/>
+    <Axel type="7" length="0.599907" requireGrabbing="0" startCapped="0" endCapped="1" angle="168.70473" ax="0.703641" ay="0.09889" az="0.703641" tx="0" ty="0.934398" tz="-0.433773"/>
+    <Axel type="7" length="0.849995" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="-0.989016" ay="-0.147809" az="0" tx="-0.50507" ty="1.17671" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.51" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.083982,0,0,0,0.046097,0,0,0,0.087855" centerOfMass="-0.012787,0.628818,-0.003337" mass="0.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.616922" minY="0" minZ="-0.582628" maxX="0.609966" maxY="1.65" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.60466" minY="0" minZ="-0.575423" maxX="0.595358" maxY="1.65" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

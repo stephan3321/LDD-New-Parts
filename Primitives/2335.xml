@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2335"/>
+    <Annotation designname="FLAG WITH 2 HOLDERS"/>
+    <Annotation maingroupid="236"/>
+    <Annotation maingroupname="SIGNS, FLAGS AND POLES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.037061" sY="0.15" sZ="0.019743" angle="0" ax="0" ay="1" az="0" tx="-0.132939" ty="0.16" tz="0.164743"/>
+    <Box sX="0.037061" sY="0.15" sZ="0.019743" angle="0" ax="0" ay="1" az="0" tx="-0.132939" ty="0.16" tz="-0.164743"/>
+    <Box sX="0.037061" sY="0.15" sZ="0.019743" angle="0" ax="0" ay="1" az="0" tx="-0.132939" ty="1.44" tz="-0.164743"/>
+    <Box sX="0.037061" sY="0.15" sZ="0.019743" angle="0" ax="0" ay="1" az="0" tx="-0.132939" ty="1.44" tz="0.164743"/>
+    <Box sX="0.087744" sY="0.15" sZ="0.032939" angle="0" ax="0" ay="1" az="0" tx="-0.00148" ty="0.16" tz="0.202783"/>
+    <Box sX="0.087744" sY="0.15" sZ="0.032939" angle="0" ax="0" ay="1" az="0" tx="-0.00148" ty="0.16" tz="-0.202783"/>
+    <Box sX="0.087744" sY="0.15" sZ="0.032939" angle="0" ax="0" ay="1" az="0" tx="-0.00148" ty="1.44" tz="0.202783"/>
+    <Box sX="0.087744" sY="0.15" sZ="0.032939" angle="0" ax="0" ay="1" az="0" tx="-0.00148" ty="1.44" tz="-0.202783"/>
+    <Box sX="0.035754" sY="0.15" sZ="0.184974" angle="62.34988" ax="0" ay="1" az="0" tx="0.20606" ty="1.44" tz="-0.124953"/>
+    <Box sX="0.79" sY="0.79" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0.8" tz="0"/>
+    <Box sX="0.035754" sY="0.15" sZ="0.184974" angle="117.76102" ax="0" ay="1" az="0" tx="0.206157" ty="0.16" tz="0.125328"/>
+    <Box sX="0.035754" sY="0.15" sZ="0.184974" angle="62.34988" ax="0" ay="1" az="0" tx="0.20606" ty="0.16" tz="-0.124953"/>
+    <Box sX="0.035754" sY="0.15" sZ="0.184974" angle="117.76102" ax="0" ay="1" az="0" tx="0.206157" ty="1.44" tz="0.125328"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="180" ax="1" ay="0" az="0" tx="0" ty="1.6" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.111216,0,0,0,0.203574,0,0,0,0.292891" centerOfMass="0.881164,0.8,0" mass="0.469999998808" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.227672" minY="0" minZ="-0.264369" maxX="1.99" maxY="1.6" maxZ="0.264369"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.227672" minY="0" minZ="-0.264369" maxX="1.98" maxY="1.6" maxZ="0.264369"/>
+  </GeometryBounding>
+</LEGOPrimitive>

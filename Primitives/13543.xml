@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="13543"/>
+    <Annotation designname="BASEBALL GLOVE"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.207782" sY="0.188352" sZ="0.115511" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.02116" tz="0.126114"/>
+    <Box sX="0.045961" sY="0.188352" sZ="0.364329" angle="28.69857" ax="0.297771" ay="-0.789642" az="0.536468" tx="-0.335174" ty="-0.123869" tz="0.396006"/>
+    <Box sX="0.074836" sY="0.289467" sZ="0.4206" angle="76.46853" ax="0.075662" ay="-0.106669" az="0.991412" tx="-0.014648" ty="-0.293562" tz="0.531912"/>
+    <Box sX="0.074836" sY="0.213454" sZ="0.4206" angle="147.53403" ax="0.224757" ay="-0.132" az="0.965433" tx="0.387655" ty="-0.190002" tz="0.455581"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="17" oriented="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="-0.012824" tz="-0.049615"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.252381,0,0,0,0.340896,0,0,0,0.178416" centerOfMass="0.071817,-0.180275,0.239131" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.560951" minY="-0.547496" minZ="-0.549724" maxX="0.704586" maxY="0.186947" maxZ="1.02799"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.558707" minY="-0.4961" minZ="-0.549724" maxX="0.661681" maxY="0.186947" maxZ="1.02799"/>
+  </GeometryBounding>
+</LEGOPrimitive>

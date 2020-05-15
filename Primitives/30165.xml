@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30165"/>
+    <Annotation designname="BRICK 2X2 W. BOW AND KNOBS"/>
+    <Annotation maingroupid="207"/>
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.79" sZ="0.07" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.08" tz="-0.4"/>
+    <Box sX="0.79" sY="0.238" sZ="0.47" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.48" tz="-0.401"/>
+    <Box sX="0.79" sY="0.377152" sZ="0.235137" angle="143.27733" ax="1" ay="0" az="0" tx="0.4" ty="0.461909" tz="-0.616675"/>
+    <Box sX="0.79" sY="0.222689" sZ="0.235137" angle="109.25814" ax="1" ay="0" az="0" tx="0.4" ty="0.315773" tz="-0.900471"/>
+    <Box sX="0.79" sY="0.58818" sZ="0.328874" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="0.338873" tz="-0.398359"/>
+    <Box sX="0.79" sY="0.375651" sZ="0.235137" angle="36.67186" ax="1" ay="0" az="0" tx="0.4" ty="0.46241" tz="-0.182575"/>
+    <Box sX="0.79" sY="0.231678" sZ="0.235137" angle="71.52483" ax="1" ay="0" az="0" tx="0.4" ty="0.32026" tz="0.090105"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-0.8">
+      18:1:1,23:4:1,29:0:1,23:4:1,18:1:1,
+      23:4:1,1:4,23:4:1,1:4,23:4:1,
+      18:1:1,23:4:1,29:0:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.294864,0,0,0,0.48633,0,0,0,0.363922" centerOfMass="0.4,0.500334,-0.4" mass="0.963999986649" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="1.138" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="1.138" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

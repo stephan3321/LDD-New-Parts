@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30148"/>
+    <Annotation designname="CAMERA"/>
+    <Annotation maingroupid="251"/>
+    <Annotation maingroupname="FIGURE, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.223345" sY="0.223345" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.51" tz="0.425"/>
+    <Box sX="0.101733" sY="0.464042" sZ="0.101733" angle="45" ax="0" ay="-1" az="0" tx="0" ty="0.48" tz="0"/>
+    <Box sX="0.865" sY="0.54" sZ="0.315" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.51" tz="0"/>
+    <Box sX="0.364441" sY="0.21981" sZ="0.21981" angle="45" ax="-1" ay="0" az="0" tx="1.12056" ty="1.51" tz="0"/>
+    <Box sX="0.59" sY="0.116674" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.18667" tz="0"/>
+    <Box sX="0.247087" sY="0.022822" sZ="0.153068" angle="90" ax="0" ay="0" az="1" tx="0.677893" ty="2.55425" tz="0"/>
+    <Box sX="0.247087" sY="0.1512" sZ="0.153068" angle="90" ax="0" ay="0" az="1" tx="0" ty="2.55425" tz="0"/>
+    <Box sX="0.634208" sY="0.022822" sZ="0.153068" angle="180" ax="0" ay="0" az="1" tx="-0.000101" ty="2.82234" tz="0"/>
+    <Box sX="0.247087" sY="0.022822" sZ="0.153068" angle="90" ax="0" ay="0" az="-1" tx="-0.671397" ty="2.55418" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.96" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="1.11" tz="-0.325">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="1.11" tz="0.525">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0.707107" az="0.707107" tx="0" ty="2.16" tz="-0.163068">
+      29:0,29:0,29:0,
+      29:0,5:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0.707107" az="0.707107" tx="0.8" ty="2.16" tz="-0.166136">
+      29:0,29:0,29:0,
+      29:0,5:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="180" ax="0" ay="0.707107" az="0.707107" tx="0" ty="2.16" tz="0.163068">
+      29:0,29:0,29:0,
+      29:0,1:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="180" ax="0" ay="0.707107" az="0.707107" tx="0.8" ty="2.16" tz="0.163068">
+      29:0,29:0,29:0,
+      29:0,1:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="120" ax="-0.57735" ay="0.57735" az="0.57735" tx="1.495" ty="1.11" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.230039" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0.397852" ty="2.55" tz="0.338"/>
+    <Axel type="6" length="0.230039" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="2.55" tz="0.338"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.519519,0,0,0,0.444984,0,0,0,0.852775" centerOfMass="0.132697,1.66637,0.012474" mass="1.39999997616" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.875" minY="0" minZ="-0.503" maxX="1.495" maxY="2.93697" maxZ="0.525"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.875" minY="0" minZ="-0.503" maxX="1.495" maxY="2.93697" maxZ="0.525"/>
+  </GeometryBounding>
+</LEGOPrimitive>

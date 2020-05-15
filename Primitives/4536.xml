@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4536"/>
+    <Annotation designname="DRAWER"/>
+    <Annotation maingroupid="227"/>
+    <Annotation maingroupname="INTERIOR"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.065" sY="0.035" sZ="0.3" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.075" ty="0.31" tz="-1.415"/>
+    <Box sX="1.065" sY="0.035" sZ="0.355" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.075" ty="0.365" tz="-0.045001"/>
+    <Box sX="0.035" sY="0.72" sZ="0.3" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.105" ty="0.31" tz="-0.73"/>
+    <Box sX="0.035" sY="0.72" sZ="0.3" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.045" ty="0.31" tz="-0.73"/>
+    <Box sX="1.065" sY="0.72" sZ="0.035" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.075" ty="0.045" tz="-0.73"/>
+    <Box sX="0.239997" sY="0.135" sZ="0.08" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.075" ty="0.54" tz="0.054999"/>
+  </Collision>
+  <Connectivity>
+    <Slider type="11" length="1.46" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="1.075" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.209798,0,0,0,0.508845,0,0,0,0.355486" centerOfMass="1.075,0.233621,-0.689931" mass="0.649999976158" frictionType="0"/>
+  <Bounding>
+    <AABB minX="0" minY="0" minZ="-1.46" maxX="2.15" maxY="0.73" maxZ="0.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0" minY="0" minZ="-1.46" maxX="2.15" maxY="0.73" maxZ="0.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

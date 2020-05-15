@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="64804"/>
+    <Annotation designname="YODA MINI HEAD NO. VERSION 2"/>
+    <Annotation maingroupid="242"/>
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.370323" sY="0.385469" sZ="0.182932" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.395469" tz="0.438432"/>
+    <Box sX="0.241148" sY="0.06535" sZ="0.292953" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.874578" tz="-0.021059"/>
+    <Box sX="0.3936" sY="0.385469" sZ="0.134479" angle="118.78336" ax="0" ay="1" az="0" tx="0.330588" ty="0.395469" tz="-0.208176"/>
+    <Box sX="0.092434" sY="0.104693" sZ="0.398482" angle="111.40821" ax="-0.138857" ay="0.976547" az="0.164547" tx="0.901755" ty="0.600701" tz="-0.17543"/>
+    <Box sX="0.3936" sY="0.385469" sZ="0.134479" angle="61.21663" ax="0" ay="1" az="0" tx="-0.330588" ty="0.395469" tz="-0.208176"/>
+    <Box sX="0.092434" sY="0.104693" sZ="0.398482" angle="72.43829" ax="0.230062" ay="0.953614" az="-0.194145" tx="-0.901755" ty="0.600701" tz="-0.17543"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="200" oriented="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.144978,0,0,0,0.220916,0,0,0,0.165802" centerOfMass="-0.002715,0.452383,0.055167" mass="0.800000011921" frictionType="0"/>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,0"/>
+  <Bounding>
+    <AABB minX="-1.34672" minY="-0.030674" minZ="-0.808138" maxX="1.3418" maxY="1.00378" maxZ="0.789656"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.34672" minY="-0.030674" minZ="-0.808138" maxX="1.3418" maxY="1.00378" maxZ="0.789656"/>
+  </GeometryBounding>
+</LEGOPrimitive>

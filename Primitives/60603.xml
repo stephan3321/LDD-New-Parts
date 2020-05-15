@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="60603;86210"/>
+    <Annotation designname="GLASS FOR FRAME 1X4X3"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.44" sY="1.13286" sZ="0.067157" angle="0" ax="0" ay="1" az="0" tx="1.45" ty="-1.09695" tz="0.002157"/>
+    <Box sX="1.42566" sY="0.096332" sZ="0.091924" angle="45" ax="-1" ay="0" az="0" tx="1.45" ty="-0.009811" tz="0"/>
+    <Box sX="0.04" sY="0.141558" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="0.05" ty="-0.158252" tz="0"/>
+    <Box sX="0.04" sY="0.141558" sZ="0.14" angle="0" ax="0" ay="1" az="0" tx="2.85" ty="-0.158252" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="83" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="1.45" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.588867,0,0,0,0.869835,0,0,0,1.44028" centerOfMass="1.45,-1.04981,0" mass="1.22800004482" frictionType="0"/>
+  <Bounding>
+    <AABB minX="0" minY="-2.23981" minZ="-0.15" maxX="2.9" maxY="0.140189" maxZ="0.15"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0" minY="-2.23981" minZ="-0.15" maxX="2.9" maxY="0.140189" maxZ="0.15"/>
+  </GeometryBounding>
+</LEGOPrimitive>

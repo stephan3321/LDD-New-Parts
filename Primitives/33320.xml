@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="33320"/>
+    <Annotation designname="FROG"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.339311" sY="0.281389" sZ="0.33305" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.291389" tz="0.03395"/>
+    <Box sX="0.140178" sY="0.141219" sZ="0.501784" angle="48.65244" ax="-1" ay="0" az="0" tx="-0.001587" ty="0.479877" tz="0.367023"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.033541,0,0,0,0.031412,0,0,0,0.024042" centerOfMass="0,0.357265,0.184133" mass="0.340999990702" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.488545" minY="0" minZ="-0.380069" maxX="0.488545" maxY="0.949867" maxZ="0.82795"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.488545" minY="0" minZ="-0.380069" maxX="0.488545" maxY="0.949724" maxZ="0.82795"/>
+  </GeometryBounding>
+</LEGOPrimitive>

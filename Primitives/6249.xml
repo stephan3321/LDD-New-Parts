@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6249"/>
+    <Annotation designname="BEARING ELEMENT 2X4 W.D. SNAP"/>
+    <Annotation maingroupid="204"/>
+    <Annotation maingroupname="BRICKS, SPECIAL Ø4.85 HOLE AND CONNECTING BUSH"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.47" sZ="1.59" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0.48" tz="-1.2"/>
+    <Box sX="0.134231" sY="0.134231" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="0.405769" ty="0.587152" tz="-3.2"/>
+    <Box sX="0.130187" sY="0.130187" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="0.409813" ty="0.590951" tz="0.8"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="8" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-2.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="8" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-2.8">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0.4" ty="0.58" tz="1.2"/>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="0.57735" ay="0.57735" az="0.57735" tx="0.4" ty="0.58" tz="-3.6"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="3.23081,0,0,0,3.6637,0,0,0,0.931512" centerOfMass="0.4,0.608446,-1.2" mass="3.08800005913" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-3.6" maxX="1.2" maxY="1.13794" maxZ="1.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-3.6" maxX="1.2" maxY="1.13794" maxZ="1.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

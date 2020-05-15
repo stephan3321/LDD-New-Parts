@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92234"/>
+    <Annotation designname="SHELL/SPI. 4X4 W. D. 3.2 STICK"/>
+    <Annotation maingroupid="352"/>
+    <Annotation maingroupname="BODY SHELLS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.392917" sY="1.43974" sZ="0.051661" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.17526" tz="0.461661"/>
+    <Box sX="0.063028" sY="0.12405" sZ="0.421936" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.427252" tz="0.831936"/>
+    <Box sX="0.063028" sY="0.12405" sZ="0.421936" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.36185" tz="0.831936"/>
+    <Box sX="0.063028" sY="0.12405" sZ="0.421936" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.2958" tz="0.831936"/>
+    <Box sX="0.37935" sY="1.39738" sZ="0.037201" angle="14.87528" ax="0" ay="-1" az="0" tx="-0.837893" ty="1.31095" tz="0.343513"/>
+    <Box sX="0.37935" sY="1.39738" sZ="0.037201" angle="165.12473" ax="0" ay="-1" az="0" tx="0.837893" ty="1.31095" tz="0.343513"/>
+    <Box sX="0.103137" sY="0.103137" sZ="0.24" angle="45" ax="0" ay="0" az="1" tx="0" ty="0.799657" tz="0.25"/>
+    <Box sX="0.103137" sY="0.103137" sZ="0.24" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="0.25"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Axel type="7" length="0.4" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.799657" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="0">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="1.19966" tz="0">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.768622,0,0,0,0.356204,0,0,0,1.03849" centerOfMass="0,1.14346,0.46077" mass="1.01400005817" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.36618" minY="-0.360505" minZ="0" maxX="1.36618" maxY="2.78576" maxZ="1.35507"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.36618" minY="-0.360505" minZ="0" maxX="1.36618" maxY="2.78576" maxZ="1.35507"/>
+  </GeometryBounding>
+</LEGOPrimitive>

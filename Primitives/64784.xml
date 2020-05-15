@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="64784"/>
+    <Annotation designname="ROCK MONSTER MINI BODY"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.061442" sY="0.619417" sZ="0.133821" angle="180" ax="0" ay="1" az="0" tx="0.724835" ty="1.95896" tz="-0.78011"/>
+    <Box sX="0.740754" sY="0.293726" sZ="0.525625" angle="0" ax="0" ay="1" az="0" tx="0.381829" ty="0.303726" tz="-0.006537"/>
+    <Box sX="0.42336" sY="0.73738" sZ="0.11666" angle="0" ax="0" ay="1" az="0" tx="0.383222" ty="1.48062" tz="-0.757283"/>
+    <Box sX="0.061442" sY="0.619417" sZ="0.133821" angle="0" ax="0" ay="1" az="0" tx="0.073829" ty="1.95896" tz="-0.78011"/>
+    <Box sX="0.42336" sY="0.73738" sZ="0.064947" angle="180" ax="0" ay="0.994008" az="0.109306" tx="0.383222" ty="1.45943" tz="0.863866"/>
+    <Box sX="0.362197" sY="0.73738" sZ="0.046259" angle="90" ax="0" ay="-1" az="0" tx="1.18252" ty="1.48062" tz="0.042014"/>
+    <Box sX="0.362197" sY="0.73738" sZ="0.046259" angle="90" ax="0" ay="1" az="0" tx="-0.416075" ty="1.48062" tz="0.042013"/>
+    <Box sX="0.234095" sY="0.73738" sZ="0.046796" angle="135.10536" ax="-0.027577" ay="0.9974" az="0.066578" tx="-0.244659" ty="1.48062" tz="0.669895"/>
+    <Box sX="0.234095" sY="0.73738" sZ="0.046796" angle="135.10536" ax="-0.027577" ay="-0.9974" az="-0.066578" tx="1.0111" ty="1.48062" tz="0.669895"/>
+    <Box sX="0.249593" sY="0.73738" sZ="0.046259" angle="45" ax="0" ay="-1" az="0" tx="1.02043" ty="1.48062" tz="-0.595195"/>
+    <Box sX="0.249593" sY="0.73738" sZ="0.046259" angle="45" ax="0" ay="1" az="0" tx="-0.253986" ty="1.48062" tz="-0.595195"/>
+    <Box sX="0.177689" sY="0.202493" sZ="0.11666" angle="19.16649" ax="-0.295563" ay="-0.140757" az="-0.944897" tx="0.299399" ty="1.86603" tz="-0.881249"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,15:4,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="148" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="-0.36559" ty="1.76042" tz="0"/>
+    <Hinge type="148" oriented="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="1.13462" ty="1.76042" tz="0"/>
+    <Hinge type="150" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="0.4" ty="2.5" tz="-0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.62052,0,0,0,1.30366,0,0,0,1.46283" centerOfMass="0.390851,1.21631,-0.054966" mass="2.59999990463" frictionType="0"/>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2"/>
+  <Bounding>
+    <AABB minX="-0.51559" minY="0" minZ="-1.04476" maxX="1.28462" maxY="2.63946" maxZ="1.14334"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.51559" minY="0" minZ="-1.04476" maxX="1.28462" maxY="2.63946" maxZ="1.14334"/>
+  </GeometryBounding>
+</LEGOPrimitive>

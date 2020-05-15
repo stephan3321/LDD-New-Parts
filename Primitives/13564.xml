@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="13564"/>
+    <Annotation designname="HORN 2,5M Ø3,2 WITH SHAFT"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.103137" sY="0.103137" sZ="0.1498" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.1598"/>
+    <Box sX="0.138484" sY="0.138484" sZ="0.276589" angle="45" ax="0" ay="0" az="1" tx="-1E-005" ty="0" tz="0.286589"/>
+    <Box sX="0.103746" sY="0.103746" sZ="0.35071" angle="54.87915" ax="0.230754" ay="0.557089" az="0.79775" tx="0.216375" ty="0" tz="0.843585"/>
+    <Box sX="0.059533" sY="0.059533" sZ="0.315231" angle="46.38773" ax="0.097906" ay="0.236367" az="0.966719" tx="0.478009" ty="0" tz="1.48196"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.3196" requireGrabbing="0" startCapped="1" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="-0.3196">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.396191,0,0,0,0.439411,0,0,0,0.07262" centerOfMass="0.206848,0,0.7502" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.209999" minY="-0.21" minZ="-0.3196" maxX="0.623695" maxY="0.21" maxZ="1.82"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.209999" minY="-0.21" minZ="-0.3196" maxX="0.6" maxY="0.21" maxZ="1.82"/>
+  </GeometryBounding>
+</LEGOPrimitive>

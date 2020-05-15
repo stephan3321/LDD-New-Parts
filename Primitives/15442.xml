@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15442"/>
+    <Annotation designname="MINI BEARD NO. 2"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.392481" sY="0.472289" sZ="0.053734" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.049279" tz="0.603739"/>
+    <Box sX="0.231128" sY="0.07344" sZ="0.06417" angle="46.27348" ax="0" ay="-1" az="0" tx="0.35077" ty="0.083199" tz="-0.19734"/>
+    <Box sX="0.027848" sY="0.093739" sZ="0.161989" angle="44.12418" ax="0" ay="-1" az="0" tx="0.444614" ty="0.10997" tz="0.336812"/>
+    <Box sX="0.231128" sY="0.07344" sZ="0.06417" angle="133.7265" ax="0" ay="-1" az="0" tx="-0.35077" ty="0.083199" tz="-0.19734"/>
+    <Box sX="0.027848" sY="0.093739" sZ="0.161989" angle="135.87579" ax="0" ay="-1" az="0" tx="-0.444614" ty="0.10997" tz="0.336812"/>
+    <Box sX="0.260926" sY="0.777084" sZ="0.053734" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.60293" tz="0.502015"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.452672,0,0,0,0.243295,0,0,0,0.431626" centerOfMass="0,-0.508804,0.15734" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.577384" minY="-1.48937" minZ="-0.472351" maxX="0.577384" maxY="0.47176" maxZ="0.787031"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.516763" minY="-1.48937" minZ="-0.472351" maxX="0.516764" maxY="0.47176" maxZ="0.787031"/>
+  </GeometryBounding>
+</LEGOPrimitive>

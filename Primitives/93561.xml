@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93561"/>
+    <Annotation designname="MINI FOOTBALL, VISOR"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.161182" sY="0.032235" sZ="0.4196" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="-0.234599" tz="0.740586"/>
+    <Box sX="0.161183" sY="0.038358" sZ="0.420267" angle="162.39302" ax="0.154871" ay="-0.698575" az="0.698575" tx="0.270559" ty="-0.235267" tz="0.677716"/>
+    <Box sX="0.161182" sY="0.018408" sZ="0.359073" angle="145.22455" ax="0.313146" ay="-0.671543" az="0.671543" tx="0.499789" ty="-0.174073" tz="0.516873"/>
+    <Box sX="0.161183" sY="0.022145" sZ="0.20587" angle="129.00658" ax="0.476905" ay="-0.621515" az="0.621515" tx="0.598212" ty="-0.02087" tz="0.257791"/>
+    <Box sX="0.190902" sY="0.043225" sZ="0.121104" angle="120" ax="0.57735" ay="-0.57735" az="0.57735" tx="0.643225" ty="0.001048" tz="0.06778"/>
+    <Box sX="0.161183" sY="0.038358" sZ="0.420267" angle="92.68506" ax="-0.954201" ay="-0.211541" az="-0.211542" tx="-0.270559" ty="-0.235267" tz="0.677716"/>
+    <Box sX="0.161182" sY="0.018408" sZ="0.359073" angle="100.28857" ax="-0.834817" ay="-0.389282" az="-0.389282" tx="-0.499789" ty="-0.174073" tz="0.516873"/>
+    <Box sX="0.161182" sY="0.022145" sZ="0.205412" angle="129.00658" ax="0.476905" ay="0.621515" az="-0.621515" tx="-0.598212" ty="-0.020412" tz="0.25779"/>
+    <Box sX="0.190902" sY="0.043225" sZ="0.121104" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="-0.643225" ty="0.001048" tz="0.06778"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="51" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.021108,0,0,0,0.047786,0,0,0,0.045818" centerOfMass="4.8E-005,-0.160074,0.444346" mass="0.180000007153" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.7025" minY="-0.675" minZ="-0.19794" maxX="0.7025" maxY="0.195" maxZ="0.867791"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7025" minY="-0.675" minZ="-0.19794" maxX="0.7025" maxY="0.195" maxZ="0.867791"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98566"/>
+    <Annotation designname="SHIELD-2012-SIZE"/>
+    <Annotation maingroupid="347"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.017632" sY="0.452593" sZ="0.123317" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.462593" tz="-0.281664"/>
+    <Box sX="0.017632" sY="0.452593" sZ="0.123317" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.462593" tz="0.278779"/>
+    <Box sX="0.26" sY="0.385892" sZ="0.1525" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.19589" tz="-0.0125"/>
+    <Box sX="0.0675" sY="0.452593" sZ="0.0675" angle="90" ax="0" ay="1" az="0" tx="0.1675" ty="0.462593" tz="0.1675"/>
+    <Box sX="0.0675" sY="0.452593" sZ="0.0675" angle="180" ax="0" ay="1" az="0" tx="0.1675" ty="0.462593" tz="-0.1675"/>
+    <Box sX="0.0675" sY="0.452593" sZ="0.0675" angle="90" ax="0" ay="-1" az="0" tx="-0.1675" ty="0.462593" tz="-0.1675"/>
+    <Box sX="0.0675" sY="0.452593" sZ="0.0675" angle="0" ax="0" ay="1" az="0" tx="-0.1675" ty="0.462593" tz="0.1675"/>
+    <Box sX="0.46" sY="0.480641" sZ="0.11" angle="0" ax="0" ay="1" az="0" tx="-0.5" ty="3.38439" tz="-0.04"/>
+    <Box sX="0.46" sY="0.480641" sZ="0.1075" angle="0" ax="0" ay="1" az="0" tx="0.44" ty="2.7208" tz="0.0425"/>
+    <Box sX="0.777197" sY="0.812438" sZ="0.1075" angle="0" ax="0" ay="1" az="0" tx="0.122804" ty="2.07132" tz="-0.0425"/>
+    <Box sX="0.588839" sY="0.442827" sZ="0.12" angle="0" ax="0" ay="1" az="0" tx="-1.26323" ty="1.99677" tz="-0.03"/>
+    <Box sX="0.434256" sY="0.212078" sZ="0.04" angle="29.13333" ax="0" ay="0" az="1" tx="-0.944328" ty="2.48349" tz="0"/>
+    <Box sX="0.463153" sY="0.621982" sZ="0.1075" angle="0" ax="0" ay="1" az="0" tx="-1.10196" ty="0.911959" tz="0.0425"/>
+    <Box sX="0.680445" sY="0.632396" sZ="0.12" angle="0" ax="0" ay="1" az="0" tx="1.27753" ty="0.894163" tz="-0.03"/>
+    <Box sX="0.478077" sY="0.48781" sZ="0.1075" angle="0" ax="0" ay="1" az="0" tx="1.09608" ty="-0.238409" tz="0.0425"/>
+    <Box sX="0.64986" sY="0.524527" sZ="0.12" angle="0" ax="0" ay="1" az="0" tx="-1.30838" ty="-0.242473" tz="-0.03"/>
+    <Box sX="0.074089" sY="0.385892" sZ="0.353593" angle="0" ax="0" ay="1" az="0" tx="-0.490435" ty="-0.242455" tz="-0.006407"/>
+    <Box sX="0.074089" sY="0.385892" sZ="0.353593" angle="0" ax="0" ay="1" az="0" tx="0.490433" ty="-0.242455" tz="-0.006407"/>
+    <Box sX="0.151725" sY="0.058008" sZ="0.143593" angle="25.064" ax="0" ay="0" az="1" tx="-0.575307" ty="-0.645255" tz="0.203593"/>
+    <Box sX="0.057401" sY="0.213416" sZ="0.185576" angle="63.03062" ax="0" ay="0" az="-1" tx="-0.508322" ty="0.313312" tz="0.145576"/>
+    <Box sX="0.057401" sY="0.213416" sZ="0.185576" angle="180" ax="-0.522726" ay="0.8525" az="0" tx="0.508322" ty="0.313312" tz="0.145576"/>
+    <Box sX="0.151725" sY="0.058008" sZ="0.143593" angle="180" ax="0.216985" ay="0.976175" az="0" tx="0.575307" ty="-0.645255" tz="0.203593"/>
+    <Box sX="0.075186" sY="0.058008" sZ="0.200148" angle="178.71655" ax="0.217199" ay="0.975918" az="-0.020225" tx="0.509584" ty="-0.618483" tz="-0.15982"/>
+    <Box sX="0.075186" sY="0.058008" sZ="0.200148" angle="25.23164" ax="-0.092592" ay="0.051279" az="0.994383" tx="-0.509584" ty="-0.618483" tz="-0.15982"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="4" length="0.8" grabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.85292,0,0,0,1.66008,0,0,0,4.45843" centerOfMass="-0.111221,1.0209,0.007168" mass="2.6740000248" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.96824" minY="-0.78775" minZ="-0.37" maxX="1.96797" maxY="3.96321" maxZ="0.37"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.96824" minY="-0.78775" minZ="-0.37" maxX="1.96797" maxY="3.96321" maxZ="0.37"/>
+  </GeometryBounding>
+</LEGOPrimitive>

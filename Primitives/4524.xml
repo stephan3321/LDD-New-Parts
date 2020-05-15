@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4524"/>
+    <Annotation designname="CAPE"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="8"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.393617" sY="0.040727" sZ="0.57065" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.465754" tz="0.450727"/>
+    <Box sX="0.608241" sY="0.021854" sZ="0.118932" angle="53.85707" ax="1" ay="0" az="0" tx="0" ty="-1.25247" tz="0.592335"/>
+    <Box sX="0.213236" sY="0.04" sZ="0.030784" angle="37.20191" ax="0" ay="1" az="0" tx="-0.179819" ty="0.05" tz="-0.239921"/>
+    <Box sX="0.228775" sY="0.04" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="0.325" ty="0.05" tz="0.161225"/>
+    <Box sX="0.228775" sY="0.04" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="-0.325" ty="0.05" tz="0.161225"/>
+    <Box sX="0.213236" sY="0.04" sZ="0.030784" angle="42.27203" ax="0" ay="-1" az="0" tx="0.191261" ty="0.05" tz="-0.221125"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="0.4" ty="0.114897" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.076335,0,0,0,0.035964,0,0,0,0.090684" centerOfMass="-0.000345,-0.606295,0.419831" mass="0.196999996901" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.645936" minY="-1.49111" minZ="-0.407402" maxX="0.645936" maxY="0.114897" maxZ="0.748574"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.645936" minY="-1.49111" minZ="-0.407402" maxX="0.645936" maxY="0.114897" maxZ="0.748574"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25405"/>
+    <Annotation designname="MINI WIG, NO. 145"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.304387" sY="0.304402" sZ="0.55877" angle="48.88714" ax="-1" ay="0" az="0" tx="0.034147" ty="0.296113" tz="-0.829549"/>
+    <Box sX="0.381784" sY="0.038384" sZ="0.385519" angle="1.00015" ax="1" ay="0" az="0" tx="-0.007791" ty="0.301201" tz="0.021428"/>
+    <Box sX="0.041181" sY="0.394229" sZ="0.456959" angle="10.3283" ax="0.096556" ay="0.008685" az="0.99529" tx="0.541972" ty="-0.127513" tz="-0.057527"/>
+    <Box sX="0.041181" sY="0.394229" sZ="0.448725" angle="17.22386" ax="0.076281" ay="-0.237841" az="-0.968304" tx="-0.536538" ty="-0.098536" tz="-0.047415"/>
+    <Box sX="0.448641" sY="0.20315" sZ="0.024169" angle="18.04769" ax="-1" ay="0" az="0" tx="-0.007791" ty="0.08101" tz="0.507625"/>
+    <Box sX="0.417985" sY="0.02552" sZ="0.325969" angle="90.96404" ax="-1" ay="0" az="0" tx="0.034147" ty="-0.317225" tz="-0.582208"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.646957,0,0,0,0.586078,0,0,0,0.454589" centerOfMass="-0.009454,0.037938,-0.345719" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.777936" minY="-0.84138" minZ="-1.42631" maxX="0.759029" maxY="0.917257" maxZ="0.734869"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.777936" minY="-0.84138" minZ="-1.32621" maxX="0.759029" maxY="0.81749" maxZ="0.734869"/>
+  </GeometryBounding>
+</LEGOPrimitive>

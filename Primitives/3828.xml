@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3828"/>
+    <Annotation designname="STEERING WHEEL Ø11"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.173237" sY="0.134854" sZ="0.078991" angle="89.97032" ax="-1" ay="0" az="0" tx="0" ty="0.289005" tz="-0.373679"/>
+    <Box sX="0.173237" sY="0.134854" sZ="0.078991" angle="98.39545" ax="-0.862799" ay="-0.357568" az="-0.357383" tx="0.264272" ty="0.289005" tz="-0.264214"/>
+    <Box sX="0.173237" sY="0.134854" sZ="0.078991" angle="119.98286" ax="-0.577251" ay="-0.57755" az="-0.577251" tx="0.373737" ty="0.289005" tz="5.8E-005"/>
+    <Box sX="0.173237" sY="0.134854" sZ="0.078991" angle="148.59193" ax="-0.281018" ay="-0.678788" az="-0.678436" tx="0.264272" ty="0.289005" tz="0.26433"/>
+    <Box sX="0.173237" sY="0.134854" sZ="0.078991" angle="148.59193" ax="-0.281018" ay="0.678788" az="0.678436" tx="-0.264272" ty="0.289005" tz="0.26433"/>
+    <Box sX="0.173237" sY="0.134854" sZ="0.078991" angle="180" ax="0" ay="0.70729" az="0.706924" tx="0" ty="0.289005" tz="0.373795"/>
+    <Box sX="0.173237" sY="0.134854" sZ="0.078991" angle="98.39545" ax="-0.862799" ay="0.357568" az="0.357383" tx="-0.264272" ty="0.289005" tz="-0.264214"/>
+    <Box sX="0.173237" sY="0.134854" sZ="0.078991" angle="119.98286" ax="-0.577251" ay="0.57755" az="0.577251" tx="-0.373737" ty="0.289005" tz="5.8E-005"/>
+    <Box sX="0.065" sY="0.141644" sZ="0.038796" angle="152.69722" ax="-0.109318" ay="0.906422" az="0.407981" tx="-0.148948" ty="0.137071" tz="0.258499"/>
+    <Box sX="0.065" sY="0.141644" sZ="0.038796" angle="99.69836" ax="-0.379702" ay="-0.843595" az="-0.379702" tx="0.298586" ty="0.137071" tz="0"/>
+    <Box sX="0.065" sY="0.141644" sZ="0.038796" angle="56.51818" ax="-0.837358" ay="0.498488" az="0.224369" tx="-0.149048" ty="0.137071" tz="-0.258326"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="40" oriented="1" angle="180" ax="1" ay="0" az="0" tx="2.7E-005" ty="0.145001" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.01026,0,0,0,0.018816,0,0,0,0.01026" centerOfMass="0,0.234425,0" mass="0.10000000149" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.540721" minY="-0.000338" minZ="-0.549976" maxX="0.540721" maxY="0.378169" maxZ="0.549999"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.540721" minY="-0.000338" minZ="-0.549976" maxX="0.540721" maxY="0.378169" maxZ="0.549999"/>
+  </GeometryBounding>
+</LEGOPrimitive>

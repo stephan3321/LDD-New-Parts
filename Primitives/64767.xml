@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="64767"/>
+    <Annotation designname="SQUIDWARD HEAD"/>
+    <Annotation maingroupid="242"/>
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.415579" sY="0.253903" sZ="0.19185" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.428851" tz="-0.528416"/>
+    <Box sX="0.656428" sY="0.38824" sZ="0.544214" angle="13.69892" ax="1" ay="0" az="0" tx="0" ty="1.12677" tz="0.114834"/>
+    <Box sX="0.16679" sY="0.34387" sZ="0.132183" angle="17.98041" ax="1" ay="0" az="0" tx="0" ty="0.274234" tz="-0.704264"/>
+    <Box sX="0.155" sY="0.414105" sZ="0.007894" angle="90" ax="0" ay="1" az="0" tx="-0.268032" ty="0.424105" tz="0.000137"/>
+    <Box sX="0.155" sY="0.414105" sZ="0.007894" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.424105" tz="0.268169"/>
+    <Box sX="0.155" sY="0.414105" sZ="0.007894" angle="90" ax="0" ay="-1" az="0" tx="0.268032" ty="0.424105" tz="0.000137"/>
+    <Box sX="0.155" sY="0.414105" sZ="0.007894" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.424105" tz="-0.267894"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="200" oriented="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.527277,0,0,0,0.433106,0,0,0,0.49566" centerOfMass="3.6E-005,0.982459,0.065472" mass="1.70000004768" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.772901" minY="-0.142992" minZ="-0.957497" maxX="0.772901" maxY="1.68015" maxZ="0.861084"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.772901" minY="-0.142992" minZ="-0.957497" maxX="0.772901" maxY="1.68015" maxZ="0.861084"/>
+  </GeometryBounding>
+</LEGOPrimitive>

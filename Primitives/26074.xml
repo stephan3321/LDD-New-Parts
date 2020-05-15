@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="26074"/>
+    <Annotation designname="PENGUIN, NO. 2, INNER PART"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.33955" sY="0.696444" sZ="0.100002" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.706444" tz="0.357617"/>
+    <Box sX="0.230894" sY="0.554625" sZ="0.063089" angle="180" ax="0" ay="1" az="0" tx="0.031267" ty="0.889424" tz="-0.320703"/>
+    <Box sX="0.268734" sY="0.377479" sZ="0.254221" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.52966" tz="0.092284"/>
+    <Box sX="0.100255" sY="0.057977" sZ="0.168075" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.73488" tz="0.416071"/>
+    <Box sX="0.171899" sY="0.083391" sZ="0.079934" angle="180" ax="0" ay="1" az="0" tx="0.02361" ty="0.093391" tz="-0.337548"/>
+    <Box sX="0.170599" sY="0.43509" sZ="0.053132" angle="91.12901" ax="-0.139007" ay="0.980487" az="0.139007" tx="0.603931" ty="0.810413" tz="0.081486"/>
+    <Box sX="0.299392" sY="0.696444" sZ="0.072862" angle="90" ax="0" ay="1" az="0" tx="0.330477" ty="0.706444" tz="0.040158"/>
+    <Box sX="0.170599" sY="0.43509" sZ="0.053132" angle="91.12901" ax="0.139007" ay="0.980487" az="-0.139007" tx="-0.603931" ty="0.810413" tz="0.081486"/>
+    <Box sX="0.299392" sY="0.696444" sZ="0.072862" angle="90" ax="0" ay="1" az="0" tx="-0.330477" ty="0.706444" tz="0.040158"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="0.486058" tz="-0.394311">
+      29:0,29:0,29:0,
+      29:0,1:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.467206,0,0,0,0.325576,0,0,0,0.542985" centerOfMass="0,1.01337,0.040813" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.775907" minY="0" minZ="-0.571311" maxX="0.775907" maxY="2.02674" maxZ="0.652936"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.771672" minY="0" minZ="-0.571311" maxX="0.771672" maxY="2.02674" maxZ="0.652936"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="87913"/>
+    <Annotation designname="PLATE 2X6 W. HOLDER"/>
+    <Annotation maingroupid="235"/>
+    <Annotation maingroupname="FENCES AND LADDERS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="2.39" sY="0.145" sZ="0.836498" angle="0" ax="0" ay="1" az="0" tx="2" ty="0.155" tz="-0.4"/>
+    <Box sX="0.0362" sY="1.09" sZ="2.39" angle="120" ax="0.57735" ay="0.57735" az="0.57735" tx="2" ty="0.2638" tz="-0.4"/>
+    <Box sX="0.065" sY="0.1362" sZ="2.39" angle="90" ax="0" ay="1" az="0" tx="2" ty="0.3638" tz="-1.425"/>
+    <Box sX="0.065" sY="0.1362" sZ="2.39" angle="90" ax="0" ay="1" az="0" tx="2" ty="0.3638" tz="0.625"/>
+    <Box sX="0.155312" sY="0.070076" sZ="0.065" angle="151.4035" ax="0.683756" ay="0.254864" az="0.683756" tx="-0.325" ty="0.168743" tz="0.519064"/>
+    <Box sX="0.155388" sY="0.070076" sZ="0.065" angle="97.0069" ax="0.329736" ay="0.884618" az="0.329736" tx="-0.325" ty="0.168794" tz="-1.31912"/>
+    <Box sX="0.11" sY="0.035" sZ="1.98177" angle="90" ax="0" ay="1" az="0" tx="1.99177" ty="0.465" tz="-1.38"/>
+    <Box sX="0.11" sY="0.035" sZ="1.98177" angle="90" ax="0" ay="1" az="0" tx="1.99177" ty="0.465" tz="0.58"/>
+    <Box sX="0.155388" sY="0.070076" sZ="0.065" angle="97.0069" ax="0.329736" ay="0.884618" az="0.329736" tx="4.325" ty="0.168794" tz="-1.31912"/>
+    <Box sX="0.155312" sY="0.070076" sZ="0.065" angle="151.4035" ax="0.683756" ay="0.254864" az="0.683756" tx="4.325" ty="0.168743" tz="0.519064"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="12" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Slider type="12" length="4.8" startCapped="0" endCapped="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="-0.4" ty="0.365" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.992631,0,0,0,4.92589,0,0,0,3.98449" centerOfMass="1.99956,0.247116,-0.399173" mass="2" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.5" maxX="4.4" maxY="0.51" maxZ="0.7"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.5" maxX="4.4" maxY="0.51" maxZ="0.7"/>
+  </GeometryBounding>
+</LEGOPrimitive>

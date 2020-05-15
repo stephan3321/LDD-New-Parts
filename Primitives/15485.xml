@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15485"/>
+    <Annotation designname="WIG W. BEARD NO. 70"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.295643" sY="0.066186" sZ="0.574754" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.5949" tz="0.084754"/>
+    <Box sX="0.328227" sY="0.131215" sZ="0.753838" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.767033" tz="0.402608"/>
+    <Box sX="0.328227" sY="0.185841" sZ="0.753838" angle="90" ax="1" ay="0" az="0" tx="0" ty="0.767033" tz="-0.448418"/>
+    <Box sX="0.167855" sY="0.190529" sZ="0.753838" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.380062" tz="-0.621737"/>
+    <Box sX="0.127925" sY="0.190529" sZ="1.00754" angle="88.65826" ax="1" ay="0" az="0" tx="0" ty="0.390476" tz="-0.818158"/>
+    <Box sX="0.111537" sY="0.190529" sZ="0.546432" angle="159.39047" ax="1" ay="0" az="0" tx="0" ty="1.67559" tz="-0.417996"/>
+    <Box sX="0.111537" sY="0.433771" sZ="0.140796" angle="171.563" ax="1" ay="0" az="0" tx="0" ty="1.56026" tz="0.55967"/>
+    <Box sX="0.377704" sY="0.173478" sZ="0.755705" angle="120" ax="0.57735" ay="-0.57735" az="0.57735" tx="0.436579" ty="0.765166" tz="-0.019275"/>
+    <Box sX="0.136674" sY="0.051175" sZ="0.284043" angle="49.65798" ax="1" ay="0" az="0" tx="0.317657" ty="-0.092873" tz="0.544754"/>
+    <Box sX="0.377704" sY="0.173478" sZ="0.755705" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="-0.436579" ty="0.765166" tz="-0.019275"/>
+    <Box sX="0.136674" sY="0.051175" sZ="0.284043" angle="180" ax="0" ay="0.907565" az="0.419911" tx="-0.317657" ty="-0.092873" tz="0.544754"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="200" oriented="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.18172,0,0,0,0.508635,0,0,0,1.04798" centerOfMass="-0.019362,0.44506,-0.192021" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.769257" minY="-1.16168" minZ="-1.17363" maxX="0.730534" maxY="2.0518" maxZ="0.789592"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.769257" minY="-1.16168" minZ="-1.17363" maxX="0.730534" maxY="2.0518" maxZ="0.789592"/>
+  </GeometryBounding>
+</LEGOPrimitive>

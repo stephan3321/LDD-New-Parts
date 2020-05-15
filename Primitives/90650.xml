@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="90650"/>
+    <Annotation designname="SHELL C 6M BALL SNAP Ø10.2"/>
+    <Annotation maingroupid="352"/>
+    <Annotation maingroupname="BODY SHELLS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.039972" sY="0.83687" sZ="0.111772" angle="113.27888" ax="0.491972" ay="0.523928" az="-0.695315" tx="1.9025" ty="0.533328" tz="0.929888"/>
+    <Box sX="0.05" sY="0.448625" sZ="0.251089" angle="0" ax="0" ay="1" az="0" tx="-0.314455" ty="0" tz="0.731089"/>
+    <Box sX="0.05" sY="0.448625" sZ="0.251089" angle="0" ax="0" ay="1" az="0" tx="0.309557" ty="0" tz="0.731089"/>
+    <Box sX="0.046595" sY="0.462972" sZ="0.19" angle="180" ax="0.707107" ay="0.707107" az="0" tx="2.00406" ty="-0.251595" tz="1"/>
+    <Box sX="0.046595" sY="0.462972" sZ="0.19" angle="180" ax="0.707107" ay="0.707107" az="0" tx="2.00406" ty="0.253405" tz="1"/>
+    <Box sX="0.035232" sY="0.448438" sZ="0.625069" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.014563" ty="-0.528934" tz="0.344069"/>
+    <Box sX="0.035232" sY="0.448438" sZ="0.625069" angle="90" ax="0" ay="0" az="-1" tx="0.014563" ty="0.528934" tz="0.344069"/>
+    <Box sX="0.039972" sY="0.83687" sZ="0.111772" angle="131.47623" ax="0.603181" ay="0.637008" az="-0.479993" tx="1.9025" ty="-0.533328" tz="0.929888"/>
+    <Box sX="0.046595" sY="0.145" sZ="0.19" angle="180" ax="0" ay="1" az="0" tx="2.61187" ty="0" tz="1"/>
+    <Box sX="0.046595" sY="0.145" sZ="0.19" angle="180" ax="0" ay="1" az="0" tx="1.38813" ty="0" tz="1"/>
+    <Box sX="0.2035" sY="0.145" sZ="0.069" angle="180" ax="0" ay="1" az="0" tx="2" ty="0" tz="0.879"/>
+    <Box sX="0.035417" sY="0.2737" sZ="0.732914" angle="73.67969" ax="-0.078099" ay="0.16619" az="-0.982996" tx="0.771402" ty="1.37992" tz="0.041256"/>
+    <Box sX="0.035417" sY="0.753858" sZ="0.685993" angle="84.48352" ax="0.091688" ay="-0.039483" az="-0.995005" tx="-0.335663" ty="1.03865" tz="-0.004423"/>
+    <Box sX="0.039972" sY="1.52956" sZ="0.436961" angle="112.39727" ax="0.49256" ay="0.527141" az="-0.692465" tx="-0.321251" ty="0.420016" tz="0.957904"/>
+    <Box sX="0.035417" sY="0.2737" sZ="0.732914" angle="174.63208" ax="-0.801193" ay="-0.590033" az="0.099754" tx="0.771402" ty="-1.37788" tz="0.041256"/>
+    <Box sX="0.035417" sY="0.753858" sZ="0.685993" angle="172.93231" ax="0.741725" ay="0.670177" az="0.026594" tx="-0.335663" ty="-1.03661" tz="-0.004423"/>
+    <Box sX="0.039972" sY="1.52956" sZ="0.436961" angle="131.67787" ax="0.609728" ay="0.630666" az="-0.480096" tx="-0.321251" ty="-0.41797" tz="0.957904"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.4" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0" ay="-0.707107" az="-0.707107" tx="2.4" ty="0" tz="0.8"/>
+    <Axel type="6" length="0.4" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="0" ay="-0.707107" az="-0.707107" tx="1.6" ty="0" tz="0.8"/>
+    <Fixed type="90" axes="2" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.5"/>
+    <Ball type="4" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Fixed type="90" axes="2" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="-0.5"/>
+    <Fixed type="90" axes="2" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0.5" tz="0"/>
+    <Fixed type="90" axes="2" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0" ty="-0.5" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.32071,0,0,0,3.42946,0,0,0,4.4354" centerOfMass="0.23562,0,0.556693" mass="3.31999993324" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2" minY="-1.53279" minZ="-0.789023" maxX="2.77" maxY="1.53279" maxZ="1.21173"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2" minY="-1.53279" minZ="-0.789023" maxX="2.77" maxY="1.53279" maxZ="1.21173"/>
+  </GeometryBounding>
+</LEGOPrimitive>

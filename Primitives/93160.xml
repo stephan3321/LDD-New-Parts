@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93160"/>
+    <Annotation designname="2 M. Ø3.2 BONES"/>
+    <Annotation maingroupid="249"/>
+    <Annotation maingroupname="FOODSTUFF"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.637139" sY="0.090096" sZ="0.103048" angle="0" ax="0" ay="1" az="0" tx="0.005625" ty="-0.006233" tz="-0.008046"/>
+    <Box sX="0.246843" sY="0.122741" sZ="0.122001" angle="61.48711" ax="0" ay="1" az="0" tx="-0.538104" ty="0.014996" tz="-0.005976"/>
+    <Box sX="0.249992" sY="0.124369" sZ="0.123619" angle="62.30595" ax="0" ay="1" az="0" tx="0.539061" ty="0.005041" tz="-0.02002"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.53964" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0.269687" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.004104,0,0,0,0.035933,0,0,0,0.033912" centerOfMass="0.001171,0,0" mass="0.168999999762" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.7745" minY="-0.160111" minZ="-0.373" maxX="0.7745" maxY="0.160111" maxZ="0.373"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7745" minY="-0.160111" minZ="-0.373" maxX="0.7745" maxY="0.160111" maxZ="0.373"/>
+  </GeometryBounding>
+</LEGOPrimitive>

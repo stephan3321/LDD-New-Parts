@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="50951"/>
+    <Annotation designname="TYRE LOW NARROW Ø14.58 X 6.24"/>
+    <Annotation maingroupid="265"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR SNAP Ø3,2"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.326761" sY="0.04955" sZ="0.302" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.61955" tz="-0.312"/>
+    <Box sX="0.326761" sY="0.04955" sZ="0.302" angle="45" ax="0" ay="0" az="1" tx="-0.438088" ty="0.438088" tz="-0.312"/>
+    <Box sX="0.326761" sY="0.04955" sZ="0.302" angle="90" ax="0" ay="0" az="1" tx="-0.61955" ty="0" tz="-0.312"/>
+    <Box sX="0.326761" sY="0.04955" sZ="0.302" angle="135" ax="0" ay="0" az="1" tx="-0.438088" ty="-0.438088" tz="-0.312"/>
+    <Box sX="0.326761" sY="0.04955" sZ="0.302" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.61955" tz="-0.312"/>
+    <Box sX="0.326761" sY="0.04955" sZ="0.302" angle="135" ax="0" ay="0" az="-1" tx="0.438088" ty="-0.438088" tz="-0.312"/>
+    <Box sX="0.326761" sY="0.04955" sZ="0.302" angle="90" ax="0" ay="0" az="-1" tx="0.61955" ty="0" tz="-0.312"/>
+    <Box sX="0.326761" sY="0.04955" sZ="0.302" angle="45" ax="0" ay="0" az="-1" tx="0.438088" ty="0.438088" tz="-0.312"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="38" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.31"/>
+    <Fixed type="38" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.31"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.105788,0,0,0,0.105788,0,0,0,0.185554" centerOfMass="0,0,-0.312" mass="0.40000000596" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.73" minY="-0.73" minZ="-0.624" maxX="0.73" maxY="0.73" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.73" minY="-0.73" minZ="-0.624" maxX="0.73" maxY="0.73" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

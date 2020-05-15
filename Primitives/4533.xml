@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4533;30125"/>
+    <Annotation designname="CUPBOARD, DOOR 3X2"/>
+    <Annotation maingroupid="227"/>
+    <Annotation maingroupname="INTERIOR"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.03" sY="0.055" sZ="0.73" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.835" ty="1.07" tz="0.28"/>
+    <Box sX="0.035962" sY="0.035962" sZ="0.73" angle="148.60028" ax="0.281085" ay="-0.678598" az="0.678598" tx="-0.205" ty="1.07" tz="0.28"/>
+    <Box sX="0.08" sY="0.09" sZ="0.24" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.585" ty="1.09" tz="0.445"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="65" oriented="0" angle="90" ax="0" ay="1" az="0" tx="-0.205" ty="1.07" tz="0.28"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.075735,0,0,0,0.157934,0,0,0,0.231708" centerOfMass="0.815553,1.06015,0.285086" mass="0.428000003099" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.27" minY="0.33" minZ="0.215" maxX="1.875" maxY="1.81" maxZ="0.545"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.27" minY="0.33" minZ="0.215" maxX="1.875" maxY="1.81" maxZ="0.545"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4448"/>
+    <Annotation designname="GLASS F. SKYLIGHT 4X4X3/45°"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.44" sY="0.089756" sZ="1.49971" angle="49" ax="1" ay="0" az="0" tx="1.2" ty="1.52466" tz="-0.972474"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="67" oriented="0" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="1.2" ty="1.52466" tz="-0.972474"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.45582,0,0,0,1.89116,0,0,0,2.09212" centerOfMass="1.2,1.52466,-0.972474" mass="2.02999997139" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.28" minY="0.31966" minZ="-2.03841" maxX="2.68" maxY="2.72966" maxZ="0.093457"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.28" minY="0.31966" minZ="-2.03841" maxX="2.68" maxY="2.72966" maxZ="0.093457"/>
+  </GeometryBounding>
+</LEGOPrimitive>

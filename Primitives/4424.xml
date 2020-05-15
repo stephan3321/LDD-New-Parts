@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4424"/>
+    <Annotation designname="FABULAND TUB"/>
+    <Annotation maingroupid="227"/>
+    <Annotation maingroupname="INTERIOR"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.537886" sY="0.038465" sZ="0.787442" angle="180" ax="0" ay="-0.629321" az="0.777146" tx="0.4" ty="1.00991" tz="-1.85734"/>
+    <Box sX="0.980858" sY="0.980859" sZ="0.045" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.4" ty="0.265" tz="-0.4"/>
+    <Box sX="0.664681" sY="0.664682" sZ="0.095" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="0.4" ty="0.105" tz="-0.4"/>
+    <Box sX="0.537887" sY="0.038465" sZ="0.787442" angle="155.14075" ax="0.27218" ay="-0.605561" az="0.747806" tx="-0.53676" ty="1.00991" tz="-1.51639"/>
+    <Box sX="0.537887" sY="0.038466" sZ="0.787442" angle="132.27795" ax="0.546225" ay="-0.527143" az="0.650967" tx="-1.0352" ty="1.00991" tz="-0.653065"/>
+    <Box sX="0.537886" sY="0.038465" sZ="0.787442" angle="113.94963" ax="0.802723" ay="-0.375297" az="0.463452" tx="-0.862094" ty="1.00991" tz="0.32867"/>
+    <Box sX="0.537886" sY="0.038465" sZ="0.787442" angle="103.40281" ax="0.975213" ay="-0.139248" az="0.171956" tx="-0.09844" ty="1.00991" tz="0.969451"/>
+    <Box sX="0.537886" sY="0.038465" sZ="0.787442" angle="103.40281" ax="0.975213" ay="0.139248" az="-0.171956" tx="0.898439" ty="1.00991" tz="0.969452"/>
+    <Box sX="0.537886" sY="0.038465" sZ="0.787442" angle="113.94965" ax="0.802723" ay="0.375296" az="-0.463453" tx="1.66209" ty="1.00991" tz="0.32867"/>
+    <Box sX="0.537887" sY="0.038466" sZ="0.787442" angle="132.27794" ax="0.546226" ay="0.527143" az="-0.650966" tx="1.8352" ty="1.00991" tz="-0.653064"/>
+    <Box sX="0.537887" sY="0.038466" sZ="0.787442" angle="155.14073" ax="0.272179" ay="0.605562" az="-0.747806" tx="1.33676" ty="1.00991" tz="-1.51639"/>
+    <Box sX="0.537886" sY="0.038465" sZ="0.787442" angle="180" ax="0" ay="-0.629321" az="0.777146" tx="0.4" ty="1.00991" tz="-1.85734"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.32" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,29:0:1,15:4,22:2:1,
+      22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,
+      22:2:1,15:4,29:0:1,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="3.88191,0,0,0,5.9909,0,0,0,3.88191" centerOfMass="0.4,0.822422,-0.4" mass="3.24000000954" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.34955" minY="0" minZ="-2.14776" maxX="2.14955" maxY="1.8" maxZ="1.34776"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.34955" minY="0" minZ="-2.14776" maxX="2.14955" maxY="1.8" maxZ="1.34776"/>
+  </GeometryBounding>
+</LEGOPrimitive>

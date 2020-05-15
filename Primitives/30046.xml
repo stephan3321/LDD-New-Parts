@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30046"/>
+    <Annotation designname="CAVITY W. LEADS"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.64" sY="0.09" sZ="0.71" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.4" ty="1.04" tz="0.15"/>
+    <Box sX="0.381683" sY="0.09" sZ="0.24788" angle="90" ax="-1" ay="0" az="0" tx="0.4" ty="2.02079" tz="0.15"/>
+    <Box sX="0.111806" sY="0.09" sZ="0.210393" angle="92.08649" ax="-0.964231" ay="0.187428" az="-0.187428" tx="-0.054503" ty="1.91872" tz="0.15"/>
+    <Box sX="0.111806" sY="0.09" sZ="0.210393" angle="92.08649" ax="-0.964231" ay="-0.187428" az="0.187428" tx="0.854503" ty="1.91872" tz="0.15"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="45" oriented="0" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="0.4" ty="1.65" tz="0.15"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.094034,0,0,0,0.042434,0,0,0,0.135204" centerOfMass="0.400086,1.27435,0.15" mass="0.280000001192" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.27487" minY="0.294931" minZ="0.05" maxX="1.07507" maxY="2.41" maxZ="0.25"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.27487" minY="0.294931" minZ="0.05" maxX="1.07507" maxY="2.41" maxZ="0.25"/>
+  </GeometryBounding>
+</LEGOPrimitive>

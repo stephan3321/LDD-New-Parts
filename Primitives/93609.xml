@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93609"/>
+    <Annotation designname="SKELETON ARM NO. 4"/>
+    <Annotation maingroupid="245"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.126899" sY="0.030135" sZ="0.15" angle="26.3425" ax="0" ay="0" az="-1" tx="-0.098548" ty="-0.175633" tz="0"/>
+    <Box sX="0.144194" sY="0.030135" sZ="0.15" angle="60.35146" ax="0" ay="0" az="1" tx="0.170856" ty="-0.108719" tz="0"/>
+    <Box sX="0.254019" sY="0.1056" sZ="0.096713" angle="31.03196" ax="0" ay="0" az="-1" tx="0.395415" ty="-0.23789" tz="0"/>
+    <Box sX="0.126899" sY="0.030135" sZ="0.15" angle="26.3425" ax="0" ay="0" az="-1" tx="0.081188" ty="0.187356" tz="0"/>
+    <Box sX="0.126899" sY="0.030135" sZ="0.15" angle="180" ax="-0.227862" ay="0.973693" az="0" tx="1.10365" ty="0.187356" tz="0"/>
+    <Box sX="0.254019" sY="0.1056" sZ="0.096713" angle="180" ax="-0.267507" ay="0.963556" az="0" tx="0.789426" ty="-0.23789" tz="0"/>
+    <Box sX="0.144194" sY="0.030135" sZ="0.15" angle="180" ax="0.502654" ay="0.864488" az="0" tx="1.01399" ty="-0.108719" tz="0"/>
+    <Box sX="0.126899" sY="0.030135" sZ="0.15" angle="180" ax="-0.227862" ay="0.973693" az="0" tx="1.28339" ty="-0.175633" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="1.19532" ty="0" tz="-0.16"/>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="-0.000856" ty="0" tz="-0.16"/>
+    <Axel type="7" length="0.330641" requireGrabbing="1" startCapped="1" endCapped="1" angle="104.47751" ax="-0.447214" ay="0.774597" az="0.447214" tx="0.502892" ty="-0.319705" tz="0"/>
+    <Axel type="7" length="0.330641" requireGrabbing="1" startCapped="1" endCapped="1" angle="104.47751" ax="0.447214" ay="0.774597" az="-0.447214" tx="0.689986" ty="-0.306448" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.005492,0,0,0,0.025391,0,0,0,0.028788" centerOfMass="0.6,-0.155393,0" mass="0.20000000298" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.254485" minY="-0.558844" minZ="-0.195258" maxX="1.45449" maxY="0.270672" maxZ="0.195258"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.254485" minY="-0.558844" minZ="-0.195258" maxX="1.45449" maxY="0.26455" maxZ="0.195258"/>
+  </GeometryBounding>
+</LEGOPrimitive>

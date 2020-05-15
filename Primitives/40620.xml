@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="40620"/>
+    <Annotation designname="EXHAUST PIPE M/SNAP, CROM"/>
+    <Annotation maingroupid="276"/>
+    <Annotation maingroupname="CRAINS AND SCAFFOLD"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.43" sY="0.237485" sZ="0.237485" angle="45" ax="1" ay="0" az="0" tx="2.8" ty="0" tz="-1.2"/>
+    <Box sX="0.158153" sY="0.139786" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="-0.001557" ty="0" tz="-0.4"/>
+    <Box sX="0.283939" sY="0.050118" sZ="0.038" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.000118" tz="-0.752"/>
+    <Box sX="0.27008" sY="0.152668" sZ="0.088406" angle="44.91294" ax="0" ay="1" az="0" tx="0.130774" ty="0.003445" tz="-1.03208"/>
+    <Box sX="0.038706" sY="0.260341" sZ="0.038" angle="0" ax="0" ay="1" az="0" tx="-0.064482" ty="-0.001028" tz="-0.752"/>
+    <Box sX="2.32314" sY="0.095" sZ="0.095" angle="0" ax="0" ay="1" az="0" tx="2.73314" ty="0" tz="-1.2"/>
+    <Box sX="1.43" sY="0.237485" sZ="0.237485" angle="0" ax="0" ay="1" az="0" tx="2.8" ty="0" tz="-1.2"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.96" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="0.4" ty="0" tz="-1.2"/>
+    <Axel type="7" length="0.672488" requireGrabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="4.24" ty="0" tz="-1.2"/>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.105843,0,0,0,2.40817,0,0,0,2.36189" centerOfMass="2.40967,-4.9E-005,-1.14694" mass="2.85714006424" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.293939" minY="-0.35" minZ="-1.55" maxX="5.22628" maxY="0.35" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.293939" minY="-0.35" minZ="-1.55" maxX="5.22628" maxY="0.35" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

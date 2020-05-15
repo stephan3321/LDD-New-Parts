@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="47455"/>
+    <Annotation designname="JOINT LINK W. BUSH"/>
+    <Annotation maingroupid="202"/>
+    <Annotation maingroupname="BRICKS, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.150804" sY="0.158382" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.002048" tz="-0.4"/>
+    <Box sX="0.411924" sY="0.19" sZ="0.184791" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-0.99479"/>
+    <Box sX="0.05" sY="0.12169" sZ="0.488707" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.350665" tz="-1.60232"/>
+    <Box sX="0.102706" sY="0.19" sZ="0.181198" angle="0" ax="0" ay="1" az="0" tx="-0.523738" ty="0" tz="-1.6028"/>
+    <Box sX="0.102705" sY="0.19" sZ="0.181198" angle="45" ax="0" ay="-1" az="0" tx="-0.365802" ty="0" tz="-1.97109"/>
+    <Box sX="0.102706" sY="0.19" sZ="0.181198" angle="180" ax="0" ay="1" az="0" tx="0.523338" ty="0" tz="-1.5898"/>
+    <Box sX="0.102705" sY="0.19" sZ="0.181198" angle="135" ax="0" ay="1" az="0" tx="0.365402" ty="0" tz="-1.22151"/>
+    <Box sX="0.102705" sY="0.19" sZ="0.181198" angle="45" ax="0" ay="1" az="0" tx="-0.374993" ty="0" tz="-1.2307"/>
+    <Box sX="0.150804" sY="0.158382" sZ="0.68" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.11" tz="-1.6"/>
+    <Box sX="0.102705" sY="0.19" sZ="0.181198" angle="135" ax="0" ay="-1" az="0" tx="0.374593" ty="0" tz="-1.9619"/>
+    <Box sX="0.102706" sY="0.19" sZ="0.181198" angle="90" ax="0" ay="-1" az="0" tx="0.006299" ty="0" tz="-2.11984"/>
+    <Box sX="0.182972" sY="0.192065" sZ="0.23" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-0.34" tz="-1.6"/>
+    <Box sX="0.156611" sY="0.349457" sZ="0.04" angle="0" ax="0" ay="1" az="0" tx="0.000858" ty="0.003659" tz="-0.85"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="180" ax="-0.707107" ay="0" az="-0.707107" tx="0" ty="0.8" tz="-1.6"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.215294,0,0,0,0.233604,0,0,0,0.099979" centerOfMass="0,-0.026263,-1.38308" mass="0.920000016689" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.699817" minY="-0.58" minZ="-2.29506" maxX="0.699827" maxY="0.8" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.699817" minY="-0.58" minZ="-2.29506" maxX="0.699827" maxY="0.8" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

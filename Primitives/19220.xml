@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="19220"/>
+    <Annotation designname="WALKIE-TALKIE"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.33" sY="0.2275" sZ="0.15" angle="0" ax="0" ay="1" az="0" tx="-0.540527" ty="0.5125" tz="0"/>
+    <Box sX="0.060711" sY="0.709881" sZ="0.060711" angle="45" ax="0" ay="1" az="0" tx="-0.627169" ty="1.46988" tz="0"/>
+    <Box sX="0.25" sY="0.26625" sZ="0.15" angle="0" ax="0" ay="1" az="0" tx="-0.620527" ty="-0.00125" tz="0"/>
+    <Box sX="0.07925" sY="0.141064" sZ="0.07925" angle="81.63458" ax="-0.335804" ay="0.479578" az="0.810703" tx="-0.11762" ty="0.460424" tz="-0.001"/>
+    <Box sX="0.095" sY="0.406066" sZ="0.095" angle="45" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Box sX="0.07925" sY="0.137441" sZ="0.07925" angle="81.63458" ax="0.335804" ay="0.479578" az="-0.810703" tx="-0.114657" ty="-0.457602" tz="-0.001"/>
+    <Box sX="0.33" sY="0.2275" sZ="0.15" angle="0" ax="0" ay="1" az="0" tx="-0.540527" ty="-0.5125" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="4" angle="90" ax="1" ay="0" az="0" tx="-1" ty="0.8" tz="0.161">
+      29:0:1,23:4:1,29:0:1,
+      23:4:1,1:4:2,23:4:1,
+      29:0:1,23:4:1,29:0:1,
+      23:4:1,1:4:2,23:4:1,
+      29:0:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Axel type="7" length="0.55" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="-9.7E-005" ty="-0.275" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.795841,0,0,0,0.132798,0,0,0,0.887272" centerOfMass="-0.420048,0.724949,0.088899" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1" minY="-0.8" minZ="-0.160202" maxX="0.159903" maxY="2.2499" maxZ="0.338"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.960628" minY="-0.75" minZ="-0.160202" maxX="0.159903" maxY="2.2499" maxZ="0.338"/>
+  </GeometryBounding>
+</LEGOPrimitive>

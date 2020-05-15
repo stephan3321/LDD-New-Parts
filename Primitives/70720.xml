@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="70720"/>
+    <Annotation designname="AXLE Ø2X45"/>
+    <Annotation maingroupid="274"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, TRAINS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="2.16" sY="0.060711" sZ="0.060711" angle="45" ax="1" ay="0" az="0" tx="1.20358" ty="-0.48" tz="-0.8"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="0.425952,0,0,0,0.425952,0,0,0,0.001346" centerOfMass="0,0,-2.17" mass="50" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.966416" minY="-0.58" minZ="-0.9" maxX="3.37358" maxY="-0.38" maxZ="-0.7"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.966416" minY="-0.58" minZ="-0.9" maxX="3.37358" maxY="-0.38" maxZ="-0.7"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="64802"/>
+    <Annotation designname="CLONE TROOPER JET PACK"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.12" sY="0.05" sZ="0.369721" angle="0" ax="0" ay="1" az="0" tx="-0.38" ty="0.06" tz="0.087702"/>
+    <Box sX="0.12" sY="0.05" sZ="0.369721" angle="0" ax="0" ay="1" az="0" tx="0.38" ty="0.06" tz="0.087702"/>
+    <Box sX="0.438392" sY="0.05" sZ="0.06101" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.06" tz="-0.32101"/>
+    <Box sX="0.110741" sY="0.83" sZ="0.110741" angle="45" ax="0" ay="1" az="0" tx="0" ty="-0.38" tz="0.859981"/>
+    <Box sX="0.091867" sY="0.823143" sZ="0.091867" angle="45" ax="0" ay="1" az="0" tx="0.518206" ty="-0.813143" tz="0.791887"/>
+    <Box sX="0.091867" sY="0.823142" sZ="0.091867" angle="45" ax="0" ay="1" az="0" tx="-0.522461" ty="-0.813143" tz="0.791887"/>
+    <Box sX="0.60392" sY="0.632491" sZ="0.117927" angle="0" ax="0" ay="1" az="0" tx="-0.003834" ty="-0.57751" tz="0.535908"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="0" ay="0" az="1" tx="0.4" ty="0.12" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.176531,0,0,0,0.129137,0,0,0,0.21633" centerOfMass="-1.4E-005,-0.534696,0.608218" mass="0.5" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.74748" minY="-1.69291" minZ="-0.392019" maxX="0.74748" maxY="0.46" maxZ="1.05732"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.74748" minY="-1.69291" minZ="-0.392019" maxX="0.74748" maxY="0.46" maxZ="1.05732"/>
+  </GeometryBounding>
+</LEGOPrimitive>

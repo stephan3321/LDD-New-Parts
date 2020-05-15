@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6630"/>
+    <Annotation designname="TECHNIC TOOTHED BAR 8M"/>
+    <Annotation maingroupid="388"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS, GEAR WHEELS AND RACKS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="8"/>
+  </Annotations>
+  <Collision>
+    <Box sX="2.47775" sY="0.175" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="2.8" ty="0.185" tz="-0.325"/>
+    <Box sX="2.79" sY="0.175" sZ="0.035" angle="0" ax="0" ay="1" az="0" tx="2.8" ty="0.185" tz="-0.355"/>
+    <Box sX="2.79" sY="0.175" sZ="0.035" angle="0" ax="0" ay="1" az="0" tx="2.8" ty="0.185" tz="0.355"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="180" ax="0" ay="1" az="0" tx="5.9255" ty="0.2" tz="0"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="120" ax="0" ay="-1" az="0" tx="5.76275" ty="0.2" tz="-0.281891"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="120" ax="0" ay="1" az="0" tx="5.76275" ty="0.2" tz="0.281891"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.72" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.04" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.36" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="1.68" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="2" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="2.32" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="2.64" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="2.96" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="3.28" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="3.6" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="3.92" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="4.24" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="4.56" ty="0.42" tz="0"/>
+    <Box sX="0.033566" sY="0.15" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="4.88" ty="0.42" tz="0"/>
+    <Box sX="2.47848" sY="0.035" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="2.8" ty="0.305" tz="0"/>
+    <Box sX="0.14" sY="0.11" sZ="0.05" angle="0" ax="0" ay="1" az="0" tx="5.2" ty="0.2" tz="0"/>
+    <Box sX="0.14" sY="0.11" sZ="0.05" angle="180" ax="0" ay="1" az="0" tx="0.4" ty="0.2" tz="0"/>
+    <Box sX="2.47811" sY="0.175" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="2.79964" ty="0.185" tz="0.325"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="60" ax="0" ay="1" az="0" tx="-0.16275" ty="0.2" tz="0.281891"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="0" ax="0" ay="1" az="0" tx="-0.3255" ty="0.2" tz="0"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="60" ax="0" ay="-1" az="0" tx="-0.16275" ty="0.2" tz="-0.281891"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="120" ax="0" ay="-1" az="0" tx="0.16275" ty="0.2" tz="-0.281891"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="180" ax="0" ay="1" az="0" tx="0.3255" ty="0.2" tz="0"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="120" ax="0" ay="1" az="0" tx="0.16275" ty="0.2" tz="0.281891"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="60" ax="0" ay="1" az="0" tx="5.43725" ty="0.2" tz="0.281891"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="0" ax="0" ay="1" az="0" tx="5.2745" ty="0.2" tz="0"/>
+    <Box sX="0.0055" sY="0.19" sZ="0.192094" angle="60" ax="0" ay="-1" az="0" tx="5.43725" ty="0.2" tz="-0.281891"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.4" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="0" tz="0"/>
+    <Axel type="2" length="0.4" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="5.6" ty="0" tz="0"/>
+    <Custom2DField type="22" width="16" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,
+      22:2:1,16:4:64,22:2:1,15:4:1,15:4:1,15:4:1,15:4:1,15:4:1,15:4:1,15:4:1,15:4:1,15:4:1,15:4:1,15:4:1,22:2:1,16:4:64,22:2:1,
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="5.2" ty="0.4" tz="0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.129173,0,0,0,4.16793,0,0,0,4.0982" centerOfMass="2.8,0.281502,0" mass="1.70000004768" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="6" maxY="0.58" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="6" maxY="0.58" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

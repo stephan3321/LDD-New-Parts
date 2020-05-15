@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98375"/>
+    <Annotation designname="WIND-UP KEY W. TUBE"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.219456" sY="0.0448" sZ="0.219456" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.2648" tz="0"/>
+    <Box sX="0.208937" sY="0.0448" sZ="0.212872" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.2648" tz="0"/>
+    <Box sX="0.15225" sY="0.1498" sZ="0.005513" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.1598" tz="0.265513"/>
+    <Box sX="0.15225" sY="0.1498" sZ="0.005513" angle="60" ax="0" ay="1" az="0" tx="0.229941" ty="0.1598" tz="0.132756"/>
+    <Box sX="0.15225" sY="0.1498" sZ="0.005513" angle="120" ax="0" ay="1" az="0" tx="0.229941" ty="0.1598" tz="-0.132756"/>
+    <Box sX="0.15225" sY="0.1498" sZ="0.005513" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.1598" tz="-0.265513"/>
+    <Box sX="0.15225" sY="0.1498" sZ="0.005513" angle="120" ax="0" ay="-1" az="0" tx="-0.229941" ty="0.1598" tz="-0.132756"/>
+    <Box sX="0.15225" sY="0.1498" sZ="0.005513" angle="60" ax="0" ay="-1" az="0" tx="-0.229941" ty="0.1598" tz="0.132756"/>
+    <Box sX="0.291018" sY="0.183025" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="-0.003386" ty="0.403025" tz="0"/>
+    <Box sX="0.139751" sY="0.249376" sZ="0.065" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.6588" tz="0"/>
+    <Box sX="0.139751" sY="0.649376" sZ="0.065" angle="90" ax="0" ay="0" az="1" tx="0" ty="0.6588" tz="0"/>
+    <Box sX="0.139751" sY="0.249376" sZ="0.065" angle="180" ax="0" ay="1" az="0" tx="-0.4" ty="0.6588" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.012509,0,0,0,0.017816,0,0,0,0.025761" centerOfMass="-2E-005,0.446151,0" mass="0.180000007153" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.699502" minY="0" minZ="-0.3245" maxX="0.699502" maxY="0.958302" maxZ="0.3245"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.699502" minY="0" minZ="-0.3245" maxX="0.699502" maxY="0.958302" maxZ="0.3245"/>
+  </GeometryBounding>
+</LEGOPrimitive>

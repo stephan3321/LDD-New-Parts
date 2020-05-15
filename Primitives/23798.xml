@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="23798"/>
+    <Annotation designname="TYRE TRACTOR DIA. 107X44"/>
+    <Annotation maingroupid="366"/>
+    <Annotation maingroupname="TYRES AND RIMS FOR/TO SNAP Ø4,85 W. CROSS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.57329" sY="0.609141" sZ="2.19" angle="22.5" ax="0" ay="0" az="1" tx="1.35105" ty="-3.31892" tz="-0.799999"/>
+    <Box sX="1.67104" sY="0.911386" sZ="1.64507" angle="22.5" ax="0" ay="0" az="1" tx="1.54145" ty="-3.76065" tz="-0.799999"/>
+    <Box sX="1.57329" sY="0.609141" sZ="2.19" angle="22.5" ax="0" ay="0" az="-1" tx="-1.39149" ty="-3.30217" tz="-0.799999"/>
+    <Box sX="1.67104" sY="0.911386" sZ="1.64507" angle="22.5" ax="0" ay="0" az="-1" tx="-1.56921" ty="-3.74915" tz="-0.799999"/>
+    <Box sX="1.57329" sY="0.609141" sZ="2.19" angle="67.5" ax="0" ay="0" az="-1" tx="-3.31892" ty="-1.35105" tz="-0.799999"/>
+    <Box sX="1.67104" sY="0.911386" sZ="1.64507" angle="67.5" ax="0" ay="0" az="-1" tx="-3.76065" ty="-1.54145" tz="-0.799999"/>
+    <Box sX="1.57329" sY="0.609141" sZ="2.19" angle="112.49999" ax="0" ay="0" az="-1" tx="-3.30217" ty="1.39149" tz="-0.799999"/>
+    <Box sX="1.67104" sY="0.911386" sZ="1.64507" angle="112.5" ax="0" ay="0" az="-1" tx="-3.74915" ty="1.56921" tz="-0.799999"/>
+    <Box sX="1.57329" sY="0.609141" sZ="2.19" angle="157.49998" ax="0" ay="0" az="-1" tx="-1.35105" ty="3.31892" tz="-0.799999"/>
+    <Box sX="1.67104" sY="0.911386" sZ="1.64507" angle="157.49998" ax="0" ay="0" az="-1" tx="-1.54145" ty="3.76065" tz="-0.799999"/>
+    <Box sX="1.57329" sY="0.609141" sZ="2.19" angle="157.49998" ax="0" ay="0" az="1" tx="1.39149" ty="3.30217" tz="-0.799999"/>
+    <Box sX="1.67104" sY="0.911386" sZ="1.64507" angle="157.49998" ax="0" ay="0" az="1" tx="1.56921" ty="3.74915" tz="-0.799999"/>
+    <Box sX="1.57329" sY="0.609141" sZ="2.19" angle="112.49999" ax="0" ay="0" az="1" tx="3.31892" ty="1.35105" tz="-0.799999"/>
+    <Box sX="1.67104" sY="0.911386" sZ="1.64507" angle="112.5" ax="0" ay="0" az="1" tx="3.76065" ty="1.54145" tz="-0.799999"/>
+    <Box sX="1.57329" sY="0.609141" sZ="2.19" angle="67.5" ax="0" ay="0" az="1" tx="3.30217" ty="-1.39149" tz="-0.799999"/>
+    <Box sX="1.67104" sY="0.911386" sZ="1.64507" angle="67.5" ax="0" ay="0" az="1" tx="3.74915" ty="-1.56921" tz="-0.799999"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="72" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+    <Fixed type="72" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="11.10327,0,0,0,11.10327,0,0,0,18.97987" centerOfMass="0,0,-0.8" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-5.33571" minY="-5.33571" minZ="-3" maxX="5.33571" maxY="5.33571" maxZ="1.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-5.33571" minY="-5.33571" minZ="-3" maxX="5.33571" maxY="5.33571" maxZ="1.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

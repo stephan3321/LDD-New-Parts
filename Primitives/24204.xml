@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24204"/>
+    <Annotation designname="HORN W/4.85 BUSH"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.269307" sY="0.269307" sZ="0.49" angle="45" ax="0" ay="0" az="-1" tx="0" ty="0" tz="-1.28651"/>
+    <Box sX="0.011756" sY="0.107497" sZ="0.383257" angle="0" ax="0" ay="1" az="0" tx="0.181755" ty="0" tz="-0.393257"/>
+    <Box sX="0.011756" sY="0.107497" sZ="0.383257" angle="180" ax="0" ay="1" az="0" tx="-0.181755" ty="0" tz="-0.393257"/>
+    <Box sX="0.011756" sY="0.063683" sZ="0.383257" angle="60" ax="0" ay="0" az="1" tx="0.128822" ty="0.135498" tz="-0.393257"/>
+    <Box sX="0.011756" sY="0.063683" sZ="0.383257" angle="180" ax="0.866025" ay="-0.5" az="0" tx="0.128822" ty="-0.135498" tz="-0.393257"/>
+    <Box sX="0.011756" sY="0.063683" sZ="0.383257" angle="180" ax="0.5" ay="0.866025" az="0" tx="-0.128822" ty="0.135498" tz="-0.393257"/>
+    <Box sX="0.011756" sY="0.063683" sZ="0.383257" angle="120" ax="0" ay="0" az="-1" tx="-0.128822" ty="-0.135498" tz="-0.393257"/>
+    <Box sX="0.29941" sY="0.182116" sZ="0.686582" angle="33.98112" ax="0" ay="1" az="0" tx="-0.409046" ty="0" tz="-2.36481"/>
+    <Box sX="0.231422" sY="0.13173" sZ="0.686582" angle="2.75847" ax="0" ay="1" az="0" tx="-0.800978" ty="0" tz="-3.25436"/>
+    <Box sX="0.125131" sY="0.125131" sZ="0.503604" angle="52.27161" ax="0.205142" ay="-0.495256" az="-0.844179" tx="-0.612448" ty="0" tz="-4.35773"/>
+    <Box sX="0.103137" sY="0.103136" sZ="0.404891" angle="61.458" ax="0.274481" ay="-0.662657" az="-0.696811" tx="0.009346" ty="0" tz="-5.18656"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.829781" requireGrabbing="0" startCapped="0" endCapped="1" angle="147.24577" ax="0.675882" ay="-0.675882" az="-0.293882" tx="0.2923" ty="0" tz="-5.48999"/>
+    <Axel type="3" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="97.71947" ax="0.873594" ay="-0.344118" az="0.344118" tx="-0.000241" ty="0.4" tz="-5.76279">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.66489,0,0,0,2.81912,0,0,0,0.258246" centerOfMass="-0.377648,0,-2.79976" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.16423" minY="-0.395" minZ="-5.59952" maxX="0.408935" maxY="0.395" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.16423" minY="-0.395" minZ="-5.59952" maxX="0.408935" maxY="0.395" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

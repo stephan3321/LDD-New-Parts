@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="41763;42023"/>
+    <Annotation designname="BRICK 1X6 W/BOW, REV."/>
+    <Annotation maingroupid="207"/>
+    <Annotation maingroupname="BRICKS WITH BOWS AND ARCHES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.775" sY="0.39" sZ="0.47" angle="90" ax="1" ay="0" az="0" tx="0.385" ty="0.48" tz="0"/>
+    <Box sX="0.748151" sY="0.0525" sZ="0.371886" angle="90.16358" ax="0.997149" ay="0.053358" az="0.053358" tx="1.88392" ty="0.463471" tz="0.3375"/>
+    <Box sX="0.748151" sY="0.0525" sZ="0.371886" angle="90.16358" ax="0.997149" ay="0.053358" az="0.053358" tx="1.88392" ty="0.463471" tz="-0.3375"/>
+    <Box sX="1.605" sY="0.39" sZ="0.0555" angle="90" ax="1" ay="0" az="0" tx="2.785" ty="0.8945" tz="0"/>
+    <Box sX="0.486837" sY="0.39" sZ="0.243547" angle="91.1899" ax="0.979445" ay="0.142632" az="0.142632" tx="3.07668" ty="0.570214" tz="0"/>
+    <Box sX="0.417237" sY="0.39" sZ="0.059751" angle="92.66527" ax="0.954531" ay="0.210796" az="0.210796" tx="3.98312" ty="0.712339" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="12" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.284407,0,0,0,3.2872,0,0,0,3.31603" centerOfMass="1.58723,0.615665,0.000104" mass="2.05999994278" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="4.4" maxY="1.138" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="4.4" maxY="1.138" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

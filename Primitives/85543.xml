@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="70902;85543"/>
+    <Annotation designname="V-BELT Ø15, WHITE"/>
+    <Annotation maingroupid="290"/>
+    <Annotation maingroupname="RUBBERS AND STRINGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="11.25001" ax="0" ay="0" az="1" tx="-0.14442" ty="0.726046" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="33.75" ax="0" ay="0" az="1" tx="-0.411272" ty="0.615512" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="56.25" ax="0" ay="0" az="1" tx="-0.615512" ty="0.411272" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="78.75" ax="0" ay="0" az="1" tx="-0.726046" ty="0.14442" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="101.24999" ax="0" ay="0" az="1" tx="-0.726046" ty="-0.14442" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="123.74999" ax="0" ay="0" az="1" tx="-0.615512" ty="-0.411272" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="146.25" ax="0" ay="0" az="1" tx="-0.411272" ty="-0.615512" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="168.74998" ax="0" ay="0" az="1" tx="-0.14442" ty="-0.726046" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="168.74998" ax="0" ay="0" az="-1" tx="0.14442" ty="-0.726046" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="146.25" ax="0" ay="0" az="-1" tx="0.411272" ty="-0.615512" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="123.74999" ax="0" ay="0" az="-1" tx="0.615512" ty="-0.411272" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="101.24999" ax="0" ay="0" az="-1" tx="0.726046" ty="-0.14442" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="78.75" ax="0" ay="0" az="-1" tx="0.726046" ty="0.14442" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="56.25" ax="0" ay="0" az="-1" tx="0.615512" ty="0.411272" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="33.75" ax="0" ay="0" az="-1" tx="0.411272" ty="0.615512" tz="0"/>
+    <Box sX="0.151706" sY="0.041612" sZ="0.041612" angle="11.25001" ax="0" ay="0" az="-1" tx="0.14442" ty="0.726046" tz="0"/>
+  </Collision>
+  <PhysicsAttributes inertiaTensor="0.02325,0,0,0,0.02325,0,0,0,0.046274" centerOfMass="0,0,0" mass="1" frictionType="1"/>
+  <Bounding>
+    <AABB minX="-0.83" minY="-0.83" minZ="-0.075" maxX="0.83" maxY="0.83" maxZ="0.075"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.83" minY="-0.83" minZ="-0.075" maxX="0.83" maxY="0.83" maxZ="0.075"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3470"/>
+    <Annotation designname="FOULIIFEROUS TREE H64"/>
+    <Annotation maingroupid="228"/>
+    <Annotation maingroupname="PLANTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.265" sY="0.723046" sZ="0.265" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="1.09305" tz="-0.4"/>
+    <Box sX="0.886056" sY="0.17" sZ="0.550502" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.18" tz="-0.4"/>
+    <Box sX="0.812724" sY="0.17" sZ="0.609092" angle="90" ax="0" ay="1" az="0" tx="0.4" ty="0.18" tz="-0.4"/>
+    <Sphere radius="1.7" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="4.27704" tz="-0.4"/>
+    <Sphere radius="1.7" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="3.54822" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      29:0:1,22:2:1,22:2:1,22:2:1,29:0:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      29:0:1,22:2:1,22:2:1,22:2:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="23.12832,0,0,0,9.38687,0,0,0,21.7387" centerOfMass="0.399992,3.55636,-0.400006" mass="8.67000007629" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.34198" minY="0" minZ="-2.14688" maxX="2.14198" maxY="6" maxZ="1.34688"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.34198" minY="0" minZ="-2.14688" maxX="2.14198" maxY="6" maxZ="1.34688"/>
+  </GeometryBounding>
+</LEGOPrimitive>

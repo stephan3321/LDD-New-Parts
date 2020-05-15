@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24087"/>
+    <Annotation designname="MINI CLOTHING NO. 1"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.139761" sY="0.034395" sZ="0.745794" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.044395" tz="0"/>
+    <Box sX="0.80857" sY="0.034395" sZ="0.236092" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.044395" tz="-0.509701"/>
+    <Box sX="0.80857" sY="0.090476" sZ="0.302823" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="-0.019983" tz="-0.712823"/>
+    <Box sX="0.80857" sY="0.084718" sZ="0.015014" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="-0.1027" tz="-0.425014"/>
+    <Box sX="0.80857" sY="0.034395" sZ="0.236092" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.044395" tz="0.509701"/>
+    <Box sX="0.80857" sY="0.090476" sZ="0.302823" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="-0.019983" tz="0.712823"/>
+    <Box sX="0.80857" sY="0.084718" sZ="0.015014" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="-0.1027" tz="0.425014"/>
+    <Box sX="0.238743" sY="0.034395" sZ="0.745794" angle="0" ax="0" ay="1" az="0" tx="-0.499073" ty="0.044395" tz="0"/>
+    <Box sX="0.242592" sY="0.049504" sZ="0.564784" angle="0" ax="0" ay="1" az="0" tx="-0.622592" ty="-0.062757" tz="0"/>
+    <Box sX="0.238743" sY="0.034395" sZ="0.745794" angle="180" ax="0" ay="1" az="0" tx="1.29907" ty="0.044395" tz="0"/>
+    <Box sX="0.242592" sY="0.049504" sZ="0.564784" angle="180" ax="0" ay="1" az="0" tx="1.42259" ty="-0.062757" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="4" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.9" ty="0" tz="0"/>
+    <Fixed type="4" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.1" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.41269,0,0,0,1.01496,0,0,0,0.624801" centerOfMass="0.4,-0.01577,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.956688" minY="-0.199621" minZ="-1.09739" maxX="1.75669" maxY="0.168081" maxZ="1.09739"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.956688" minY="-0.199621" minZ="-1.09739" maxX="1.75669" maxY="0.168081" maxZ="1.09739"/>
+  </GeometryBounding>
+</LEGOPrimitive>

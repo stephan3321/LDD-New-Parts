@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="42687"/>
+    <Annotation designname="BATTLE DROID LEG"/>
+    <Annotation maingroupid="245"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.753246" sY="0.15" sZ="0.324194" angle="0" ax="0" ay="1" az="0" tx="0.39989" ty="0.16" tz="0.058951"/>
+    <Box sX="0.151386" sY="0.185504" sZ="0.199342" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="2.14091" tz="0.00089"/>
+    <Box sX="0.085565" sY="0.915471" sZ="0.259675" angle="180" ax="0" ay="1" az="0" tx="0.73129" ty="1.31053" tz="-0.05592"/>
+    <Box sX="0.085565" sY="0.915471" sZ="0.259675" angle="180" ax="0" ay="1" az="0" tx="0.0259" ty="1.31053" tz="-0.057526"/>
+    <Box sX="0.151386" sY="0.061172" sZ="0.118775" angle="90.00014" ax="-0.999965" ay="-0.008166" az="0.001596" tx="0.397588" ty="2.46955" tz="0.232216"/>
+    <Box sX="0.151386" sY="0.061172" sZ="0.118775" angle="90.00014" ax="-0.999965" ay="-0.008166" az="0.001596" tx="0.400646" ty="2.46958" tz="-0.233232"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.322772" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.238614" ty="2.49388" tz="0"/>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,29:0:1,22:2:1,29:0:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.616635,0,0,0,0.266667,0,0,0,0.776635" centerOfMass="0.4,1.29996,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="2.59993" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.363356" minY="0" minZ="-0.357137" maxX="1.16336" maxY="2.59993" maxZ="0.393146"/>
+  </GeometryBounding>
+</LEGOPrimitive>

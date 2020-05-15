@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15107"/>
+    <Annotation designname="LEG 8M WITH CROSS AXLE/Ø3.2 SHAFT"/>
+    <Annotation maingroupid="347"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.08" sY="0.235" sZ="0.49" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="0.3"/>
+    <Box sX="0.08" sY="0.235" sZ="0.44" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0.35"/>
+    <Box sX="0.455462" sY="0.49" sZ="0.24" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-0.25"/>
+    <Box sX="0.267176" sY="0.398981" sZ="1.87273" angle="8.05959" ax="-1" ay="0" az="0" tx="0" ty="-0.225411" tz="-2.26608"/>
+    <Box sX="0.229991" sY="0.338711" sZ="1.19626" angle="33.22808" ax="-1" ay="0" az="0" tx="0" ty="-1.14488" tz="-5.03818"/>
+    <Box sX="0.183585" sY="0.280921" sZ="1.10969" angle="66.16175" ax="-1" ay="0" az="0" tx="0" ty="-2.7673" tz="-6.48193"/>
+    <Box sX="0.155" sY="0.182524" sZ="0.230662" angle="90" ax="-1" ay="0" az="0" tx="0" ty="-3.75934" tz="-6.77981"/>
+    <Box sX="0.103137" sY="0.49" sZ="0.103137" angle="45" ax="0" ay="1" az="0" tx="0" ty="-4.3" tz="-6.784"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="0.8" requireGrabbing="0" startCapped="1" endCapped="0" angle="120" ax="0.57735" ay="0.57735" az="0.57735" tx="0" ty="0" tz="0"/>
+    <Axel type="7" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="-4.8" tz="-6.784"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="-4.8" tz="-7.184">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="7.70993,0,0,0,5.40011,0,0,0,2.47702" centerOfMass="0,-2.1204,-3.19369" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.500803" minY="-4.8" minZ="-7.18737" maxX="0.500803" maxY="0.559199" maxZ="0.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.500803" minY="-4.8" minZ="-6.984" maxX="0.500803" maxY="0.559199" maxZ="0.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

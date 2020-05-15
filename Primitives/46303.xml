@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="46303"/>
+    <Annotation designname="SKATER HELMET"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.267221" sY="0.110765" sZ="0.02538" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.131562" tz="0.551428"/>
+    <Box sX="0.267221" sY="0.110765" sZ="0.02538" angle="45" ax="0" ay="1" az="0" tx="0.389918" ty="-0.131562" tz="0.389918"/>
+    <Box sX="0.267221" sY="0.110765" sZ="0.02538" angle="90" ax="0" ay="1" az="0" tx="0.551428" ty="-0.131562" tz="0"/>
+    <Box sX="0.267221" sY="0.215785" sZ="0.02538" angle="135" ax="0" ay="1" az="0" tx="0.389918" ty="-0.236581" tz="-0.389918"/>
+    <Box sX="0.267221" sY="0.215785" sZ="0.02538" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.236581" tz="-0.551428"/>
+    <Box sX="0.267221" sY="0.215785" sZ="0.02538" angle="135" ax="0" ay="-1" az="0" tx="-0.389918" ty="-0.236581" tz="-0.389918"/>
+    <Box sX="0.267221" sY="0.110765" sZ="0.02538" angle="90" ax="0" ay="-1" az="0" tx="-0.551428" ty="-0.131562" tz="0"/>
+    <Box sX="0.267221" sY="0.110765" sZ="0.02538" angle="45" ax="0" ay="-1" az="0" tx="-0.389918" ty="-0.131562" tz="0.389918"/>
+    <Box sX="0.419593" sY="0.110765" sZ="0.399873" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.120765" tz="0.01471"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.052454,0,0,0,0.076191,0,0,0,0.05036" centerOfMass="-4E-005,-0.052186,-0.062645" mass="0.319999992847" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,0"/>
+  <Bounding>
+    <AABB minX="-0.622223" minY="-0.52255" minZ="-0.650773" maxX="0.622223" maxY="0.300395" maxZ="0.64412"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.622223" minY="-0.52255" minZ="-0.650773" maxX="0.622223" maxY="0.300395" maxZ="0.64412"/>
+  </GeometryBounding>
+</LEGOPrimitive>

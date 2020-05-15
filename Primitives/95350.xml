@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="95350"/>
+    <Annotation designname="SWORD FOR BLACK BEARD"/>
+    <Annotation maingroupid="247"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.209658" sY="0.957874" sZ="0.059862" angle="0" ax="0" ay="1" az="0" tx="0.020735" ty="2.00676" tz="0"/>
+    <Box sX="0.049212" sY="0.170939" sZ="0.34492" angle="0" ax="0" ay="1" az="0" tx="0.373414" ty="0.671309" tz="0"/>
+    <Box sX="0.101243" sY="0.068854" sZ="0.095402" angle="0" ax="0" ay="1" az="0" tx="-0.007706" ty="0.014438" tz="-0.00849"/>
+    <Box sX="0.196099" sY="0.282155" sZ="0.051788" angle="4.54769" ax="0" ay="0" az="1" tx="-0.075005" ty="2.787" tz="0"/>
+    <Box sX="0.109524" sY="0.300812" sZ="0.050234" angle="13.5098" ax="0" ay="0" az="1" tx="-0.201057" ty="3.36357" tz="0"/>
+    <Box sX="0.062323" sY="0.083368" sZ="0.043335" angle="13.5098" ax="0" ay="0" az="1" tx="-0.325792" ty="3.74485" tz="0"/>
+    <Box sX="0.089708" sY="0.03174" sZ="0.334587" angle="39.15305" ax="0" ay="0" az="-1" tx="0.242969" ty="0.906595" tz="0.004288"/>
+    <Box sX="0.184194" sY="0.035823" sZ="0.18533" angle="8.14888" ax="0" ay="0" az="-1" tx="0.059272" ty="0.991235" tz="0.005471"/>
+    <Box sX="0.060244" sY="0.043116" sZ="0.067363" angle="69.63287" ax="0" ay="0" az="-1" tx="-0.32368" ty="1.14867" tz="0"/>
+    <Box sX="0.069638" sY="0.035823" sZ="0.091379" angle="16.6672" ax="0" ay="0" az="-1" tx="-0.200284" ty="1.02822" tz="0"/>
+    <Box sX="0.148219" sY="0.033564" sZ="0.103466" angle="0" ax="0" ay="1" az="0" tx="-0.007706" ty="0.190385" tz="0.002617"/>
+    <Box sX="0.093659" sY="0.039943" sZ="0.087629" angle="16.20527" ax="0" ay="0" az="1" tx="-0.263985" ty="0.163485" tz="0.002617"/>
+    <Box sX="0.103497" sY="0.033564" sZ="0.229605" angle="37.62463" ax="0" ay="0" az="1" tx="0.270704" ty="0.278433" tz="0.002617"/>
+    <Box sX="0.103497" sY="0.033564" sZ="0.320535" angle="68.94724" ax="0" ay="0" az="1" tx="0.343572" ty="0.423841" tz="0.002617"/>
+    <Box sX="0.10366" sY="0.361565" sZ="0.103661" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.659544" tz="-0.00024"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.628978" requireGrabbing="1" startCapped="1" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0.287979" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.369837,0,0,0,0.018353,0,0,0,0.380575" centerOfMass="0.059833,1.38582,-2.5E-005" mass="0.800000011921" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.405866" minY="-0.145657" minZ="-0.38366" maxX="0.552816" maxY="3.84047" maxZ="0.383659"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.393874" minY="-0.145657" minZ="-0.38366" maxX="0.552816" maxY="3.82012" maxZ="0.383659"/>
+  </GeometryBounding>
+</LEGOPrimitive>

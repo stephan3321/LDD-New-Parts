@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="18892"/>
+    <Annotation designname="BEARING ELEMENT 2X4 MINI SNAP"/>
+    <Annotation maingroupid="268"/>
+    <Annotation maingroupname="WHEEL BASE"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.39" sZ="0.47" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0.48" tz="-0.4"/>
+    <Box sX="0.79" sY="0.39" sZ="0.47" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="2.4" ty="0.48" tz="-0.4"/>
+    <Box sX="1.59" sY="0.26" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="1.2" ty="0.16" tz="-0.93"/>
+    <Box sX="1.59" sY="0.26" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="1.2" ty="0.16" tz="0.13"/>
+    <Box sX="0.66" sY="0.246693" sZ="0.15" angle="90" ax="1" ay="0" az="0" tx="2.13" ty="0.16" tz="-0.4"/>
+    <Box sX="0.66" sY="0.246693" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.27" ty="0.16" tz="-0.4"/>
+    <Box sX="0.2895" sY="0.102582" sZ="0.100127" angle="180" ax="0" ay="0.92388" az="-0.382683" tx="-0.7005" ty="0.749873" tz="-0.4"/>
+    <Box sX="0.2895" sY="0.102582" sZ="0.100127" angle="180" ax="0" ay="0.92388" az="-0.382683" tx="3.1005" ty="0.749873" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="8" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="1.2" ty="0" tz="-0.4"/>
+    <Custom2DField type="22" width="4" height="8" angle="90" ax="0" ay="-1" az="0" tx="2.8" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4,23:4:1,15:4,22:2:1,
+      22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="4" height="4" angle="90" ax="0" ay="-1" az="0" tx="2" ty="0.32" tz="-1.2">
+      18:1:1,29:0:1,29:0:1,29:0:1,18:1:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      18:1:1,29:0:1,29:0:1,29:0:1,18:1:1
+    </Custom2DField>
+    <Hinge type="87" oriented="0" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="-0.71" ty="0.75" tz="-0.4"/>
+    <Hinge type="87" oriented="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="3.11" ty="0.75" tz="-0.4"/>
+    <Axel type="7" length="0.42" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="-0.5" ty="0.75" tz="-0.4"/>
+    <Axel type="7" length="0.42" requireGrabbing="1" startCapped="1" endCapped="1" angle="180" ax="-0.707107" ay="-0.707107" az="0" tx="2.9" ty="0.75" tz="-0.4"/>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-1.2">
+      18:1:1,23:4:1,18:1:1,29:0,29:0,29:0,18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,29:0,29:0,29:0,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:2:1,29:0,29:0,29:0,18:2:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,29:0,29:0,29:0,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1,29:0,29:0,29:0,18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Hinge type="28" oriented="0" angle="90" ax="0" ay="1" az="0" tx="1.2" ty="0.16" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.321254,0,0,0,1.82667,0,0,0,1.72125" centerOfMass="1.2,0.569,-0.4" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1" minY="0" minZ="-1.2" maxX="3.4" maxY="1.138" maxZ="0.400001"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1" minY="0" minZ="-1.2" maxX="3.4" maxY="1.138" maxZ="0.400001"/>
+  </GeometryBounding>
+</LEGOPrimitive>

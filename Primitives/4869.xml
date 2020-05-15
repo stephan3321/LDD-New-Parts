@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4869"/>
+    <Annotation designname="JET ENGINE TURBINE"/>
+    <Annotation maingroupid="275"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, AVIATION"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.215" sY="0.0675" sZ="0.39" angle="90" ax="0" ay="1" az="0" tx="-0.4" ty="-1.02" tz="-0.4"/>
+    <Box sX="0.0675" sY="0.215" sZ="0.39" angle="90" ax="0" ay="1" az="0" tx="-0.4" ty="-1.02" tz="-0.4"/>
+    <Box sX="0.65" sY="0.10125" sZ="0.389039" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.66" ty="-1.02" tz="-0.38875"/>
+    <Box sX="0.17" sY="0.10125" sZ="0.630315" angle="180" ax="0" ay="1" az="0" tx="1.14" ty="-1.02" tz="-0.389685"/>
+    <Box sX="0.29" sY="0.453217" sZ="0.453217" angle="180" ax="0" ay="0.92388" az="-0.382683" tx="1.62" ty="-1.02" tz="-0.40102"/>
+    <Box sX="0.277676" sY="0.10125" sZ="0.565655" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.03232" ty="-1.02" tz="-0.38875"/>
+    <Box sX="0.65" sY="0.10125" sZ="0.37649" angle="180" ax="0" ay="1" az="0" tx="0.66" ty="-1.02" tz="-0.389685"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="0" ay="0" az="-1" tx="1.92" ty="-0.62" tz="-0.8">
+      29:0,29:0,29:0,
+      29:0,0:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="5" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.8" ty="-1.02" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.127788,0,0,0,0.615975,0,0,0,0.615975" centerOfMass="0.984175,-1.02,-0.4" mass="1.05700004101" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.8" minY="-1.67063" minZ="-1.05063" maxX="2.098" maxY="-0.36937" maxZ="0.25063"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.8" minY="-1.67063" minZ="-1.05063" maxX="2.098" maxY="-0.36937" maxZ="0.25063"/>
+  </GeometryBounding>
+</LEGOPrimitive>

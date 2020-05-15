@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="47458"/>
+    <Annotation designname="PLATE W. BOWS 2X1½"/>
+    <Annotation maingroupid="281"/>
+    <Annotation maingroupname="DECORATION ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.1596" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.1696" tz="0"/>
+    <Box sX="0.585977" sY="0.107161" sZ="0.245715" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.456362" tz="-0.144285"/>
+    <Box sX="0.482454" sY="0.033965" sZ="0.254831" angle="30.81001" ax="-1" ay="0" az="0" tx="0.400002" ty="0.44945" tz="0.550465"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.056361,0,0,0,0.137537,0,0,0,0.106372" centerOfMass="0.4,0.301012,0.029299" mass="0.40000000596" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.64" maxZ="0.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.64" maxZ="0.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

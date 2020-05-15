@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11305"/>
+    <Annotation designname="WEAPON NO.1, 2013"/>
+    <Annotation maingroupid="347"/>
+    <Annotation maingroupname="FIGURE, WEAPONS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.235" sY="0.49" sZ="0.08" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.5" tz="0"/>
+    <Box sX="0.235" sY="0.49" sZ="0.08" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.5" tz="0"/>
+    <Box sX="0.25163" sY="0.0525" sZ="0.25163" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.8875" tz="0"/>
+    <Box sX="0.207435" sY="0.0525" sZ="0.207435" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.8625" tz="0"/>
+    <Box sX="0.202123" sY="0.202123" sZ="0.19" angle="45" ax="0" ay="0" az="-1" tx="0" ty="1.185" tz="0"/>
+    <Box sX="0.328847" sY="0.661675" sZ="0.1498" angle="0" ax="0" ay="1" az="0" tx="0.006847" ty="1.62435" tz="0"/>
+    <Box sX="0.435164" sY="3.43764" sZ="0.115" angle="0" ax="0" ay="1" az="0" tx="-0.324336" ty="4.80832" tz="0"/>
+    <Box sX="0.235416" sY="1.57609" sZ="0.115" angle="18.70513" ax="0" ay="0" az="1" tx="0.051712" ty="9.64093" tz="0"/>
+    <Box sX="0.597282" sY="0.527313" sZ="0.115" angle="27.47872" ax="0" ay="0" az="-1" tx="0.036186" ty="8.10842" tz="0"/>
+    <Box sX="0.235416" sY="0.545687" sZ="0.115" angle="0.991895" ax="0" ay="0" az="-1" tx="-0.095942" ty="9.34883" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="0.8" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="10.51456,0,0,0,0.251648,0,0,0,10.6784" centerOfMass="0.019948,5.60464,0.007071" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.7695" minY="0" minZ="-0.355858" maxX="0.809396" maxY="11.20928" maxZ="0.37"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.7695" minY="0" minZ="-0.35" maxX="0.777" maxY="11.15" maxZ="0.37"/>
+  </GeometryBounding>
+</LEGOPrimitive>

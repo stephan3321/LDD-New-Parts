@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="19730"/>
+    <Annotation designname="FIGURE HELMET NO.1"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.59" sY="0.045" sZ="0.59" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.44555" tz="0"/>
+    <Box sX="0.715" sY="0.43" sZ="0.039999" angle="90" ax="0" ay="-1" az="0" tx="-0.675001" ty="1.06055" tz="0"/>
+    <Box sX="0.715" sY="0.43" sZ="0.039999" angle="90" ax="0" ay="-1" az="0" tx="0.675001" ty="1.06055" tz="0"/>
+    <Box sX="0.605" sY="0.505" sZ="0.039999" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.985549" tz="-0.675001"/>
+    <Box sX="0.715" sY="0.43" sZ="0.039999" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.06055" tz="0.675001"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="144" axes="2" angle="180" ax="0" ay="1" az="0" tx="1" ty="1.38055" tz="0"/>
+    <Fixed type="144" axes="2" angle="0" ax="0" ay="1" az="0" tx="-1" ty="1.38055" tz="0"/>
+    <Fixed type="144" axes="2" angle="90" ax="0" ay="1" az="0" tx="0" ty="1.38055" tz="1"/>
+    <Fixed type="144" axes="2" angle="90" ax="0" ay="-1" az="0" tx="0" ty="1.38055" tz="-1"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.421742,0,0,0,0.666667,0,0,0,0.421742" centerOfMass="0,0.985549,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1" minY="0.470549" minZ="-1" maxX="1" maxY="1.50055" maxZ="1"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.725" minY="0.470549" minZ="-0.725" maxX="0.725" maxY="1.50055" maxZ="0.725"/>
+  </GeometryBounding>
+</LEGOPrimitive>

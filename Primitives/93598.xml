@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93598"/>
+    <Annotation designname="FRONT 2X4X3 W.2 KNOBS"/>
+    <Annotation maingroupid="272"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.59" sY="0.1495" sZ="0.389973" angle="0" ax="0" ay="1" az="0" tx="1.1995" ty="0.1601" tz="-2.7E-005"/>
+    <Box sX="0.0695" sY="0.795456" sZ="0.188611" angle="0" ax="0" ay="1" az="0" tx="0.079" ty="1.10522" tz="-1.00139"/>
+    <Box sX="0.79" sY="0.1495" sZ="0.065" angle="90" ax="0" ay="1" az="0" tx="2.7245" ty="0.1601" tz="-0.4"/>
+    <Box sX="0.79" sY="0.1495" sZ="0.065623" angle="90" ax="0" ay="1" az="0" tx="-0.324877" ty="0.1601" tz="-0.4"/>
+    <Box sX="0.465" sY="0.1495" sZ="0.39" angle="90" ax="0" ay="1" az="0" tx="2.3995" ty="0.1601" tz="-0.725"/>
+    <Box sX="0.465" sY="0.1495" sZ="0.39" angle="90" ax="0" ay="1" az="0" tx="-0.0005" ty="0.1601" tz="-0.725"/>
+    <Box sX="1.19" sY="0.065" sZ="0.188611" angle="0" ax="0" ay="1" az="0" tx="1.1995" ty="1.8446" tz="-1.00139"/>
+    <Box sX="0.796521" sY="0.06054" sZ="0.884199" angle="63.44147" ax="1" ay="0" az="0" tx="1.1995" ty="1.08822" tz="-0.06329"/>
+    <Box sX="0.229836" sY="0.034719" sZ="0.884199" angle="77.87033" ax="0.76335" ay="-0.338744" az="0.550045" tx="0.198669" ty="1.01904" tz="-0.195467"/>
+    <Box sX="0.0695" sY="0.678444" sZ="0.271625" angle="26.21102" ax="-1" ay="0" az="0" tx="0.079" ty="0.885769" tz="-0.637559"/>
+    <Box sX="0.796521" sY="0.06054" sZ="0.39" angle="180" ax="1" ay="0" az="0" tx="1.1995" ty="1.84906" tz="-0.8"/>
+    <Box sX="0.13306" sY="0.06054" sZ="0.265911" angle="180" ax="0.930995" ay="0" az="-0.365031" tx="0.310382" ty="1.84906" tz="-0.699618"/>
+    <Box sX="0.229836" sY="0.034719" sZ="0.884199" angle="155.4176" ax="-0.35378" ay="-0.796106" az="-0.490974" tx="2.20033" ty="1.01904" tz="-0.195467"/>
+    <Box sX="0.0695" sY="0.678444" sZ="0.271625" angle="180" ax="0" ay="0.973954" az="-0.226745" tx="2.32" ty="0.885769" tz="-0.637559"/>
+    <Box sX="0.0695" sY="0.795456" sZ="0.188611" angle="180" ax="0" ay="1" az="0" tx="2.32" ty="1.10522" tz="-1.00139"/>
+    <Box sX="0.13306" sY="0.06054" sZ="0.265911" angle="180" ax="-0.365031" ay="0" az="0.930995" tx="2.08862" ty="1.84906" tz="-0.699618"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="1.92" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.33446,0,0,0,2.24952,0,0,0,2.72076" centerOfMass="1.1995,0.809955,-0.389742" mass="2.09999990463" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4005" minY="-0.0004" minZ="-1.2" maxX="2.8" maxY="2.0976" maxZ="0.423851"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4005" minY="-0.0004" minZ="-1.2" maxX="2.79982" maxY="2.0976" maxZ="0.423851"/>
+  </GeometryBounding>
+</LEGOPrimitive>

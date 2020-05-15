@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3436"/>
+    <Annotation designname="PLATFORM FOR TRACTOR"/>
+    <Annotation maingroupid="276"/>
+    <Annotation maingroupname="CRAINS AND SCAFFOLD"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.15" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.16" tz="-0.4"/>
+    <Box sX="0.530577" sY="0.081055" sZ="1.33495" angle="40" ax="0" ay="0" az="1" tx="1.55324" ty="1.08654" tz="-0.4"/>
+    <Box sX="1.05121" sY="0.081055" sZ="0.79" angle="40" ax="0" ay="0" az="1" tx="1.15441" ty="0.751886" tz="-0.4"/>
+    <Box sX="0.539997" sY="0.065338" sZ="0.976216" angle="73.8075" ax="-0.768854" ay="-0.553758" az="0.319712" tx="0.708438" ty="1.8314" tz="1.37582"/>
+    <Box sX="0.39" sY="0.065338" sZ="1.58998" angle="60" ax="-1" ay="0" az="0" tx="0" ty="1.42329" tz="1.13475"/>
+    <Box sX="0.552488" sY="0.065338" sZ="0.976216" angle="73.8075" ax="0.768854" ay="0.553758" az="0.319712" tx="0.70264" ty="1.8565" tz="-2.19582"/>
+    <Box sX="0.39" sY="0.065338" sZ="1.58645" angle="60" ax="1" ay="0" az="0" tx="0" ty="1.42024" tz="-1.93298"/>
+    <Box sX="0.568215" sY="0.065338" sZ="0.600207" angle="73.8075" ax="0.768854" ay="0.553758" az="0.319712" tx="0.462526" ty="0.913045" tz="-1.65111"/>
+    <Box sX="0.568215" sY="0.065338" sZ="0.600207" angle="73.8075" ax="-0.768854" ay="-0.553758" az="0.319712" tx="0.459516" ty="0.880269" tz="0.826682"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="8" height="2" angle="138.59036" ax="0.654654" ay="-0.377964" az="-0.654654" tx="0.4" ty="2.76702" tz="2.00629">
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="23" width="8" height="2" angle="138.59036" ax="-0.654654" ay="0.377964" az="-0.654654" tx="-0.4" ty="2.76702" tz="-2.80629">
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1,23:4:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="6.85793,0,0,0,6.39022,0,0,0,3.12986" centerOfMass="0.508738,1.13145,-0.399903" mass="2.75" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.004257" minZ="-2.88295" maxX="2.01178" maxY="2.8469" maxZ="2.08295"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-2.88295" maxX="2.0099" maxY="2.8469" maxZ="2.08295"/>
+  </GeometryBounding>
+</LEGOPrimitive>

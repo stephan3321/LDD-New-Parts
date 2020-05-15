@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25376"/>
+    <Annotation designname="MINI  SCARF"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.461703" sY="0.051747" sZ="0.090562" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.060395" tz="-0.475244"/>
+    <Box sX="0.434826" sY="0.051747" sZ="0.095677" angle="90" ax="0" ay="1" az="0" tx="-0.479374" ty="0.060395" tz="0.04808"/>
+    <Box sX="0.434826" sY="0.051747" sZ="0.095677" angle="90" ax="0" ay="-1" az="0" tx="0.479374" ty="0.060395" tz="0.04808"/>
+    <Box sX="0.461703" sY="0.051747" sZ="0.090562" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.060395" tz="0.470749"/>
+    <Box sX="0.20092" sY="0.548693" sZ="0.058276" angle="180" ax="0" ay="1" az="0" tx="0.290222" ty="-0.558693" tz="0.468276"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.279221,0,0,0,0.277576,0,0,0,0.311513" centerOfMass="0.00603,-0.459633,0.010376" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.675734" minY="-1.14501" minZ="-0.596193" maxX="0.687794" maxY="0.225741" maxZ="0.616945"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.675734" minY="-1.14501" minZ="-0.596193" maxX="0.687794" maxY="0.225741" maxZ="0.616945"/>
+  </GeometryBounding>
+</LEGOPrimitive>

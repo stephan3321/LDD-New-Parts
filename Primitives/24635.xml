@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="24635"/>
+    <Annotation designname="HEADGEAR ACCESSORIES 2 W/ 1.5 SHAFT"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.045911" sY="0.285198" sZ="0.045911" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.295198" tz="0"/>
+    <Box sX="0.195793" sY="0.155632" sZ="0.034843" angle="0" ax="0" ay="1" az="0" tx="0.103351" ty="0.413747" tz="0.000354"/>
+    <Box sX="0.5729" sY="0.059511" sZ="0.375102" angle="14.95113" ax="0" ay="0" az="1" tx="-0.206069" ty="0.488642" tz="0"/>
+    <Box sX="0.380577" sY="0.059511" sZ="0.189515" angle="59.46031" ax="0" ay="0" az="1" tx="-0.849369" ty="0.186824" tz="-0.052385"/>
+    <Box sX="0.220903" sY="0.006878" sZ="0.189515" angle="90" ax="0" ay="0" az="1" tx="0.298834" ty="0.362755" tz="0"/>
+    <Box sX="0.276745" sY="0.006878" sZ="0.189515" angle="180" ax="0.707107" ay="0.707107" az="0" tx="-0.518261" ty="0.246533" tz="0"/>
+    <Box sX="0.220903" sY="0.006878" sZ="0.28332" angle="145.52147" ax="0.604831" ay="0.672202" az="0.426993" tx="-0.320642" ty="0.239548" tz="-0.360992"/>
+    <Box sX="0.220903" sY="0.006878" sZ="0.211004" angle="99.32587" ax="0.373432" ay="0.373432" az="0.849174" tx="0.142735" ty="0.3559" tz="-0.348654"/>
+    <Box sX="0.220903" sY="0.006878" sZ="0.28332" angle="145.52147" ax="-0.604831" ay="-0.672202" az="0.426993" tx="-0.320642" ty="0.239548" tz="0.360992"/>
+    <Box sX="0.220903" sY="0.006878" sZ="0.211004" angle="99.32587" ax="-0.373432" ay="-0.373432" az="0.849174" tx="0.142735" ty="0.3559" tz="0.348654"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.23036" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.180322,0,0,0,0.328752,0,0,0,0.297168" centerOfMass="-0.309379,0.301143,-0.017306" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-1.12693" minY="-0.171198" minZ="-0.581097" maxX="0.508177" maxY="0.773485" maxZ="0.546485"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.12693" minY="-0.168987" minZ="-0.581097" maxX="0.508177" maxY="0.773485" maxZ="0.546485"/>
+  </GeometryBounding>
+</LEGOPrimitive>

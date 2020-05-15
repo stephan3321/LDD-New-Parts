@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="10052"/>
+    <Annotation designname="BEARD FOR MAGE"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.272666" sY="0.041032" sZ="0.07639" angle="90" ax="0" ay="-1" az="0" tx="0.420753" ty="0.051032" tz="0"/>
+    <Box sX="0.272666" sY="0.041032" sZ="0.014856" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.051032" tz="-0.349204"/>
+    <Box sX="0.272666" sY="0.041032" sZ="0.07639" angle="90" ax="0" ay="-1" az="0" tx="-0.420753" ty="0.051032" tz="0"/>
+    <Box sX="0.428981" sY="0.519698" sZ="0.08778" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.4112" tz="0.50778"/>
+    <Box sX="0.233429" sY="0.606079" sZ="0.041037" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.510061" tz="0.461037"/>
+    <Box sX="0.258319" sY="0.531594" sZ="0.0309" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.096938" tz="0.56017"/>
+    <Box sX="0.169304" sY="0.204184" sZ="0.028784" angle="62.45841" ax="0" ay="1" az="0" tx="0.480618" ty="0.214184" tz="0.29441"/>
+    <Box sX="0.169304" sY="0.204184" sZ="0.028784" angle="117.54158" ax="0" ay="1" az="0" tx="-0.480618" ty="0.214184" tz="0.29441"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.341871,0,0,0,0.234738,0,0,0,0.334835" centerOfMass="0,-0.353601,0.134689" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.584425" minY="-1.16782" minZ="-0.467525" maxX="0.584425" maxY="0.460618" maxZ="0.736902"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.572919" minY="-1.16782" minZ="-0.467525" maxX="0.558833" maxY="0.460618" maxZ="0.736902"/>
+  </GeometryBounding>
+</LEGOPrimitive>

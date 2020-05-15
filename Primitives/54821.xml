@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="54821;95753"/>
+    <Annotation designname="BALL  Ø16,5"/>
+    <Annotation maingroupid="386"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.742" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-0.8"/>
+  </Collision>
+  <Connectivity>
+    <Ball type="17" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.622987,0,0,0,0.622037,0,0,0,0.632569" centerOfMass="0,0,-0.801818" mass="2.01999998093" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.82315" minY="-0.82315" minZ="-1.61174" maxX="0.82315" maxY="0.82315" maxZ="-0.002175"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.82315" minY="-0.82315" minZ="-1.61174" maxX="0.82315" maxY="0.82315" maxZ="-0.002175"/>
+  </GeometryBounding>
+</LEGOPrimitive>

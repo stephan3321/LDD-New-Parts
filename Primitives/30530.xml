@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30530"/>
+    <Annotation designname="MARS FIGURE, LEG"/>
+    <Annotation maingroupid="245"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.7254" sY="0.211372" sZ="0.321657" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.221372" tz="-0.027456"/>
+    <Box sX="0.3964" sY="0.098497" sZ="0.145476" angle="0" ax="0" ay="1" az="0" tx="0.394295" ty="1.2868" tz="0.002742"/>
+    <Box sX="0.1505" sY="0.054602" sZ="0.166702" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="1.37502" tz="0"/>
+    <Box sX="0.112812" sY="0.328437" sZ="0.085179" angle="42.9243" ax="-0.479407" ay="0.854704" az="0.199122" tx="0.722771" ty="1.02903" tz="0.090148"/>
+    <Box sX="0.104333" sY="0.364795" sZ="0.052445" angle="56.39154" ax="0.930015" ay="0.328907" az="-0.163987" tx="0.717643" ty="0.602105" tz="-0.010807"/>
+    <Box sX="0.11286" sY="0.328437" sZ="0.085179" angle="143.55296" ax="0.076703" ay="0.979803" az="-0.184671" tx="0.077267" ty="1.02902" tz="0.090178"/>
+    <Box sX="0.103987" sY="0.364795" sZ="0.052445" angle="162.1987" ax="-0.079795" ay="0.888165" az="0.452543" tx="0.08161" ty="0.600848" tz="-0.008778"/>
+    <Box sX="0.1505" sY="0.032302" sZ="0.166702" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="1.60406" tz="-0.202302"/>
+    <Box sX="0.1505" sY="0.032147" sZ="0.166702" angle="90" ax="1" ay="0" az="0" tx="0.4" ty="1.60406" tz="0.202758"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:2,22:2:1,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="0.2395" ty="1.6" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.144811,0,0,0,0.095353,0,0,0,0.199325" centerOfMass="0.399995,0.608323,-0.00296" mass="0.54699999094" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="1.798" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.3796" minY="0" minZ="-0.392" maxX="1.1796" maxY="1.798" maxZ="0.392"/>
+  </GeometryBounding>
+</LEGOPrimitive>

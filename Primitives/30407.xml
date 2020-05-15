@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30407"/>
+    <Annotation designname="FLAP 2X8 FRICTION/FORK"/>
+    <Annotation maingroupid="216"/>
+    <Annotation maingroupname="PLATES, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Box sX="3.19" sY="0.39" sZ="0.042614" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.8" ty="0.262613" tz="0.00237"/>
+    <Box sX="0.178288" sY="0.085" sZ="0.192607" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.714571" ty="0.2302" tz="0.255001"/>
+    <Box sX="2.39" sY="0.246343" sZ="0.053781" angle="180" ax="0" ay="0.902766" az="-0.430132" tx="2" ty="0.108977" tz="0.5589"/>
+    <Box sX="0.466322" sY="0.124077" sZ="0.053783" angle="171.23222" ax="0.135596" ay="-0.893692" az="0.4277" tx="4.81096" ty="0.11433" tz="0.541224"/>
+    <Box sX="2.39" sY="0.246343" sZ="0.053781" angle="180" ax="0" ay="0.902766" az="0.430132" tx="2" ty="0.108977" tz="-0.5589"/>
+    <Box sX="0.466321" sY="0.124077" sZ="0.053782" angle="171.23222" ax="-0.135596" ay="0.893693" az="0.4277" tx="4.81096" ty="0.11433" tz="-0.541224"/>
+    <Box sX="0.178288" sY="0.085" sZ="0.192607" angle="180" ax="0" ay="0.707107" az="0.707107" tx="-0.714571" ty="0.2302" tz="-0.255001"/>
+    <Box sX="2.36321" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.97321" ty="0.155227" tz="0.00237"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="2" oriented="0" angle="90" ax="1" ay="0" az="0" tx="-0.8" ty="0.238" tz="0.000284" LimMin="-1.57079637051" LimMax="1.57079637051" FlipLimMin="-1.57079637051" FlipLimMax="1.57079637051" />
+    <Custom2DField type="22" width="12" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="8" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.319999" tz="-0.4">
+      29:0:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,29:0:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      29:0:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.355356,0,0,0,6.16793,0,0,0,5.87195" centerOfMass="2.24768,0.173489,0.000143" mass="2.09999990463" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.04692" minY="-0.11" minZ="-0.8" maxX="6" maxY="0.497999" maxZ="0.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.04692" minY="-0.11" minZ="-0.8" maxX="6" maxY="0.497999" maxZ="0.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

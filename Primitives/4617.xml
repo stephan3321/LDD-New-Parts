@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4617"/>
+    <Annotation designname="FABULAND PROPELLER F. AEROPL."/>
+    <Annotation maingroupid="276"/>
+    <Annotation maingroupname="CRAINS AND SCAFFOLD"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.203078" sY="0.235" sZ="0.024845" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="-0.284845" tz="-0.325"/>
+    <Box sX="0.306049" sY="0.091656" sZ="0.916717" angle="164.14156" ax="0.139281" ay="-0.700215" az="0.700215" tx="0" ty="1.18654" tz="-0.32"/>
+    <Box sX="0.306049" sY="0.091656" sZ="0.916717" angle="115.76855" ax="-0.790554" ay="0.268357" az="-0.550462" tx="-1.02757" ty="-0.59327" tz="-0.32"/>
+    <Box sX="0.30605" sY="0.091656" sZ="0.916716" angle="95.93056" ax="-0.715771" ay="-0.627714" az="0.306019" tx="1.02757" ty="-0.59327" tz="-0.32"/>
+    <Box sX="0.203078" sY="0.235" sZ="0.023811" angle="138.59036" ax="-0.377964" ay="0.654654" az="-0.654654" tx="0.247578" ty="-0.142939" tz="-0.325"/>
+    <Box sX="0.203078" sY="0.235" sZ="0.023488" angle="104.47751" ax="-0.774597" ay="0.447214" az="-0.447214" tx="0.247857" ty="0.143101" tz="-0.325"/>
+    <Box sX="0.203078" sY="0.235" sZ="0.024845" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0.284845" tz="-0.325"/>
+    <Box sX="0.203078" sY="0.235" sZ="0.024507" angle="104.47751" ax="-0.774597" ay="-0.447214" az="0.447214" tx="-0.246975" ty="0.142591" tz="-0.325"/>
+    <Box sX="0.203078" sY="0.235" sZ="0.023811" angle="138.59036" ax="-0.377964" ay="-0.654654" az="0.654654" tx="-0.247578" ty="-0.142939" tz="-0.325"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.08"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.703151,0,0,0,0.703151,0,0,0,1.37472" centerOfMass="0,0,-0.32" mass="1.10500001907" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.98039" minY="-1.32688" minZ="-0.72" maxX="1.98039" maxY="2.2" maxZ="0.08"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.93852" minY="-1.22436" minZ="-0.64" maxX="1.93852" maxY="2.2" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

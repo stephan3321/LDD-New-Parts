@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6101"/>
+    <Annotation designname="CONNECTING LINK"/>
+    <Annotation maingroupid="285"/>
+    <Annotation maingroupname="CONNECTORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.065" sY="0.323047" sZ="0.21" angle="0" ax="0" ay="1" az="0" tx="0.475" ty="0" tz="0"/>
+    <Box sX="0.290753" sY="0.323047" sZ="0.07" angle="0" ax="0" ay="1" az="0" tx="0.850753" ty="0" tz="-0.14"/>
+    <Box sX="0.190506" sY="0.106636" sZ="0.07" angle="90" ax="0" ay="0" az="1" tx="1.18164" ty="0" tz="-0.14"/>
+    <Box sX="0.395824" sY="0.196798" sZ="0.039915" angle="0" ax="0" ay="1" az="0" tx="0.074176" ty="0" tz="-0.289915"/>
+    <Box sX="0.395824" sY="0.2049" sZ="0.05" angle="0" ax="0" ay="1" az="0" tx="0.074176" ty="0" tz="0"/>
+    <Box sX="0.395824" sY="0.195757" sZ="0.039915" angle="0" ax="0" ay="1" az="0" tx="0.074176" ty="0" tz="0.289915"/>
+    <Box sX="0.290753" sY="0.323047" sZ="0.07" angle="0" ax="0" ay="1" az="0" tx="0.850753" ty="0" tz="0.14"/>
+    <Box sX="0.190506" sY="0.106636" sZ="0.07" angle="90" ax="0" ay="0" az="1" tx="1.18164" ty="0" tz="0.14"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="172" oriented="0" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="0" tz="0"/>
+    <Hinge type="173" oriented="0" angle="180" ax="0" ay="-0.707107" az="-0.707107" tx="0.95" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.032756,0,0,0,0.102065,0,0,0,0.100751" centerOfMass="0.466403,0,0" mass="0.488000005484" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.393127" minY="-0.4" minZ="-0.396578" maxX="1.352" maxY="0.4" maxZ="0.396578"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.393127" minY="-0.4" minZ="-0.396578" maxX="1.352" maxY="0.4" maxZ="0.396578"/>
+  </GeometryBounding>
+</LEGOPrimitive>

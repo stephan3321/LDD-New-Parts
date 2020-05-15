@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="54809"/>
+    <Annotation designname="TURBO PROPELLER"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="6"/>
+  </Annotations>
+  <Collision>
+    <Sphere radius="0.23354" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-1.1043"/>
+    <Box sX="0.148116" sY="0.065297" sZ="0.512182" angle="27.27855" ax="0" ay="0" az="-1" tx="-0.08475" ty="-0.155544" tz="-0.520921"/>
+    <Box sX="0.148116" sY="0.065297" sZ="0.512182" angle="62.72145" ax="0" ay="0" az="1" tx="0.155598" ty="-0.084696" tz="-0.520921"/>
+    <Box sX="0.148116" sY="0.065297" sZ="0.512182" angle="152.72144" ax="0" ay="0" az="1" tx="0.08475" ty="0.155653" tz="-0.520921"/>
+    <Box sX="0.148116" sY="0.065297" sZ="0.512182" angle="117.27853" ax="0" ay="0" az="-1" tx="-0.155598" ty="0.084804" tz="-0.520921"/>
+    <Box sX="0.063611" sY="0.066268" sZ="0.308961" angle="0" ax="0" ay="1" az="0" tx="-0.004011" ty="0" tz="-1.13455"/>
+    <Box sX="0.220136" sY="0.022835" sZ="0.560541" angle="147.88773" ax="0.698692" ay="-0.397964" az="-0.59452" tx="-0.704896" ty="0.170047" tz="-0.93141"/>
+    <Box sX="0.194659" sY="0.018913" sZ="0.545682" angle="149.2084" ax="0.659173" ay="-0.550741" az="-0.51203" tx="-0.410909" ty="0.423646" tz="-0.631814"/>
+    <Box sX="0.103448" sY="0.018913" sZ="0.258134" angle="146.33897" ax="0.633065" ay="-0.626745" az="-0.454334" tx="-0.181859" ty="0.647409" tz="-0.423706"/>
+    <Box sX="0.103448" sY="0.018913" sZ="0.089381" angle="153.5929" ax="0.707143" ay="-0.673562" az="-0.21509" tx="0.115441" ty="0.378999" tz="-0.232557"/>
+    <Box sX="0.220136" sY="0.022835" sZ="0.560541" angle="110.31419" ax="0.465981" ay="0.818106" az="0.336995" tx="0.704896" ty="-0.170047" tz="-0.93141"/>
+    <Box sX="0.194659" sY="0.018913" sZ="0.545682" angle="120.83762" ax="0.61056" ay="0.730769" az="0.305276" tx="0.410909" ty="-0.423646" tz="-0.631814"/>
+    <Box sX="0.103448" sY="0.018913" sZ="0.258134" angle="128.44559" ax="0.66619" ay="0.672907" az="0.321537" tx="0.181859" ty="-0.647409" tz="-0.423706"/>
+    <Box sX="0.103448" sY="0.018913" sZ="0.089381" angle="155.82509" ax="0.670624" ay="0.704059" az="0.23359" tx="-0.115441" ty="-0.378999" tz="-0.232557"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="145" oriented="1" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.100218,0,0,0,0.145224,0,0,0,0.130393" centerOfMass="3.2E-005,0,-0.662902" mass="49.8800010681" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.30533" minY="-0.822848" minZ="-1.45598" maxX="1.30533" maxY="0.822848" maxZ="0.001261"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.30533" minY="-0.822848" minZ="-1.45598" maxX="1.30533" maxY="0.822848" maxZ="0.001261"/>
+  </GeometryBounding>
+</LEGOPrimitive>

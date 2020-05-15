@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25994;33078"/>
+    <Annotation designname="SAUSAGE"/>
+    <Annotation maingroupid="249"/>
+    <Annotation maingroupname="FOODSTUFF"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.09" sY="0.381619" sZ="0.09" angle="15" ax="0" ay="0" az="-1" tx="0.009054" ty="0.402999" tz="0"/>
+    <Box sX="0.09" sY="0.266314" sZ="0.09" angle="40" ax="0" ay="0" az="-1" tx="0.303338" ty="0.998555" tz="0"/>
+    <Box sX="0.09" sY="0.381526" sZ="0.09" angle="67" ax="0" ay="0" az="-1" tx="0.853686" ty="1.37157" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="90.9762" ax="0.129428" ay="0.983106" az="-0.129428" tx="-0.048037" ty="0.179146" tz="0"/>
+    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="96.7177" ax="0.323616" ay="0.889126" az="-0.323616" tx="0.108647" ty="0.771549" tz="0"/>
+    <Axel type="7" length="0.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="107.73617" ax="0.48322" ay="0.730066" az="-0.48322" tx="0.515412" ty="1.22621" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.025927,0,0,0,0.02057,0,0,0,0.044663" centerOfMass="0.390261,0.923232,1.1E-005" mass="0.209999993443" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.17665" minY="4.7E-005" minZ="-0.16" maxX="1.262" maxY="1.60349" maxZ="0.16"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.16247" minY="4.7E-005" minZ="-0.16" maxX="1.262" maxY="1.56244" maxZ="0.16"/>
+  </GeometryBounding>
+</LEGOPrimitive>

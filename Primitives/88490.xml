@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="88490"/>
+    <Annotation designname="MINI FEATHER"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.117062" sY="0.296003" sZ="0.049526" angle="52.43228" ax="0" ay="0" az="-1" tx="0.155721" ty="0.452739" tz="0"/>
+    <Box sX="0.117062" sY="0.296003" sZ="0.049526" angle="99.7486" ax="0" ay="0" az="-1" tx="0.605351" ty="0.600925" tz="-0.013353"/>
+    <Box sX="0.103137" sY="0.12" sZ="0.103137" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.13" tz="0"/>
+    <Box sX="0.043033" sY="0.09" sZ="0.043033" angle="45" ax="0" ay="1" az="0" tx="0" ty="-0.1" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="-0.2" tz="0"/>
+    <Axel type="7" length="0.26" requireGrabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.086364,0,0,0,0.105176,0,0,0,0.174473" centerOfMass="0.378451,0.283209,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.16" minY="-0.2" minZ="-0.16" maxX="0.916902" maxY="0.766418" maxZ="0.16"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.16" minY="-0.2" minZ="-0.16" maxX="0.915977" maxY="0.752291" maxZ="0.16"/>
+  </GeometryBounding>
+</LEGOPrimitive>

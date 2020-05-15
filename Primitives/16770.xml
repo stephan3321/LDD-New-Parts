@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="16770"/>
+    <Annotation designname="Ø3.2 HOLDER W. CLAW"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.388664" sY="0.197334" sZ="0.123464" angle="0" ax="0" ay="1" az="0" tx="0.615668" ty="0.005229" tz="0"/>
+    <Box sX="0.388664" sY="0.41026" sZ="0.123464" angle="8.60145" ax="0" ay="0" az="-1" tx="0.846184" ty="0.264133" tz="0"/>
+    <Box sX="0.388664" sY="0.346643" sZ="0.123464" angle="15.72892" ax="0" ay="0" az="-1" tx="1.5307" ty="0.089549" tz="0"/>
+    <Box sX="0.285601" sY="0.194495" sZ="0.111164" angle="43.65132" ax="0" ay="0" az="-1" tx="2.03165" ty="-0.212584" tz="0"/>
+    <Box sX="0.03203" sY="0.197334" sZ="0.15" angle="0" ax="0" ay="1" az="0" tx="0.206509" ty="0" tz="0"/>
+    <Box sX="0.03203" sY="0.163795" sZ="0.15" angle="97.4026" ax="0" ay="0" az="1" tx="0.013582" ty="0.207501" tz="0"/>
+    <Box sX="0.03203" sY="0.163795" sZ="0.15" angle="180" ax="-0.659985" ay="0.751279" az="0" tx="0.013582" ty="-0.207501" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.16"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.150851,0,0,0,0.551486,0,0,0,0.673002" centerOfMass="1.10351,0.088728,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.165522" minY="-0.550453" minZ="-0.209769" maxX="2.37255" maxY="0.727908" maxZ="0.209769"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.165522" minY="-0.473718" minZ="-0.209769" maxX="2.29196" maxY="0.711888" maxZ="0.209769"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="73092"/>
+    <Annotation designname="MAGNETO HOLDER W. MAGNET"/>
+    <Annotation maingroupid="286"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.381327" sY="0.3325" sZ="0.42528" angle="98.42105" ax="0.862856" ay="0.357407" az="0.357407" tx="0" ty="0" tz="0"/>
+    <Box sX="0.715" sY="0.045344" sZ="0.060336" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Box sX="0.381327" sY="0.3325" sZ="0.42528" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="27" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="0" ty="0" tz="0"/>
+    <Hinge type="39" oriented="1" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0.35"/>
+    <Hinge type="38" oriented="1" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="-0.35"/>
+    <Hinge type="39" oriented="1" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="0" ty="0" tz="-0.35"/>
+    <Hinge type="38" oriented="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.35"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.480012,0,0,0,0.661088,0,0,0,0.8912" centerOfMass="0,0,0" mass="3.05999994278" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.725" minY="-0.59" minZ="-0.35" maxX="0.725" maxY="0.59" maxZ="0.35"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.725" minY="-0.59" minZ="-0.35" maxX="0.725" maxY="0.59" maxZ="0.35"/>
+  </GeometryBounding>
+</LEGOPrimitive>

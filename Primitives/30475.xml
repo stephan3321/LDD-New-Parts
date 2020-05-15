@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30475"/>
+    <Annotation designname="GIRLS WIG"/>
+    <Annotation maingroupid="250"/>
+    <Annotation maingroupname="FIGURE, THEME"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.433237" sY="0.160048" sZ="0.613102" angle="0" ax="0" ay="1" az="0" tx="-0.003877" ty="0.210317" tz="-0.181222"/>
+    <Box sX="0.425877" sY="0.120654" sZ="1.11106" angle="90" ax="1" ay="0" az="0" tx="0.023494" ty="-1.01255" tz="-0.731848"/>
+    <Box sX="0.167152" sY="0.040355" sZ="0.424063" angle="90" ax="0" ay="0" az="1" tx="-0.572858" ty="-0.107965" tz="-0.104248"/>
+    <Box sX="0.167152" sY="0.042552" sZ="0.422256" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.570275" ty="-0.107965" tz="-0.104974"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.721304,0,0,0,0.167382,0,0,0,0.703231" centerOfMass="0.014152,-0.61213,-0.423918" mass="1.04999995232" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.668582" minY="-2.26575" minZ="-0.991641" maxX="0.672487" maxY="0.55925" maxZ="0.469816"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.668582" minY="-2.26575" minZ="-0.991641" maxX="0.672487" maxY="0.55925" maxZ="0.469816"/>
+  </GeometryBounding>
+</LEGOPrimitive>

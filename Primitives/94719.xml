@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="94719"/>
+    <Annotation designname="M3"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMAL AND ACCESSORIES FOR ANIMALS"/>
+    <Annotation platformid="0"/>
+    <Annotation platformname="None"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.44" sY="0.103137" sZ="0.103137" angle="45" ax="1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Box sX="0.59" sY="0.349309" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.760691" tz="0"/>
+    <Box sX="0.266588" sY="0.118068" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.273314" tz="0"/>
+    <Box sX="0.139039" sY="0.095829" sZ="0.09" angle="33.6689" ax="0" ay="0" az="-1" tx="0.344287" ty="-0.317442" tz="0"/>
+    <Box sX="0.139039" sY="0.095829" sZ="0.09" angle="180" ax="-0.289607" ay="0.957146" az="0" tx="-0.344287" ty="-0.317442" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="0.9" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.45" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="0" ay="0" az="1" tx="0.45" ty="-0.4" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="0" ay="0" az="-1" tx="-0.45" ty="0.4" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.028376,0,0,0,0.025788,0,0,0,0.051707" centerOfMass="0.000235,-0.405735,-0.003329" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.6" minY="-1.125" minZ="-0.16" maxX="0.6" maxY="0.16" maxZ="0.16"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.6" minY="-1.125" minZ="-0.16" maxX="0.6" maxY="0.16" maxZ="0.16"/>
+  </GeometryBounding>
+</LEGOPrimitive>

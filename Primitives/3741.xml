@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3741"/>
+    <Annotation designname="STALK"/>
+    <Annotation maingroupid="228"/>
+    <Annotation maingroupname="PLANTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.217688" sY="0.23" sZ="0.217688" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.24" tz="0"/>
+    <Box sX="0.123677" sY="0.13" sZ="0.08" angle="0" ax="0" ay="1" az="0" tx="0.361365" ty="0.34" tz="0"/>
+    <Box sX="0.123677" sY="0.13" sZ="0.08" angle="120" ax="0" ay="1" az="0" tx="-0.180682" ty="0.34" tz="-0.312951"/>
+    <Box sX="0.123677" sY="0.13" sZ="0.08" angle="120" ax="0" ay="-1" az="0" tx="-0.180682" ty="0.34" tz="0.312951"/>
+    <Box sX="0.04091" sY="0.708752" sZ="0.040668" angle="20" ax="0" ay="0" az="-1" tx="0.637187" ty="1.12006" tz="0"/>
+    <Box sX="0.04091" sY="0.600013" sZ="0.040668" angle="121.17449" ax="0.172788" ay="-0.97993" az="-0.099407" tx="-0.301588" ty="1.01788" tz="0.518691"/>
+    <Box sX="0.04091" sY="0.496382" sZ="0.040668" angle="121.14235" ax="-0.172787" ay="0.979923" az="-0.099472" tx="-0.283493" ty="0.920498" tz="-0.488213"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.48" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,0:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="15" length="0.32" requireGrabbing="0" startCapped="0" endCapped="1" angle="165.89395" ax="-0.701674" ay="0.123724" az="0.701674" tx="0.883015" ty="1.79547" tz="0"/>
+    <Axel type="15" length="0.319869" requireGrabbing="0" startCapped="0" endCapped="1" angle="160.69923" ax="-0.964355" ay="-0.045949" az="-0.260591" tx="-0.40511" ty="1.59547" tz="0.701672"/>
+    <Axel type="15" length="0.320015" requireGrabbing="0" startCapped="0" endCapped="1" angle="185.15683" ax="0.255391" ay="0.16789" az="0.952149" tx="-0.368713" ty="1.39547" tz="-0.63863"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.05439,0,0,0,0.042126,0,0,0,0.059356" centerOfMass="0.026997,0.595523,0.015017" mass="0.166999995708" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.470223" minY="0" minZ="-0.69293" maxX="0.934437" maxY="1.80006" maxZ="0.755972"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.470223" minY="0" minZ="-0.69293" maxX="0.934437" maxY="1.79908" maxZ="0.755972"/>
+  </GeometryBounding>
+</LEGOPrimitive>

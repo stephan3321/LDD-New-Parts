@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="99563"/>
+    <Annotation designname="GOLD INGOT"/>
+    <Annotation maingroupid="296"/>
+    <Annotation maingroupname="MISCELLANEOUS ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.689999" sY="0.15" sZ="0.29" angle="0" ax="0" ay="1" az="0" tx="0.399999" ty="0.16" tz="0"/>
+    <Box sX="0.79" sY="0.025" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.085" tz="0"/>
+    <Box sX="0.75" sY="0.015" sZ="0.35" angle="0" ax="0" ay="1" az="0" tx="0.4" ty="0.025" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4,15:4,15:4,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.014958,0,0,0,0.063491,0,0,0,0.052186" centerOfMass="0.399912,0.180965,0" mass="0.219999998808" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.32" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="1.2" maxY="0.32" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

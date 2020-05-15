@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4498;88413"/>
+    <Annotation designname="QUIVER"/>
+    <Annotation maingroupid="253"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES, UPPER BODY"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.307263" sY="0.467673" sZ="0.045" angle="0" ax="0" ay="1" az="0" tx="0.093508" ty="-0.367673" tz="0.455"/>
+    <Box sX="1.36491" sY="0.264161" sZ="0.147185" angle="45" ax="0" ay="0" az="1" tx="0.430963" ty="-0.502062" tz="0.557185"/>
+    <Box sX="0.199494" sY="0.045" sZ="0.048606" angle="0" ax="0" ay="1" az="0" tx="0.002259" ty="0.055" tz="-0.303617"/>
+    <Box sX="0.050429" sY="0.045" sZ="0.350857" angle="180" ax="0" ay="1" az="0" tx="0.308469" ty="0.055" tz="0.149143"/>
+    <Box sX="0.050429" sY="0.045" sZ="0.350857" angle="180" ax="0" ay="1" az="0" tx="-0.308468" ty="0.055" tz="0.149143"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="180" ax="1" ay="0" az="0" tx="-0.4" ty="0.11" tz="0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.127081,0,0,0,0.114319,0,0,0,0.209836" centerOfMass="0.250127,-0.488409,0.50282" mass="0.379999995232" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.720961" minY="-1.65399" minZ="-0.41" maxX="1.58289" maxY="0.649863" maxZ="0.73"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.687021" minY="-1.61886" minZ="-0.41" maxX="1.52789" maxY="0.594644" maxZ="0.73"/>
+  </GeometryBounding>
+</LEGOPrimitive>

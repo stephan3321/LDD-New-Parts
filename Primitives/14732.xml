@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="14732"/>
+    <Annotation designname="BEAR SITTING W/HOLE Ø 1,5"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.515099" sY="0.451003" sZ="0.141163" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.460968" tz="-0.393163"/>
+    <Box sX="0.358497" sY="0.451003" sZ="0.042458" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.460968" tz="0.294458"/>
+    <Box sX="0.32939" sY="0.397883" sZ="0.141163" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.626656" tz="-0.629236"/>
+    <Box sX="0.362917" sY="0.503762" sZ="0.364783" angle="50.01875" ax="1" ay="0" az="0" tx="0" ty="1.05884" tz="-0.077691"/>
+    <Box sX="0.336932" sY="0.455067" sZ="0.108907" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.48356" tz="0.386015"/>
+    <Box sX="0.463516" sY="0.448181" sZ="0.111061" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.59484" tz="0.786707"/>
+    <Box sX="0.208375" sY="0.246649" sZ="0.282062" angle="21.39407" ax="1" ay="0" az="0" tx="0" ty="1.4097" tz="1.01403"/>
+    <Box sX="0.26343" sY="0.197973" sZ="0.282062" angle="0" ax="0" ay="1" az="0" tx="0" ty="1.31198" tz="0.588275"/>
+    <Box sX="0.166848" sY="0.433537" sZ="0.174939" angle="90" ax="0" ay="1" az="0" tx="0.265301" ty="1.56642" tz="0.585284"/>
+    <Box sX="0.098633" sY="0.18479" sZ="0.077471" angle="31.31052" ax="0" ay="0" az="1" tx="0.586439" ty="1.86044" tz="0.606742"/>
+    <Box sX="0.398913" sY="0.451003" sZ="0.11565" angle="90" ax="0" ay="1" az="0" tx="-0.367649" ty="0.460968" tz="-0.116187"/>
+    <Box sX="0.15692" sY="0.162917" sZ="0.220148" angle="64.84024" ax="0" ay="1" az="0" tx="-0.370875" ty="0.172892" tz="0.389253"/>
+    <Box sX="0.166848" sY="0.433537" sZ="0.174939" angle="90" ax="0" ay="1" az="0" tx="-0.265301" ty="1.56642" tz="0.585284"/>
+    <Box sX="0.098633" sY="0.18479" sZ="0.077471" angle="180" ax="0.269849" ay="0.962903" az="0" tx="-0.586439" ty="1.86044" tz="0.606742"/>
+    <Box sX="0.398913" sY="0.451003" sZ="0.11565" angle="90" ax="0" ay="1" az="0" tx="0.367649" ty="0.460968" tz="-0.116187"/>
+    <Box sX="0.15692" sY="0.162917" sZ="0.220148" angle="115.15976" ax="0" ay="1" az="0" tx="0.370875" ty="0.172892" tz="0.389253"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="14" length="0.53" grabbing="0" startCapped="1" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="1.51995" tz="0.585284"/>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.776592,0,0,0,0.615621,0,0,0,0.552897" centerOfMass="0,1.03478,0.244593" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.766738" minY="-1.9E-005" minZ="-0.877448" maxX="0.766738" maxY="2.06957" maxZ="1.36663"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.738629" minY="-1.9E-005" minZ="-0.877448" maxX="0.738629" maxY="2.05428" maxZ="1.34184"/>
+  </GeometryBounding>
+</LEGOPrimitive>

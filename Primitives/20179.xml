@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="20179"/>
+    <Annotation designname="KITCHEN EQUIPMENT NO.1,BOTTOM"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.043033" sY="0.39779" sZ="0.043033" angle="45" ax="0" ay="1" az="0" tx="0" ty="1.07024" tz="0"/>
+    <Box sX="0.144875" sY="0.265984" sZ="0.144875" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.938435" tz="0"/>
+    <Box sX="0.268564" sY="0.049744" sZ="0.268564" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.896298" tz="0"/>
+    <Box sX="0.216274" sY="0.468021" sZ="0.216274" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.478021" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="15" length="0.201153" requireGrabbing="0" startCapped="1" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="0" ty="1.27688" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.23378,0,0,0,0.103464,0,0,0,0.23378" centerOfMass="0,0.739016,0" mass="1" frictionType="0"/>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,1"/>
+  <Bounding>
+    <AABB minX="-0.393948" minY="0" minZ="-0.393948" maxX="0.393948" maxY="1.47803" maxZ="0.393948"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.393948" minY="0" minZ="-0.393948" maxX="0.393948" maxY="1.47803" maxZ="0.393948"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="36036" />
+    <Annotation designname="Skirt" />
+    <Annotation maingroupid="240" />
+    <Annotation maingroupname="MINI FIGURE" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+<Connectivity>
+     <Fixed type="5" axes="2" angle="0" ax="0" ay="0" az="1" tx="-0.1" ty="1.6" tz="0.8"/>
+  </Connectivity>
+  <Bounding>
+    <AABB minX="-0.399101" minY="0" minZ="-0.4" maxX="1.199101" maxY="2.04" maxZ="1.2" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.399101" minY="0" minZ="-0.4" maxX="1.199101" maxY="2.04" maxZ="1.2" />
+  </GeometryBounding>
+</LEGOPrimitive>

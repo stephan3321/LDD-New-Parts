@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4345;30060"/>
+    <Annotation designname="MAILBOX, CASING 2X2X2"/>
+    <Annotation maingroupid="227"/>
+    <Annotation maingroupname="INTERIOR"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.065" sY="0.95" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="-0.325" ty="0.96" tz="-0.396004"/>
+    <Box sX="0.639998" sY="0.05" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="0.399998" ty="1.86" tz="-0.396004"/>
+    <Box sX="0.065003" sY="0.95" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="1.125" ty="0.96" tz="-0.396004"/>
+    <Box sX="0.639994" sY="0.15" sZ="0.79" angle="0" ax="0" ay="1" az="0" tx="0.400002" ty="0.16" tz="-0.396004"/>
+    <Box sX="0.04" sY="0.105" sZ="0.58" angle="0" ax="0" ay="1" az="0" tx="-0.05" ty="1.685" tz="-0.486004"/>
+    <Box sX="0.04" sY="0.105" sZ="0.58" angle="0" ax="0" ay="1" az="0" tx="0.85" ty="1.685" tz="-0.486004"/>
+    <Box sX="0.639998" sY="0.57" sZ="0.053245" angle="0" ax="0" ay="1" az="0" tx="0.399998" ty="0.9" tz="-1.13276"/>
+    <Box sX="0.065" sY="0.15" sZ="0.140997" angle="0" ax="0" ay="1" az="0" tx="-0.175061" ty="0.16" tz="0.554993"/>
+    <Box sX="0.065" sY="0.15" sZ="0.140997" angle="0" ax="0" ay="1" az="0" tx="0.975" ty="0.16" tz="0.554993"/>
+    <Box sX="0.115" sY="0.15" sZ="0.053245" angle="0" ax="0" ay="1" az="0" tx="-0.125" ty="1.64" tz="-1.13276"/>
+    <Box sX="0.115" sY="0.15" sZ="0.053245" angle="0" ax="0" ay="1" az="0" tx="0.924992" ty="1.64" tz="-1.13276"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.92" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:1,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Hinge type="34" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="0.4" ty="0.160084" tz="0.643938"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.34992,0,0,0,1.13955,0,0,0,1.47972" centerOfMass="0.399999,0.989211,-0.465578" mass="2.16000008583" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="1.2" maxY="2.098" maxZ="0.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.196" maxX="1.2" maxY="2.098" maxZ="0.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

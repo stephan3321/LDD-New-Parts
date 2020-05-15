@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="29034"/>
+    <Annotation designname="SYSTEM COLOUR SENSOR HOUSING TOP"/>
+    <Annotation maingroupid="293"/>
+    <Annotation maingroupname="POWER FUNCTIONS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.95" sZ="0.790001" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-0.4"/>
+    <Box sX="0.725" sY="0.47" sZ="0.790001" angle="0" ax="0" ay="1" az="0" tx="-1.935" ty="1.44" tz="-0.4"/>
+    <Box sX="0.055" sY="0.285" sZ="0.790001" angle="0" ax="0" ay="1" az="0" tx="-2.735" ty="1.255" tz="-0.4"/>
+    <Box sX="0.055" sY="0.175" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="-2.735" ty="1.735" tz="0.2"/>
+    <Box sX="0.055" sY="0.175" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="-2.735" ty="1.735" tz="-1"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="0" ay="1" az="0" tx="-2.8" ty="1.92" tz="-1.2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-1.2" ty="0" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="4" angle="0" ax="0" ay="1" az="0" tx="-2.8" ty="0.96" tz="-1.2">
+      22:1:1,22:2:1,22:2:1,22:2:1,29:0:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,29:0:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,29:0:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,29:0:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,29:0:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.580134,0,0,0,1.14223,0,0,0,1.2957" centerOfMass="-1.26733,1.049,-0.4" mass="1" frictionType="0"/>
+  <Decoration faces="7" subMaterialRedirectLookupTable="0,1,2,3,4,5,6"/>
+  <Bounding>
+    <AABB minX="-2.93667" minY="0" minZ="-1.2" maxX="0.402008" maxY="2.098" maxZ="0.400001"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.93667" minY="0" minZ="-1.2" maxX="0.402008" maxY="2.098" maxZ="0.400001"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11418"/>
+    <Annotation designname="ANIMAL NO. 9 - 2013"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.455734" sY="0.127593" sZ="0.427387" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.137593" tz="-0.133292"/>
+    <Box sX="0.278142" sY="0.020149" sZ="0.253958" angle="54.74507" ax="1" ay="0" az="0" tx="0" ty="-0.001797" tz="0.452789"/>
+    <Box sX="0.447876" sY="0.072412" sZ="0.366902" angle="90" ax="1" ay="0" az="0" tx="0" ty="-0.313106" tz="-0.606462"/>
+    <Box sX="0.316687" sY="0.020149" sZ="0.214454" angle="84.84977" ax="0.627498" ay="0.505454" az="-0.592252" tx="0.455277" ty="-0.056411" tz="0.201294"/>
+    <Box sX="0.316687" sY="0.020149" sZ="0.300732" angle="109.61446" ax="0.35437" ay="0.565151" az="-0.745001" tx="0.498179" ty="-0.266331" tz="-0.274214"/>
+    <Box sX="0.320305" sY="0.068656" sZ="0.252601" angle="139.62416" ax="0.858034" ay="0.412957" az="-0.305358" tx="0.729339" ty="-0.250665" tz="-0.392743"/>
+    <Box sX="0.316687" sY="0.020149" sZ="0.214454" angle="140.12552" ax="-0.42502" ay="0.785223" az="0.450314" tx="-0.455277" ty="-0.056411" tz="0.201294"/>
+    <Box sX="0.316687" sY="0.020149" sZ="0.300732" angle="124.98666" ax="-0.686423" ay="0.649782" az="0.326507" tx="-0.498179" ty="-0.266331" tz="-0.274214"/>
+    <Box sX="0.320305" sY="0.068656" sZ="0.252601" angle="134.39102" ax="-0.310901" ay="0.374363" az="0.873609" tx="-0.729339" ty="-0.250665" tz="-0.392743"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.260602,0,0,0,0.511854,0,0,0,0.438298" centerOfMass="0,-0.175489,-0.09215" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.01702" minY="-0.705177" minZ="-0.800131" maxX="1.01702" maxY="0.3542" maxZ="0.615831"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.01702" minY="-0.705177" minZ="-0.776033" maxX="1.01702" maxY="0.3542" maxZ="0.590583"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="55704"/>
+    <Annotation designname="Mask, Batman"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.344694" sY="0.484295" sZ="0.019547" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.625388" tz="-0.549152"/>
+    <Box sX="0.413205" sY="0.532987" sZ="0.019547" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.536544" tz="0.549152"/>
+    <Box sX="0.209469" sY="0.311695" sZ="0.041753" angle="90.20276" ax="-0.059383" ay="0.995094" az="-0.079126" tx="-0.423104" ty="1.42083" tz="-0.114598"/>
+    <Box sX="0.512772" sY="0.337507" sZ="0.191642" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="1.12274" tz="-0.04872"/>
+    <Box sX="0.209469" sY="0.311695" sZ="0.041753" angle="90.20276" ax="-0.059383" ay="0.995094" az="-0.079126" tx="0.396255" ty="1.40474" tz="-0.112349"/>
+    <Box sX="0.286424" sY="0.547638" sZ="0.019547" angle="55.64474" ax="0" ay="1" az="0" tx="-0.452545" ty="0.633875" tz="-0.311084"/>
+    <Box sX="0.325895" sY="0.547638" sZ="0.019547" angle="118.88113" ax="0" ay="1" az="0" tx="-0.46248" ty="0.633875" tz="0.298542"/>
+    <Box sX="0.286424" sY="0.547638" sZ="0.019547" angle="124.35524" ax="0" ay="1" az="0" tx="0.452545" ty="0.633875" tz="-0.311084"/>
+    <Box sX="0.325895" sY="0.547638" sZ="0.019547" angle="61.11887" ax="0" ay="1" az="0" tx="0.46248" ty="0.633875" tz="0.298542"/>
+    <Box sX="0.10849" sY="0.175622" sZ="0.125563" angle="180" ax="0" ay="1" az="0" tx="0" ty="0.565996" tz="0.655169"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.921099" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.467195,0,0,0,0.328083,0,0,0,0.409625" centerOfMass="0,0.898351,0.090578" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.637" minY="-0.008901" minZ="-0.67" maxX="0.637" maxY="1.8056" maxZ="0.851156"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.63403" minY="-0.008901" minZ="-0.67" maxX="0.63403" maxY="1.8056" maxZ="0.851156"/>
+  </GeometryBounding>
+</LEGOPrimitive>

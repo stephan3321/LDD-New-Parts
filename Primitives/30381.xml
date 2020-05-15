@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30381;96232"/>
+    <Annotation designname="HOOD FOR CLOAK"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.556197" sY="0.539122" sZ="0.024998" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.422543" tz="-0.570047"/>
+    <Box sX="0.713991" sY="0.111185" sZ="0.063831" angle="0" ax="0" ay="1" az="0" tx="0" ty="-1.08885" tz="0.619044"/>
+    <Box sX="0.556197" sY="0.539122" sZ="0.024998" angle="90.50676" ax="0.093633" ay="-0.991194" az="0.093633" tx="0.626438" ty="-0.447635" tz="0"/>
+    <Box sX="0.556197" sY="0.539122" sZ="0.024998" angle="90.59804" ax="0.101636" ay="0.989616" az="-0.101636" tx="-0.669285" ty="-0.438017" tz="0"/>
+    <Box sX="0.556197" sY="0.111185" sZ="0.608886" angle="0" ax="0" ay="1" az="0" tx="0.018969" ty="0.124906" tz="0.073988"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.267083,0,0,0,0.286879,0,0,0,0.296866" centerOfMass="-0.030936,-0.508573,0.049082" mass="0.72000002861" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.843505" minY="-1.33551" minZ="-0.74572" maxX="0.839448" maxY="0.396085" maxZ="0.815988"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.843505" minY="-1.33551" minZ="-0.74572" maxX="0.839448" maxY="0.396085" maxZ="0.815988"/>
+  </GeometryBounding>
+</LEGOPrimitive>

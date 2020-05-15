@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30192"/>
+    <Annotation designname="3-HOOK"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.062121" sY="0.006044" sZ="0.08658" angle="0" ax="0" ay="1" az="0" tx="0.000218" ty="-0.097701" tz="0.000574"/>
+    <Box sX="0.091748" sY="0.380999" sZ="0.082302" angle="136.83885" ax="0.911396" ay="0.163836" az="0.377512" tx="0.006678" ty="1.14851" tz="0.472736"/>
+    <Box sX="0.09174" sY="0.380975" sZ="0.082289" angle="174.04262" ax="0.728756" ay="0.395242" az="-0.559194" tx="0.406037" ty="1.12425" tz="-0.237712"/>
+    <Box sX="0.091748" sY="0.380975" sZ="0.082302" angle="143.17633" ax="0.126196" ay="-0.255432" az="0.958556" tx="-0.412726" ty="1.14937" tz="-0.230576"/>
+    <Box sX="0.076815" sY="0.006044" sZ="0.08658" angle="90" ax="0" ay="0" az="1" tx="0.097486" ty="0.014723" tz="0.000574"/>
+    <Box sX="0.077045" sY="0.006044" sZ="0.08658" angle="90" ax="0" ay="0" az="-1" tx="-0.097511" ty="0.014493" tz="0.000574"/>
+    <Box sX="0.095" sY="0.730172" sZ="0.095" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.802959" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="1.07203" requireGrabbing="0" startCapped="0" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0" ty="0.079995" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.049639,0,0,0,0.028659,0,0,0,0.049679" centerOfMass="1.6E-005,0.935424,3.7E-005" mass="0.21289999783" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.72985" minY="-0.160183" minZ="-0.485699" maxX="0.716471" maxY="1.53313" maxZ="0.83508"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.703088" minY="-0.160183" minZ="-0.471557" maxX="0.703088" maxY="1.43447" maxZ="0.789274"/>
+  </GeometryBounding>
+</LEGOPrimitive>

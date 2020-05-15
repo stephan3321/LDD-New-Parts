@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4594"/>
+    <Annotation designname="WINDSCREEN 2X4X2 VERTICAL"/>
+    <Annotation maingroupid="277"/>
+    <Annotation maingroupname="WINDSCREENS AND COCKPITS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.065" sY="0.79" sZ="0.95" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.325" ty="0.96" tz="-0.4"/>
+    <Box sX="0.3225" sY="0.79" sZ="0.065" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.0675" ty="1.845" tz="-0.4"/>
+    <Box sX="0.2" sY="0.79" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="-0.19" ty="0.16" tz="-0.4"/>
+    <Box sX="0.3225" sY="0.79" sZ="0.065" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.4675" ty="1.845" tz="-0.4"/>
+    <Box sX="0.2" sY="0.79" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.59" ty="0.16" tz="-0.4"/>
+    <Box sX="0.065" sY="0.79" sZ="0.95" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.725" ty="0.96" tz="-0.4"/>
+    <Box sX="1.59" sY="0.065" sZ="0.95" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.96" tz="0.325"/>
+    <Box sX="1.59" sY="0.39" sZ="0.065" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="1.845" tz="0"/>
+    <Box sX="1.59" sY="0.39" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="1.2" ty="0.16" tz="0"/>
+    <Box sX="0.39" sY="0.6" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="0.16" tz="-0.21"/>
+    <Box sX="0.39" sY="0.6" sZ="0.15" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.4" ty="0.16" tz="-0.21"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="8" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="1.92" tz="-1.2">
+      18:1:1,23:4:1,18:1:1,29:0:1,29:0:1,29:0:1,18:1:1,23:4:1,18:1:1,
+      23:4:1,1:4:2,23:4:1,29:0:1,29:0:1,29:0:1,23:4:1,1:4:2,23:4:1,
+      18:2:1,23:4:1,18:3:1,23:4:1,18:2:1,23:4:1,18:3:1,23:4:1,18:2:1,
+      23:4:1,1:4:2,23:4:1,1:4:1,23:4:1,1:4:1,23:4:1,1:4:2,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="8" height="4" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-1.2">
+      22:1:1,22:2:1,29:0:1,29:0:1,29:0:1,29:0:1,29:0:1,22:2:1,22:1:1,
+      22:2:1,15:4,22:2:1,29:0:1,29:0:1,29:0:1,22:2:1,15:4,22:2:1,
+      22:2:1,9:4:1,22:3:1,22:2:1,22:2:1,22:2:1,22:3:1,9:4:1,22:2:1,
+      22:2:1,15:4:2,9:4:1,15:4:1,9:4:1,15:4:1,9:4:1,15:4:2,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.92553,0,0,0,4.30408,0,0,0,5.00707" centerOfMass="1.20002,0.995457,-0.16466" mass="3.12199997902" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="2.098" maxZ="0.4"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-1.2" maxX="2.8" maxY="2.098" maxZ="0.4"/>
+  </GeometryBounding>
+</LEGOPrimitive>

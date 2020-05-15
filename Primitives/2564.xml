@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2564"/>
+    <Annotation designname="ANCHOR"/>
+    <Annotation maingroupid="276"/>
+    <Annotation maingroupname="CRAINS AND SCAFFOLD"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.31" sY="0.259512" sZ="1.19" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.851715" tz="0"/>
+    <Box sX="0.275788" sY="2.10616" sZ="0.15" angle="0" ax="0" ay="1" az="0" tx="0" ty="2.27616" tz="0"/>
+    <Box sX="0.560691" sY="0.27564" sZ="0.15" angle="17.61679" ax="0" ay="0" az="1" tx="-0.457478" ty="3.99504" tz="0"/>
+    <Box sX="0.346053" sY="0.06457" sZ="0.335083" angle="38.85056" ax="0" ay="0" az="1" tx="-1.76712" ty="3.10578" tz="0.004789"/>
+    <Box sX="0.742654" sY="0.174035" sZ="0.15" angle="38.85056" ax="0" ay="0" az="1" tx="-1.50219" ty="3.40912" tz="0"/>
+    <Box sX="0.560692" sY="0.27564" sZ="0.15" angle="179.69481" ax="0.153013" ay="0.988074" az="0.017209" tx="0.459301" ty="4.0006" tz="-0.009849"/>
+    <Box sX="0.346053" sY="0.06457" sZ="0.335083" angle="179.45822" ax="0.332393" ay="0.943045" az="0.013423" tx="1.77048" ty="3.10999" tz="-0.002746"/>
+    <Box sX="0.742654" sY="0.174035" sZ="0.15" angle="179.45822" ax="0.332393" ay="0.943045" az="0.013423" tx="1.50535" ty="3.41311" tz="0.004034"/>
+    <Box sX="0.052894" sY="0.155" sZ="0.15" angle="0" ax="0" ay="1" az="0" tx="-0.222894" ty="0" tz="0"/>
+    <Box sX="0.052894" sY="0.155" sZ="0.15" angle="90" ax="0" ay="0" az="1" tx="0" ty="-0.222894" tz="0"/>
+    <Box sX="0.052894" sY="0.155" sZ="0.15" angle="180" ax="0" ay="0" az="1" tx="0.222894" ty="0" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.32" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0.16"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="3.20998,0,0,0,1.10771,0,0,0,3.92602" centerOfMass="0,2.2346,0" mass="1.46000003815" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.18973" minY="-0.33" minZ="-1.2" maxX="2.19563" maxY="4.44" maxZ="1.2"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.10172" minY="-0.33" minZ="-1.2" maxX="2.10172" maxY="4.44" maxZ="1.2"/>
+  </GeometryBounding>
+</LEGOPrimitive>

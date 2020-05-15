@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="99013"/>
+    <Annotation designname="ROTORBLAD 31M"/>
+    <Annotation maingroupid="375"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, AVIATION"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.79" sY="0.39" sZ="0.0195" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="0.8" ty="0.3385" tz="-0.4"/>
+    <Box sX="0.79" sY="0.39" sZ="0.0195" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.8" ty="-0.3415" tz="-0.4"/>
+    <Box sX="0.359" sY="0.39" sZ="0.08" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0.4" ty="-0.0015" tz="-0.4"/>
+    <Box sX="0.359" sY="0.39" sZ="0.08" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="1.2" ty="-0.0015" tz="-0.4"/>
+    <Box sX="0.0055" sY="0.097949" sZ="0.39" angle="180" ax="0" ay="1" az="0" tx="1.9255" ty="0" tz="-0.4"/>
+    <Box sX="0.0055" sY="0.097949" sZ="0.39" angle="180" ax="-0.34202" ay="0.939693" az="0" tx="1.84935" ty="0.209227" tz="-0.4"/>
+    <Box sX="0.0055" sY="0.097949" sZ="0.39" angle="180" ax="0.34202" ay="0.939693" az="0" tx="1.84935" ty="-0.209227" tz="-0.4"/>
+    <Box sX="0.0055" sY="0.097949" sZ="0.389886" angle="0" ax="0" ay="1" az="0" tx="-0.3255" ty="0" tz="-0.400114"/>
+    <Box sX="0.0055" sY="0.097949" sZ="0.389886" angle="40" ax="0" ay="0" az="-1" tx="-0.249347" ty="0.209227" tz="-0.400114"/>
+    <Box sX="0.0055" sY="0.097949" sZ="0.389886" angle="40" ax="0" ay="0" az="1" tx="-0.249347" ty="-0.209227" tz="-0.400114"/>
+    <Box sX="1.04929" sY="0.276112" sZ="0.228543" angle="0" ax="0" ay="1" az="0" tx="2.90929" ty="0" tz="-0.399595"/>
+    <Box sX="8.77316" sY="0.96" sZ="0.039595" angle="0" ax="0" ay="1" az="0" tx="12.11684" ty="0.200238" tz="-0.399595"/>
+    <Box sX="8.77316" sY="0.42663" sZ="0.120073" angle="0" ax="0" ay="1" az="0" tx="10.78316" ty="-0.036391" tz="-0.399595"/>
+    <Box sX="0.76" sY="0.42663" sZ="0.039595" angle="29.99999" ax="0" ay="0" az="1" tx="2.88515" ty="0.407106" tz="-0.399595"/>
+    <Box sX="0.686084" sY="9.24" sZ="0.089595" angle="90" ax="0" ay="0" az="1" tx="11.65" ty="-0.073677" tz="-0.399595"/>
+    <Box sX="0.918184" sY="0.845019" sZ="0.075385" angle="101.96973" ax="0" ay="0" az="1" tx="21.54393" ty="0.315567" tz="-0.399595"/>
+    <Box sX="0.955806" sY="0.982306" sZ="0.075385" angle="110.33205" ax="0" ay="0" az="1" tx="23.15373" ty="0.829605" tz="-0.399595"/>
+    <Box sX="0.79" sY="0.31" sZ="0.05025" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.8" ty="-0.31025" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="0.8" ty="0" tz="0"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="-1" ay="0" az="0" tx="1.6" ty="0" tz="0"/>
+    <Custom2DField type="22" width="6" height="2" angle="90" ax="-1" ay="0" az="0" tx="-0.4" ty="-0.4" tz="0">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="6" height="2" angle="90" ax="1" ay="0" az="0" tx="-0.4" ty="0.4" tz="-0.8">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,16:4:64,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.724016,0,0,0,51.33537,0,0,0,51.95272" centerOfMass="12.00347,0.648705,-0.4" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="-0.769762" minZ="-0.8" maxX="24.40694" maxY="2.06717" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.769762" minZ="-0.8" maxX="24.31368" maxY="1.97395" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

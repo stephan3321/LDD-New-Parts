@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2851"/>
+    <Annotation designname="PLASTIC MOTOR, PISTON"/>
+    <Annotation maingroupid="372"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="10"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.298747" sY="0.14" sZ="0.323982" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.47" tz="0"/>
+    <Box sX="0.193793" sY="0.469084" sZ="0.033222" angle="22.49999" ax="0" ay="1" az="0" tx="0.142826" ty="0.139084" tz="0.344812"/>
+    <Box sX="0.193793" sY="0.469084" sZ="0.033222" angle="67.5" ax="0" ay="1" az="0" tx="0.344812" ty="0.139084" tz="0.142826"/>
+    <Box sX="0.193793" sY="0.469084" sZ="0.033222" angle="112.49999" ax="0" ay="1" az="0" tx="0.344812" ty="0.139084" tz="-0.142826"/>
+    <Box sX="0.193793" sY="0.469084" sZ="0.033222" angle="157.5" ax="0" ay="1" az="0" tx="0.142826" ty="0.139084" tz="-0.344812"/>
+    <Box sX="0.193793" sY="0.469084" sZ="0.033222" angle="157.5" ax="0" ay="-1" az="0" tx="-0.142826" ty="0.139084" tz="-0.344812"/>
+    <Box sX="0.193793" sY="0.469084" sZ="0.033222" angle="112.49999" ax="0" ay="-1" az="0" tx="-0.344812" ty="0.139084" tz="-0.142826"/>
+    <Box sX="0.193793" sY="0.469084" sZ="0.033222" angle="67.5" ax="0" ay="-1" az="0" tx="-0.344812" ty="0.139084" tz="0.142826"/>
+    <Box sX="0.193793" sY="0.469084" sZ="0.033222" angle="22.49999" ax="0" ay="-1" az="0" tx="-0.142826" ty="0.139084" tz="0.344812"/>
+  </Collision>
+  <Connectivity>
+    <Ball type="2" angle="90" ax="0" ay="-1" az="0" tx="0" ty="0.001157" tz="0"/>
+    <Slider type="35" length="0.96" startCapped="0" endCapped="0" angle="90" ax="0" ay="-1" az="0" tx="0" ty="-0.34" tz="-0.475"/>
+    <Slider type="35" length="0.96" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.34" tz="0.475"/>
+    <Slider type="35" length="0.96" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-0.475" ty="-0.34" tz="0"/>
+    <Slider type="35" length="0.96" startCapped="0" endCapped="0" angle="180" ax="0" ay="1" az="0" tx="0.475" ty="-0.34" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.058525,0,0,0,0.051678,0,0,0,0.055836" centerOfMass="0,0.178274,-3.1E-005" mass="0.407999992371" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.475" minY="-0.340001" minZ="-0.475" maxX="0.475" maxY="0.62" maxZ="0.475"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.474998" minY="-0.340001" minZ="-0.475" maxX="0.474998" maxY="0.62" maxZ="0.475"/>
+  </GeometryBounding>
+</LEGOPrimitive>

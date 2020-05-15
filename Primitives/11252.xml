@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11252"/>
+    <Annotation designname="MINI TRAY"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.783783" sY="0.0525" sZ="0.476325" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.2625" tz="0"/>
+    <Box sX="0.249241" sY="0.160083" sZ="0.249241" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.170083" tz="0"/>
+    <Box sX="0.463702" sY="0.0775" sZ="0.040368" angle="20.53811" ax="0" ay="-1" az="0" tx="-0.486584" ty="0.2875" tz="0.519561"/>
+    <Box sX="0.463702" sY="0.0775" sZ="0.040368" angle="20.53811" ax="0" ay="1" az="0" tx="-0.486584" ty="0.2875" tz="-0.519561"/>
+    <Box sX="0.033061" sY="0.0775" sZ="0.273007" angle="0" ax="0" ay="1" az="0" tx="-0.978003" ty="0.2875" tz="0"/>
+    <Box sX="0.463702" sY="0.0775" sZ="0.040368" angle="159.46187" ax="0" ay="1" az="0" tx="0.486584" ty="0.2875" tz="-0.519561"/>
+    <Box sX="0.463702" sY="0.0775" sZ="0.040368" angle="159.46187" ax="0" ay="-1" az="0" tx="0.486584" ty="0.2875" tz="0.519561"/>
+    <Box sX="0.033061" sY="0.0775" sZ="0.273007" angle="180" ax="0" ay="1" az="0" tx="0.978003" ty="0.2875" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.18454,0,0,0,0.54662,0,0,0,0.385517" centerOfMass="0,0.1875,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.05896" minY="0" minZ="-0.720044" maxX="1.05896" maxY="0.375" maxZ="0.720044"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.05896" minY="0" minZ="-0.705417" maxX="1.05896" maxY="0.375" maxZ="0.705417"/>
+  </GeometryBounding>
+</LEGOPrimitive>

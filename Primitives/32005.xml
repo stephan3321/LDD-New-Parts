@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="32005"/>
+    <Annotation designname="TRACK ROD 6M,"/>
+    <Annotation maingroupid="386"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.67941" sY="0.08" sZ="0.235" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.00559" ty="0" tz="-0.245"/>
+    <Box sX="1.67941" sY="0.235" sZ="0.080858" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="2.00559" ty="0.000858" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.011081" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="-0.326081" ty="0.000375" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.01108" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="4.32641" ty="0.000375" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.011081" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="4.0002" ty="0.327177" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.011081" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="4.0002" ty="-0.327532" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.011081" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="-0.000311" ty="-0.327532" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.011081" angle="180" ax="0" ay="-0.707107" az="0.707107" tx="-0.000311" ty="0.327177" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.01108" angle="148.60028" ax="-0.281085" ay="-0.678598" az="0.678598" tx="4.23054" ty="0.231072" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.01108" angle="98.42105" ax="-0.862856" ay="-0.357407" az="0.357407" tx="4.23107" ty="-0.230543" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.01108" angle="148.60028" ax="-0.281085" ay="0.678598" az="-0.678598" tx="-0.231072" ty="0.230543" tz="-0.245"/>
+    <Box sX="0.178874" sY="0.235" sZ="0.01108" angle="98.42105" ax="-0.862856" ay="0.357407" az="-0.357407" tx="-0.230543" ty="-0.231072" tz="-0.245"/>
+  </Collision>
+  <Connectivity>
+    <Ball type="2" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.245"/>
+    <Ball type="2" angle="90" ax="-1" ay="0" az="0" tx="4" ty="0" tz="-0.245"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.029503,0,0,0,1.25959,0,0,0,1.26855" centerOfMass="2,0,-0.244996" mass="0.680000007153" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.40371" minY="-0.400135" minZ="-0.49" maxX="4.40371" maxY="0.400135" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.40371" minY="-0.400135" minZ="-0.49" maxX="4.40371" maxY="0.400135" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

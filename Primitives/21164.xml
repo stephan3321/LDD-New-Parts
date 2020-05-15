@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="21164;22058;57715;72706"/>
+    <Annotation designname="CORRUGATED PIPE 24MM,"/>
+    <Annotation maingroupid="391"/>
+    <Annotation maingroupname="TUBES"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.10628" sY="0.156771" sZ="0.013175" angle="104.47751" ax="0.447214" ay="0.774597" az="-0.447214" tx="-0.149723" ty="0.259328" tz="-1.19945"/>
+    <Box sX="1.10628" sY="0.156771" sZ="0.013175" angle="90" ax="0" ay="1" az="0" tx="-0.299447" ty="0" tz="-1.19945"/>
+    <Box sX="1.10628" sY="0.156771" sZ="0.013175" angle="104.47751" ax="-0.447214" ay="0.774597" az="0.447214" tx="-0.149723" ty="-0.259328" tz="-1.19945"/>
+    <Box sX="1.10628" sY="0.156771" sZ="0.013175" angle="138.59036" ax="-0.654654" ay="0.377964" az="0.654654" tx="0.149723" ty="-0.259328" tz="-1.19945"/>
+    <Box sX="1.10628" sY="0.156771" sZ="0.013175" angle="180" ax="0.707107" ay="0" az="-0.707107" tx="0.299447" ty="0" tz="-1.19945"/>
+    <Box sX="1.10628" sY="0.156771" sZ="0.013175" angle="138.59036" ax="0.654654" ay="0.377964" az="-0.654654" tx="0.149723" ty="0.259328" tz="-1.19945"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="-1.6"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.525473,0,0,0,0.525473,0,0,0,0.090777" centerOfMass="0,0,-1.20011" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.369007" minY="-0.369007" minZ="-2.40021" maxX="0.369007" maxY="0.369007" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.369007" minY="-0.369007" minZ="-2.40021" maxX="0.369007" maxY="0.369007" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

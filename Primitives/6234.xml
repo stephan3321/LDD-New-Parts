@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="6234"/>
+    <Annotation designname="DOOR FOR FRAME 2X6X6"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.93" sY="2.55" sZ="0.090001" angle="180" ax="0" ay="1" az="0" tx="-1.94" ty="2.56" tz="0"/>
+    <Box sX="0.29" sY="0.290282" sZ="0.29" angle="180" ax="0" ay="1" az="0" tx="-3.42" ty="1.91528" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="81" oriented="0" angle="90" ax="0" ay="-1" az="0" tx="0" ty="2.56" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="6.46194,0,0,0,4.10633,0,0,0,10.54685" centerOfMass="1.958,2.45183,0" mass="2.91000008583" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-3.88" minY="-0.03" minZ="-0.300001" maxX="0.1" maxY="5.15" maxZ="0.3"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-3.88" minY="-0.03" minZ="-0.300001" maxX="0.1" maxY="5.15" maxZ="0.3"/>
+  </GeometryBounding>
+</LEGOPrimitive>

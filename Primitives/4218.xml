@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4218;30061"/>
+    <Annotation designname="LAMELLA FOR ROLLING GATE"/>
+    <Annotation maingroupid="226"/>
+    <Annotation maingroupname="GATES AND ROOFS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <Collision>
+    <Box sX="2.975" sY="0.060597" sZ="0.060597" angle="45" ax="1" ay="0" az="0" tx="2.985" ty="0" tz="0"/>
+    <Box sX="0.0975" sY="0.245718" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="-0.1075" ty="0.425718" tz="0"/>
+    <Box sX="0.195" sY="0.09885" sZ="0.09885" angle="0" ax="0" ay="1" az="0" tx="-0.22" ty="0.8" tz="0"/>
+    <Box sX="0.0975" sY="0.245718" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="6.0775" ty="0.425718" tz="0"/>
+    <Box sX="0.195" sY="0.09885" sZ="0.09885" angle="0" ax="0" ay="1" az="0" tx="6.19" ty="0.8" tz="0"/>
+    <Box sX="2.975" sY="0.31" sZ="0.09" angle="0" ax="0" ay="1" az="0" tx="2.985" ty="0.32" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="72" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="2.985" ty="0.8" tz="0"/>
+    <Hinge type="73" oriented="0" angle="180" ax="0.707107" ay="0.707107" az="0" tx="2.985" ty="0" tz="0"/>
+    <Slider type="5" length="0" startCapped="0" endCapped="0" angle="180" ax="-1" ay="0" az="0" tx="-0.425" ty="0.8" tz="0"/>
+    <Slider type="5" length="0" startCapped="0" endCapped="0" angle="180" ax="0" ay="0" az="1" tx="6.395" ty="0.8" tz="0"/>
+    <Axel type="7" length="0.41" requireGrabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="0" az="-1" tx="-0.425" ty="0.8" tz="0"/>
+    <Axel type="7" length="0.41" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="6.395" ty="0.8" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.069527,0,0,0,3.44479,0,0,0,3.50908" centerOfMass="2.985,0.289181,-0.013624" mass="0.926999986172" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.425" minY="-0.16" minZ="-0.16" maxX="6.395" maxY="0.96" maxZ="0.16"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.425" minY="-0.16" minZ="-0.16" maxX="6.395" maxY="0.96" maxZ="0.16"/>
+  </GeometryBounding>
+</LEGOPrimitive>

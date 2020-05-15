@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="64797"/>
+    <Annotation designname="NUTE GUN RAY HAT"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.435861" sY="0.103379" sZ="0.435861" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.251105" tz="0"/>
+    <Box sX="0.041504" sY="0.305704" sZ="0.588409" angle="39.18032" ax="0" ay="1" az="0" tx="-0.628648" ty="-0.041578" tz="0.133914"/>
+    <Box sX="0.041504" sY="0.65831" sZ="0.387991" angle="90" ax="0" ay="1" az="0" tx="0.008211" ty="0.328416" tz="0.58926"/>
+    <Box sX="0.041504" sY="0.315277" sZ="0.579243" angle="139.60675" ax="0" ay="1" az="0" tx="0.640768" ty="-0.032006" tz="0.135598"/>
+    <Box sX="0.195355" sY="0.342892" sZ="0.132018" angle="180" ax="0" ay="1" az="0" tx="0.713697" ty="-0.136149" tz="-0.176652"/>
+    <Box sX="0.041504" sY="0.356406" sZ="0.22884" angle="135" ax="0" ay="-1" az="0" tx="0.403528" ty="-0.152527" tz="-0.412712"/>
+    <Box sX="0.041504" sY="0.356406" sZ="0.22884" angle="90" ax="0" ay="-1" az="0" tx="-0.006169" ty="-0.153178" tz="-0.59077"/>
+    <Box sX="0.041504" sY="0.356406" sZ="0.22884" angle="45" ax="0" ay="-1" az="0" tx="-0.411654" ty="-0.151633" tz="-0.402544"/>
+    <Box sX="0.041504" sY="0.215601" sZ="0.509428" angle="148.91116" ax="0.135532" ay="0.94263" az="-0.305091" tx="0.625178" ty="0.480476" tz="0.198743"/>
+    <Box sX="0.041504" sY="0.215601" sZ="0.509428" angle="49.49786" ax="-0.702106" ay="0.640129" az="0.311901" tx="-0.625178" ty="0.480476" tz="0.198743"/>
+    <Box sX="0.195355" sY="0.342892" sZ="0.132018" angle="180" ax="0" ay="1" az="0" tx="-0.711572" ty="-0.136149" tz="-0.176652"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.231339,0,0,0,0.309079,0,0,0,0.291868" centerOfMass="0,0.105563,0.083688" mass="0.899999976158" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.03256" minY="-0.692" minZ="-0.715803" maxX="1.04774" maxY="1.00922" maxZ="0.716376"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.03041" minY="-0.692" minZ="-0.715803" maxX="1.03041" maxY="1.00922" maxZ="0.716376"/>
+  </GeometryBounding>
+</LEGOPrimitive>

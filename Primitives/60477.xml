@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="60477"/>
+    <Annotation designname="ROOF TILE 1X4X1"/>
+    <Annotation maingroupid="205"/>
+    <Annotation maingroupname="BRICKS, WITH SLOPE"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.39" sY="0.086" sZ="1.59" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.096" tz="1.2"/>
+    <Box sX="0.39" sY="0.47" sZ="0.39" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.48" tz="0"/>
+    <Box sX="0.39" sY="0.086" sZ="1.24989" angle="17.69999" ax="1" ay="0" az="0" tx="0" ty="0.483593" tz="1.57056"/>
+    <Box sX="0.39" sY="0.240598" sZ="0.771989" angle="7.81324" ax="1" ay="0" az="0" tx="0" ty="0.367344" tz="0.982477"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.96" tz="-0.4">
+      18:1:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="8" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      22:1:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:2:1,9:4:1,22:2:1,
+      22:2:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.878221,0,0,0,0.868682,0,0,0,0.162175" centerOfMass="0,0.43968,0.830882" mass="1.11000001431" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="1.138" maxZ="2.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="0.4" maxY="1.138" maxZ="2.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="98565"/>
+    <Annotation designname="3m double ball cup- HF 2012"/>
+    <Annotation maingroupid="340"/>
+    <Annotation maingroupname="FIGURE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.2775" sY="0.36" sZ="0.427866" angle="90" ax="0" ay="0" az="1" tx="0" ty="0.8" tz="0"/>
+    <Box sX="0.176779" sY="0.36" sZ="0.131124" angle="90" ax="0" ay="0" az="1" tx="0" ty="0.431779" tz="-0.586124"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="90" ax="0" ay="0" az="1" tx="-0.273255" ty="0.033199" tz="-0.611413"/>
+    <Box sX="0.201802" sY="0.044551" sZ="0.077659" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.239551" tz="-0.635273"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.273255" ty="0.033199" tz="-0.611413"/>
+    <Box sX="0.176779" sY="0.36" sZ="0.131124" angle="90" ax="0" ay="0" az="1" tx="0" ty="0.431779" tz="0.586124"/>
+    <Box sX="0.201802" sY="0.044551" sZ="0.077659" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.239551" tz="0.635273"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="90" ax="0" ay="0" az="1" tx="-0.273255" ty="0.033199" tz="0.611413"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="180" ax="0.707107" ay="0.707107" az="0" tx="0.273255" ty="0.033199" tz="0.611413"/>
+    <Box sX="0.176779" sY="0.36" sZ="0.131124" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="0" ty="1.16822" tz="-0.586124"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="-0.273255" ty="1.5668" tz="-0.611413"/>
+    <Box sX="0.201802" sY="0.044551" sZ="0.077659" angle="180" ax="0" ay="1" az="0" tx="0" ty="1.83955" tz="-0.635273"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="90" ax="0" ay="0" az="-1" tx="0.273255" ty="1.5668" tz="-0.611413"/>
+    <Box sX="0.176779" sY="0.36" sZ="0.131124" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="0" ty="1.16822" tz="0.586124"/>
+    <Box sX="0.201802" sY="0.044551" sZ="0.077659" angle="180" ax="0" ay="1" az="0" tx="0" ty="1.83955" tz="0.635273"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="180" ax="0.707107" ay="-0.707107" az="0" tx="-0.273255" ty="1.5668" tz="0.611413"/>
+    <Box sX="0.201802" sY="0.048255" sZ="0.156413" angle="90" ax="0" ay="0" az="-1" tx="0.273255" ty="1.5668" tz="0.611413"/>
+    <Box sX="0.38749" sY="0.016808" sZ="0.427866" angle="90" ax="0" ay="0" az="1" tx="0.343192" ty="0.8" tz="0"/>
+    <Box sX="0.38749" sY="0.016808" sZ="0.427866" angle="90" ax="0" ay="0" az="1" tx="-0.343192" ty="0.8" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Ball type="4" angle="180" ax="-0.707107" ay="0" az="0.707107" tx="0" ty="-2.8E-005" tz="0"/>
+    <Ball type="4" angle="90" ax="0" ay="1" az="0" tx="0" ty="1.59999" tz="0"/>
+    <Hinge type="164" oriented="0" angle="120" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Hinge type="164" oriented="0" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="0" ty="1.6" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.66926,0,0,0,0.258595,0,0,0,0.501932" centerOfMass="0,0.8,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.37" minY="-0.369998" minZ="-0.799302" maxX="0.37" maxY="1.97" maxZ="0.799302"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.369998" minZ="-0.799302" maxX="0.37" maxY="1.97" maxZ="0.799302"/>
+  </GeometryBounding>
+</LEGOPrimitive>

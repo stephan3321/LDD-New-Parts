@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11250"/>
+    <Annotation designname="MINI GAVL W. Ø3,2 SHAFT"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.101427" sY="0.879806" sZ="0.101427" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.889806" tz="0"/>
+    <Box sX="0.186838" sY="0.511585" sZ="0.186873" angle="98.42105" ax="-0.357407" ay="-0.357407" az="-0.862856" tx="0" ty="1.6" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="1.34344" requireGrabbing="0" startCapped="0" endCapped="1" angle="0" ax="0" ay="0" az="1" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.323051,0,0,0,0.131854,0,0,0,0.400844" centerOfMass="0,0.94237,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.560778" minY="0" minZ="-0.284765" maxX="0.560778" maxY="1.88474" maxZ="0.284765"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.560778" minY="0" minZ="-0.284765" maxX="0.560778" maxY="1.88474" maxZ="0.284765"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="3195"/>
+    <Annotation designname="LEFT DOOR 1X5X4"/>
+    <Annotation maingroupid="226"/>
+    <Annotation maingroupname="GATES AND ROOFS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.79" sY="1.91" sZ="0.055" angle="0" ax="0" ay="1" az="0" tx="1.8" ty="1.92" tz="0.335"/>
+    <Box sX="0.08" sY="0.233972" sZ="0.04" angle="0" ax="0" ay="1" az="0" tx="3.21" ty="1.96397" tz="0.55"/>
+    <Box sX="0.272843" sY="1.91" sZ="0.272843" angle="135" ax="0" ay="1" az="0" tx="0" ty="1.92" tz="0"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="3.84" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,0:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="3.91055,0,0,0,4.45552,0,0,0,8.07294" centerOfMass="1.10371,1.95688,0.19751" mass="3.13400006294" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="3.6" maxY="4.018" maxZ="0.6"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.4" minY="0" minZ="-0.4" maxX="3.6" maxY="4.018" maxZ="0.6"/>
+  </GeometryBounding>
+</LEGOPrimitive>

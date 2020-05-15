@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="60410"/>
+    <Annotation designname="RJ12 STIK - VIRTUEL"/>
+    <Annotation maingroupid="393"/>
+    <Annotation maingroupname="POWER FUNCTIONS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="6"/>
+    <Annotation wireMarker="0,0,0,4,0.4,-0.5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.605" sY="0.32" sZ="0.472501" angle="180" ax="0" ay="1" az="0" tx="0.615" ty="0.33" tz="-0.482501"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="29" axes="2" tag="Port0" angle="90" ax="0" ay="0" az="1" tx="-0.09" ty="0.66" tz="-0.43304"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.177521,0,0,0,1.22525,0,0,0,1.24756" centerOfMass="1.76551,0.5475,-0.482501" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.09" minY="0" minZ="-0.965002" maxX="3.62103" maxY="1.095" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.09" minY="0" minZ="-0.965002" maxX="3.62103" maxY="1.095" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

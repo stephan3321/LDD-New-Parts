@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="64783"/>
+    <Annotation designname="ROCK MONSTER, MINI, ARM"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.299031" sY="0.162324" sZ="0.248291" angle="6.83684" ax="0" ay="0" az="-1" tx="-0.345692" ty="-0.54849" tz="0.006466"/>
+    <Box sX="0.202888" sY="0.47512" sZ="0.17" angle="0" ax="0" ay="1" az="0" tx="-0.260361" ty="-0.530839" tz="0"/>
+    <Box sX="0.067285" sY="0.150394" sZ="0.796953" angle="92.27792" ax="0.973565" ay="-0.176246" az="-0.14529" tx="-0.358423" ty="-0.529109" tz="-0.002806"/>
+    <Box sX="0.041441" sY="0.1272" sZ="0.179248" angle="98.57469" ax="0.878779" ay="0.324199" az="0.350205" tx="-0.51334" ty="-1.3493" tz="-0.013994"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.72" grabbing="1" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-0.303493" ty="-1.19964" tz="0.36"/>
+    <Hinge type="149" oriented="0" angle="90" ax="0" ay="0" az="-1" tx="0.15" ty="0" tz="0"/>
+    <Custom2DField type="23" width="2" height="2" angle="148.60028" ax="-0.281085" ay="0.678598" az="-0.678598" tx="-0.303493" ty="-0.63395" tz="-0.18">
+      29:0,29:0,29:0,
+      29:0,0:4:40,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="98.42105" ax="0.862856" ay="0.357407" az="0.357407" tx="-0.869179" ty="-1.19964" tz="0.18">
+      29:0,29:0,29:0,
+      29:0,0:4:40,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.061515,0,0,0,0.017353,0,0,0,0.067641" centerOfMass="-0.306291,-0.597948,-0.006313" mass="0.40000000596" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.69153" minY="-1.5132" minZ="-0.36" maxX="0.266469" maxY="0.247946" maxZ="0.36"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.69153" minY="-1.48302" minZ="-0.36" maxX="0.266469" maxY="0.247946" maxZ="0.36"/>
+  </GeometryBounding>
+</LEGOPrimitive>

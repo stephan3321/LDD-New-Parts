@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30121"/>
+    <Annotation designname="ALIEN, BREAST PLATE"/>
+    <Annotation maingroupid="252"/>
+    <Annotation maingroupname="FIGURE, ACCESSORIES FOR THE UPPER AND LOWER PART"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="5"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.377914" sY="0.056272" sZ="0.408931" angle="0" ax="0" ay="1" az="0" tx="-0.643714" ty="0.073728" tz="-0.080199"/>
+    <Box sX="0.337763" sY="0.460017" sZ="0.065308" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.359136" tz="0.473248"/>
+    <Box sX="0.333709" sY="0.463915" sZ="0.113847" angle="0" ax="0" ay="1" az="0" tx="-0.013808" ty="0.03614" tz="-0.835148"/>
+    <Box sX="0.910277" sY="0.092847" sZ="0.04235" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.054404" tz="-0.44765"/>
+    <Box sX="0.033601" sY="0.353959" sZ="0.307067" angle="180" ax="0.984808" ay="-0.173648" az="0" tx="-1.06682" ty="0.025286" tz="-0.10349"/>
+    <Box sX="0.381694" sY="0.056272" sZ="0.408931" angle="0" ax="0" ay="1" az="0" tx="0.647494" ty="0.073728" tz="-0.080199"/>
+    <Box sX="0.49" sY="0.055242" sZ="0.073158" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.081522" tz="-0.421264"/>
+    <Box sX="0.033601" sY="0.353959" sZ="0.307067" angle="180" ax="0.984808" ay="0.173648" az="0" tx="1.08817" ty="0.025286" tz="-0.10349"/>
+  </Collision>
+  <Connectivity>
+    <Fixed type="30" axes="2" angle="180" ax="0" ay="1" az="0" tx="0.3" ty="0" tz="0"/>
+    <Fixed type="30" axes="2" angle="0" ax="0" ay="1" az="0" tx="-0.3" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.215347,0,0,0,0.483563,0,0,0,0.386886" centerOfMass="0.000913,0.020913,-0.197204" mass="1.08000004292" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.21945" minY="-0.8441" minZ="-0.948995" maxX="1.2408" maxY="0.5533" maxZ="0.639191"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.2123" minY="-0.8441" minZ="-0.9337" maxX="1.2123" maxY="0.5533" maxZ="0.639191"/>
+  </GeometryBounding>
+</LEGOPrimitive>

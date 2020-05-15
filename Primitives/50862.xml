@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="50862"/>
+    <Annotation designname="RIM Ø 14.58 X 8"/>
+    <Annotation maingroupid="267"/>
+    <Annotation maingroupname="TYRES AND RIMS, SPECIAL"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.170833" sY="0.30457" sZ="0.29" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.31457" tz="-0.4"/>
+    <Box sX="0.147976" sY="0.147976" sZ="0.39" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.4"/>
+    <Box sX="0.059798" sY="0.059798" sZ="0.55" angle="45" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.304571" sZ="0.29" angle="29.99999" ax="0" ay="0" az="1" tx="-0.157284" ty="0.272427" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.304571" sZ="0.29" angle="60" ax="0" ay="0" az="1" tx="-0.272425" ty="0.157287" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.30457" sZ="0.29" angle="90" ax="0" ay="0" az="1" tx="-0.31457" ty="0" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.304571" sZ="0.29" angle="120" ax="0" ay="0" az="1" tx="-0.272427" ty="-0.157284" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.304571" sZ="0.29" angle="150" ax="0" ay="0" az="1" tx="-0.157287" ty="-0.272425" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.30457" sZ="0.29" angle="180" ax="0" ay="0" az="1" tx="0" ty="-0.31457" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.304571" sZ="0.29" angle="150" ax="0" ay="0" az="-1" tx="0.157284" ty="-0.272427" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.304571" sZ="0.29" angle="120" ax="0" ay="0" az="-1" tx="0.272425" ty="-0.157287" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.30457" sZ="0.29" angle="90" ax="0" ay="0" az="-1" tx="0.31457" ty="0" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.304571" sZ="0.29" angle="60" ax="0" ay="0" az="-1" tx="0.272427" ty="0.157284" tz="-0.4"/>
+    <Box sX="0.170833" sY="0.304571" sZ="0.29" angle="29.99999" ax="0" ay="0" az="-1" tx="0.157287" ty="0.272425" tz="-0.4"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="61" oriented="0" angle="120" ax="-0.57735" ay="-0.57735" az="0.57735" tx="0" ty="0" tz="-0.395"/>
+    <Fixed type="49" axes="1" angle="90" ax="1" ay="0" az="0" tx="0" ty="0" tz="-0.4"/>
+    <Fixed type="49" axes="1" angle="89.99999" ax="-1" ay="0" az="0" tx="0" ty="0" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.050905,0,0,0,0.050901,0,0,0,0.077964" centerOfMass="0,-7E-005,-0.400009" mass="0.509999990463" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.681003" minY="-0.680304" minZ="-0.96" maxX="0.67954" maxY="0.67868" maxZ="0.16"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.681003" minY="-0.680304" minZ="-0.96" maxX="0.67954" maxY="0.67868" maxZ="0.16"/>
+  </GeometryBounding>
+</LEGOPrimitive>

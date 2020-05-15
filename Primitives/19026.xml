@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="19026"/>
+    <Annotation designname="MINI FIGURE HELMET NO. 69"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.49" sY="0.148991" sZ="0.49" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.16393" tz="0"/>
+    <Box sX="0.234783" sY="0.159724" sZ="0.051683" angle="180" ax="0" ay="1" az="0" tx="0.096881" ty="-0.115143" tz="0.570212"/>
+    <Box sX="0.365386" sY="0.091384" sZ="0.051683" angle="180" ax="0" ay="1" az="0" tx="0" ty="-0.813277" tz="0.570212"/>
+    <Box sX="0.234783" sY="0.127472" sZ="0.038287" angle="164.22122" ax="0" ay="-1" az="0" tx="0.230993" ty="-0.36137" tz="0.526911"/>
+    <Box sX="0.274954" sY="0.172915" sZ="0.044176" angle="120" ax="0" ay="1" az="0" tx="-0.515672" ty="-0.691155" tz="0.232241"/>
+    <Box sX="0.367031" sY="0.412903" sZ="0.051683" angle="67.65843" ax="0" ay="1" az="0" tx="-0.507399" ty="-0.368323" tz="-0.252115"/>
+    <Box sX="0.274954" sY="0.429504" sZ="0.044176" angle="60" ax="0" ay="1" az="0" tx="0.515672" ty="-0.434566" tz="0.232241"/>
+    <Box sX="0.331664" sY="0.412903" sZ="0.051683" angle="120" ax="0" ay="1" az="0" tx="0.493818" ty="-0.368323" tz="-0.285106"/>
+    <Box sX="0.331664" sY="0.393856" sZ="0.051683" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.349275" tz="-0.570212"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.327773,0,0,0,0.351759,0,0,0,0.332544" centerOfMass="0,-0.242473,0.005877" mass="1" frictionType="0"/>
+  <Decoration faces="4" subMaterialRedirectLookupTable="0,1,0,0"/>
+  <Bounding>
+    <AABB minX="-0.731298" minY="-0.922794" minZ="-0.715567" maxX="0.731297" maxY="0.437847" maxZ="0.727322"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.731298" minY="-0.922794" minZ="-0.715567" maxX="0.731297" maxY="0.437847" maxZ="0.727322"/>
+  </GeometryBounding>
+</LEGOPrimitive>

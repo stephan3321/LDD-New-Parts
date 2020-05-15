@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="11187"/>
+    <Annotation designname="SNOWSHOES FOR MINI FIGURE"/>
+    <Annotation maingroupid="246"/>
+    <Annotation maingroupname="FIGURE ACCESSORIES IN HAND"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.19" sY="0.058696" sZ="0.064946" angle="0" ax="0" ay="1" az="0" tx="-0.949953" ty="-0.010787" tz="5.4E-005"/>
+    <Box sX="0.273348" sY="0.029686" sZ="0.320535" angle="0" ax="0" ay="1" az="0" tx="-0.443457" ty="-0.040314" tz="5.4E-005"/>
+    <Box sX="0.50762" sY="0.03" sZ="0.420757" angle="0" ax="0" ay="1" az="0" tx="0.679581" ty="-0.04" tz="0.000894"/>
+    <Box sX="0.085889" sY="0.029686" sZ="0.155739" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.040314" tz="-0.25949"/>
+    <Box sX="0.085889" sY="0.029686" sZ="0.155739" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.040314" tz="0.256263"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,1:4:36,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="6" length="0.258" grabbing="0" startCapped="0" endCapped="0" angle="90" ax="0" ay="1" az="0" tx="0" ty="-0.08" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.088087,0,0,0,0.562541,0,0,0,0.485547" centerOfMass="0.050047,0.049,0" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.14995" minY="-0.08" minZ="-0.497615" maxX="1.25005" maxY="0.178" maxZ="0.497615"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.14995" minY="-0.08" minZ="-0.497615" maxX="1.25005" maxY="0.177971" maxZ="0.497615"/>
+  </GeometryBounding>
+</LEGOPrimitive>

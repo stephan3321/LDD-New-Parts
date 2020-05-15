@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="47456;55015"/>
+    <Annotation designname="PLATE W. BOWS 2X3½"/>
+    <Annotation maingroupid="281"/>
+    <Annotation maingroupname="DECORATION ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.789948" sY="0.545421" sZ="0.31" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.399948" ty="0.32" tz="-1.44458"/>
+    <Box sX="0.789948" sY="0.369514" sZ="0.238426" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.399948" ty="0.248426" tz="-0.509645"/>
+    <Box sX="0.789948" sY="0.255066" sZ="0.207533" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0.399948" ty="0.217533" tz="0.134934"/>
+    <Box sX="0.53435" sY="0.327076" sZ="0.040591" angle="180" ax="0" ay="-0.606024" az="0.795446" tx="0.41963" ty="0.495983" tz="0.467535"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="4" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0.64" tz="-2">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4,23:4:1,0:4,23:4:1,
+      29:0:1,23:4:1,29:0:1,23:4:1,29:0:1
+    </Custom2DField>
+    <Custom2DField type="22" width="4" height="6" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-2">
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:2:1,23:4:1,7:4:2,23:4:1,22:2:1,
+      22:2:1,15:4:1,23:4:1,15:4:1,22:2:1,
+      22:1:1,22:2:1,22:2:1,22:2:1,22:1:1
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.797815,0,0,0,1.02622,0,0,0,0.317373" centerOfMass="0.400154,0.364521,-0.85333" mass="1.05999994278" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.400104" minY="0" minZ="-2" maxX="1.2" maxY="0.818" maxZ="0.8"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.400104" minY="0" minZ="-2" maxX="1.2" maxY="0.818" maxZ="0.8"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="4342"/>
+    <Annotation designname="WHITE BREAD"/>
+    <Annotation maingroupid="249"/>
+    <Annotation maingroupname="FOODSTUFF"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.39476" sY="0.156623" sZ="0.095" angle="7.81665" ax="-1" ay="0" az="0" tx="1.2" ty="0.231543" tz="-0.008381"/>
+    <Box sX="0.162753" sY="0.190982" sZ="0.22267" angle="0" ax="0" ay="1" az="0" tx="-0.222753" ty="0.200982" tz="-0.24"/>
+    <Box sX="1.40964" sY="0.100977" sZ="0.307278" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0.440977" tz="-0.24"/>
+    <Box sX="0.163833" sY="0.190982" sZ="0.22267" angle="0" ax="0" ay="1" az="0" tx="2.62383" ty="0.200982" tz="-0.24"/>
+    <Box sX="1.39476" sY="0.156623" sZ="0.095" angle="7.81665" ax="1" ay="0" az="0" tx="1.2" ty="0.231543" tz="-0.471619"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="7" length="2.5" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.05" ty="0.167301" tz="0"/>
+    <Axel type="7" length="2.5" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="0" az="-1" tx="-0.05" ty="0.167301" tz="-0.48"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.064876,0,0,0,0.832585,0,0,0,0.808353" centerOfMass="1.2,0.273672,-0.24" mass="0.924000024796" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.440221" minY="0" minZ="-0.630221" maxX="2.84022" maxY="0.580002" maxZ="0.150221"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.440221" minY="0" minZ="-0.630221" maxX="2.84022" maxY="0.580002" maxZ="0.150221"/>
+  </GeometryBounding>
+</LEGOPrimitive>

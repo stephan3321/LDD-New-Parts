@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="92742"/>
+    <Annotation designname="ARF TROOPER HELMET"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.287" sY="0.169899" sZ="0.584798" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.283771" tz="-0.138983"/>
+    <Box sX="0.323758" sY="0.579658" sZ="0.023826" angle="7.54488" ax="-1" ay="0" az="0" tx="0" ty="-0.254775" tz="-0.621941"/>
+    <Box sX="0.407526" sY="0.040008" sZ="0.223676" angle="10.22839" ax="1" ay="0" az="0" tx="0" ty="0.06329" tz="0.723121"/>
+    <Box sX="0.220055" sY="0.261316" sZ="0.087984" angle="10.22839" ax="1" ay="0" az="0" tx="0" ty="-0.700842" tz="0.723125"/>
+    <Box sX="0.164647" sY="0.040008" sZ="0.724748" angle="15.3737" ax="0.196986" ay="-0.046233" az="-0.979316" tx="0.451987" ty="0.028002" tz="0.229542"/>
+    <Box sX="0.031778" sY="0.087631" sZ="0.361923" angle="33.63393" ax="-0.984793" ay="-0.171713" az="-0.026404" tx="0.622504" ty="-0.263689" tz="0.532903"/>
+    <Box sX="0.220055" sY="0.261316" sZ="0.074304" angle="1.86383" ax="1" ay="0" az="0" tx="0" ty="-0.218978" tz="0.616222"/>
+    <Box sX="0.332971" sY="0.45436" sZ="0.023826" angle="67.64053" ax="-0.060491" ay="-0.99735" az="-0.040419" tx="0.558829" ty="-0.416622" tz="-0.231475"/>
+    <Box sX="0.332971" sY="0.473061" sZ="0.023826" angle="135.03893" ax="-0.01677" ay="-0.999039" az="-0.040487" tx="0.430088" ty="-0.427557" tz="0.430088"/>
+    <Box sX="0.332971" sY="0.45436" sZ="0.023826" angle="112.56278" ax="0.027047" ay="-0.998814" az="0.040478" tx="-0.558829" ty="-0.416622" tz="-0.231475"/>
+    <Box sX="0.164647" sY="0.040008" sZ="0.724748" angle="179.29167" ax="0.130995" ay="-0.991033" az="-0.026352" tx="-0.451987" ty="0.028002" tz="0.229542"/>
+    <Box sX="0.332971" sY="0.473061" sZ="0.023826" angle="45.22636" ax="0.097295" ay="-0.994439" az="0.040301" tx="-0.430088" ty="-0.427557" tz="0.430088"/>
+    <Box sX="0.031778" sY="0.087631" sZ="0.361923" angle="174.30486" ax="0.007648" ay="-0.958417" az="0.285268" tx="-0.622504" ty="-0.263689" tz="0.532903"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,15:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.396554,0,0,0,0.421159,0,0,0,0.32582" centerOfMass="0,-0.195555,0.055508" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.74216" minY="-1.02114" minZ="-0.958343" maxX="0.74216" maxY="0.547914" maxZ="0.97"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.723823" minY="-1.02114" minZ="-0.958343" maxX="0.723823" maxY="0.547914" maxZ="0.97"/>
+  </GeometryBounding>
+</LEGOPrimitive>

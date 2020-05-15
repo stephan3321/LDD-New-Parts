@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="60621"/>
+    <Annotation designname="LATTICE DOOR FOR FRAME 1X4X6"/>
+    <Annotation maingroupid="225"/>
+    <Annotation maingroupname="FRAMES, WINDOWS, WALLS AND DOORS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="1.29" sY="0.05" sZ="0.150207" angle="0" ax="0" ay="1" az="0" tx="1.33853" ty="2.11381" tz="0.26"/>
+    <Box sX="0.095" sY="2.56822" sZ="0.095" angle="45" ax="0" ay="-1" az="0" tx="2.415" ty="2.93047" tz="0.26"/>
+    <Box sX="1.41636" sY="0.049999" sZ="0.106921" angle="0" ax="0" ay="1" az="0" tx="1.21216" ty="0.360474" tz="0.26"/>
+    <Box sX="1.29" sY="0.05" sZ="0.150207" angle="0" ax="0" ay="1" az="0" tx="1.33853" ty="3.74714" tz="0.26"/>
+    <Box sX="1.41636" sY="0.05" sZ="0.106921" angle="0" ax="0" ay="1" az="0" tx="1.21216" ty="5.50047" tz="0.26"/>
+    <Box sX="0.39" sY="0.39" sZ="0.150207" angle="0" ax="0" ay="1" az="0" tx="2.268" ty="2.93047" tz="0.26"/>
+    <Box sX="0.095" sY="2.56822" sZ="0.095" angle="45" ax="0" ay="-1" az="0" tx="0.015001" ty="2.93047" tz="0.26"/>
+    <Box sX="0.095" sY="2.56822" sZ="0.095" angle="45" ax="0" ay="-1" az="0" tx="0.815" ty="2.93047" tz="0.26"/>
+    <Box sX="0.095" sY="2.56822" sZ="0.095" angle="45" ax="0" ay="-1" az="0" tx="1.615" ty="2.93047" tz="0.26"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="-1" ay="0" az="0" tx="1.868" ty="2.53047" tz="0.1">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Custom2DField type="23" width="2" height="2" angle="90" ax="1" ay="0" az="0" tx="1.868" ty="3.33047" tz="0.42">
+      29:0,29:0,29:0,
+      29:0,1:4:33,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Hinge type="47" oriented="0" angle="0" ax="0" ay="0" az="1" tx="-0.11" ty="2.93047" tz="0.26"/>
+    <Axel type="7" length="5.02" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0.015001" ty="0.420474" tz="0.26"/>
+    <Axel type="7" length="5.02" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="0.815" ty="0.420474" tz="0.26"/>
+    <Axel type="7" length="5.02" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="1.615" ty="0.420474" tz="0.26"/>
+    <Axel type="7" length="5.02" requireGrabbing="1" startCapped="1" endCapped="1" angle="90" ax="0" ay="1" az="0" tx="2.415" ty="0.420474" tz="0.26"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="4.88439,0,0,0,1.69948,0,0,0,6.55198" centerOfMass="1.28518,2.9305,0.26" mass="2.40000009537" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.259812" minY="0.245474" minZ="-0.078" maxX="2.668" maxY="5.61547" maxZ="0.598"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.259812" minY="0.245474" minZ="-0.078" maxX="2.668" maxY="5.61547" maxZ="0.598"/>
+  </GeometryBounding>
+</LEGOPrimitive>

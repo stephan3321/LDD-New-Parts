@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="96490"/>
+    <Annotation designname="M12"/>
+    <Annotation maingroupid="251"/>
+    <Annotation maingroupname="FIGURE, SPECIAL"/>
+    <Annotation platformid="0"/>
+    <Annotation platformname="None"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.527952" sY="0.100051" sZ="0.212061" angle="0" ax="0" ay="1" az="0" tx="0.013606" ty="0.410471" tz="0.052351"/>
+    <Box sX="0.043074" sY="0.139471" sZ="0.043074" angle="45" ax="0" ay="1" az="0" tx="0" ty="0.149471" tz="0"/>
+    <Box sX="0.035138" sY="0.124254" sZ="0.071862" angle="0" ax="0" ay="1" az="0" tx="-0.550081" ty="0.288633" tz="-0.011947"/>
+    <Box sX="0.035138" sY="0.124254" sZ="0.071862" angle="180" ax="0" ay="1" az="0" tx="0.550081" ty="0.288633" tz="-0.011947"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.300218" requireGrabbing="0" startCapped="1" endCapped="0" angle="180" ax="-0.707107" ay="0" az="-0.707107" tx="0" ty="0.300218" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.001621,0,0,0,0.009067,0,0,0,0.008718" centerOfMass="0.000121,0.360195,0.031691" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.595219" minY="0" minZ="-0.16971" maxX="0.595219" maxY="0.520522" maxZ="0.274412"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.595219" minY="0" minZ="-0.16971" maxX="0.595219" maxY="0.520522" maxZ="0.274412"/>
+  </GeometryBounding>
+</LEGOPrimitive>

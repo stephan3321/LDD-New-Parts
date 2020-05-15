@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="25613"/>
+    <Annotation designname="MINI WIG, NO.1"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.390993" sY="0.151856" sZ="0.593704" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.161856" tz="0.043098"/>
+    <Box sX="0.295507" sY="0.398366" sZ="0.036919" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.353094" tz="-0.568452"/>
+    <Box sX="0.295507" sY="0.336537" sZ="0.264308" angle="29.98353" ax="-1" ay="0" az="0" tx="0" ty="0.407352" tz="-0.554205"/>
+    <Box sX="0.170283" sY="0.257307" sZ="0.036919" angle="170.33507" ax="0.389978" ay="-0.89992" az="0.195093" tx="0.060628" ty="0.104967" tz="0.653936"/>
+    <Box sX="0.295507" sY="0.208261" sZ="0.032569" angle="109.3776" ax="-0.129365" ay="0.9494" az="-0.286189" tx="-0.487176" ty="-0.00133" tz="0.198619"/>
+    <Box sX="0.314415" sY="0.291696" sZ="0.036919" angle="66.41384" ax="-0.10495" ay="0.973803" az="-0.201724" tx="-0.486881" ty="-0.245139" tz="-0.275282"/>
+    <Box sX="0.295507" sY="0.208261" sZ="0.032569" angle="78.43816" ax="-0.369353" ay="0.914168" az="-0.166958" tx="0.487176" ty="-0.00133" tz="0.198619"/>
+    <Box sX="0.314415" sY="0.291696" sZ="0.036919" angle="115.54025" ax="-0.130601" ay="0.989104" az="-0.067947" tx="0.486881" ty="-0.245139" tz="-0.275282"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.489009,0,0,0,0.428966,0,0,0,0.372152" centerOfMass="0,0.029357,-0.092983" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.684224" minY="-0.77581" minZ="-0.997823" maxX="0.684224" maxY="0.834524" maxZ="0.811856"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.625813" minY="-0.77581" minZ="-0.997823" maxX="0.615461" maxY="0.834524" maxZ="0.779501"/>
+  </GeometryBounding>
+</LEGOPrimitive>

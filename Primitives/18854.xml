@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="18854"/>
+    <Annotation designname="SUNGLASSES W. 1,5 CONNECTOR"/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.527952" sY="0.070881" sZ="0.212061" angle="0" ax="0" ay="1" az="0" tx="0.013606" ty="0.091408" tz="0.052351"/>
+    <Box sX="0.043074" sY="0.139471" sZ="0.043074" angle="45" ax="0" ay="1" az="0" tx="0" ty="-0.140421" tz="0"/>
+    <Box sX="0.035138" sY="0.124254" sZ="0.071862" angle="0" ax="0" ay="1" az="0" tx="-0.550081" ty="-0.001259" tz="-0.011947"/>
+    <Box sX="0.035138" sY="0.124254" sZ="0.071862" angle="180" ax="0" ay="1" az="0" tx="0.550081" ty="-0.001259" tz="-0.011947"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="15" length="0.3" requireGrabbing="0" startCapped="1" endCapped="0" angle="180" ax="-0.707107" ay="0" az="-0.707107" tx="0" ty="0.010107" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.044325,0,0,0,0.138454,0,0,0,0.134192" centerOfMass="0,-0.044749,0.110253" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.585219" minY="-0.289893" minZ="-0.15971" maxX="0.585219" maxY="0.200395" maxZ="0.380216"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.565045" minY="-0.289893" minZ="-0.101656" maxX="0.565045" maxY="0.200395" maxZ="0.380216"/>
+  </GeometryBounding>
+</LEGOPrimitive>

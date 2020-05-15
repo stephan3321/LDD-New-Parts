@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2497"/>
+    <Annotation designname="AXLE Ø4.9, BRUSH"/>
+    <Annotation maingroupid="286"/>
+    <Annotation maingroupname="FUNCTIONAL ELEMENTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.05" sY="0.226603" sZ="2.87" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.003398" tz="-3.2"/>
+    <Box sX="0.05" sY="0.226603" sZ="2.87" angle="90" ax="0" ay="0" az="1" tx="0" ty="0" tz="-3.2"/>
+    <Box sX="0.131421" sY="0.131421" sZ="3.19" angle="90" ax="0" ay="0" az="1" tx="0" ty="0" tz="-3.2"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="119" oriented="0" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="0" tz="-3.2"/>
+    <Axel type="13" length="5.6" requireGrabbing="0" startCapped="0" endCapped="0" angle="180" ax="0" ay="0.707107" az="-0.707107" tx="0" ty="0" tz="-0.4"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="2.4024,0,0,0,2.4024,0,0,0,0.026125" centerOfMass="0,0.003398,-3.2" mass="0.699999988079" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.236603" minY="-0.233206" minZ="-6.4" maxX="0.236604" maxY="0.240001" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.236603" minY="-0.233206" minZ="-6.4" maxX="0.236604" maxY="0.240001" maxZ="0"/>
+  </GeometryBounding>
+</LEGOPrimitive>

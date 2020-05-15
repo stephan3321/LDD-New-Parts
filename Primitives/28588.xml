@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="28588"/>
+    <Annotation designname="SNAKE W/ 3.2 SHAFT NO. 1"/>
+    <Annotation maingroupid="259"/>
+    <Annotation maingroupname="ANIMALS AND CREATURES"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.333461" sY="0.103137" sZ="0.103137" angle="45" ax="-1" ay="0" az="0" tx="0.028461" ty="0" tz="0"/>
+    <Box sX="0.147826" sY="0.14026" sZ="0.14026" angle="45" ax="-1" ay="0" az="0" tx="0.157826" ty="0" tz="0.001268"/>
+    <Box sX="0.268028" sY="0.103322" sZ="0.185166" angle="11.50083" ax="0" ay="0" az="1" tx="0.811285" ty="1.71436" tz="0"/>
+    <Box sX="0.268028" sY="0.036412" sZ="0.165182" angle="48.63391" ax="0" ay="0" az="-1" tx="0.74924" ty="1.47539" tz="0.001268"/>
+    <Box sX="0.214707" sY="0.113599" sZ="0.113599" angle="60.48827" ax="-0.710431" ay="-0.26932" az="0.650196" tx="0.371156" ty="0.102608" tz="0.001268"/>
+    <Box sX="0.49652" sY="0.113599" sZ="0.113599" angle="121.6364" ax="-0.231323" ay="-0.372304" az="0.898821" tx="0.424902" ty="0.74785" tz="0.001268"/>
+    <Box sX="0.308833" sY="0.113599" sZ="0.113599" angle="72.87" ax="-0.561108" ay="-0.316763" az="0.764735" tx="0.312927" ty="1.33402" tz="0.001268"/>
+    <Box sX="0.235571" sY="0.113599" sZ="0.113599" angle="46.0882" ax="-0.973742" ay="-0.08712" az="0.210327" tx="0.600693" ty="1.56889" tz="0.001268"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="90" ax="0" ay="0" az="-1" tx="-0.315" ty="0.4" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,9:4:32,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+    <Axel type="7" length="0.315" requireGrabbing="0" startCapped="1" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.377594,0,0,0,0.188264,0,0,0,0.532812" centerOfMass="0.40279,0.828275,-0.000456" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.315" minY="-0.2125" minZ="-0.223096" maxX="1.12058" maxY="1.86905" maxZ="0.222185"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.315" minY="-0.2125" minZ="-0.223096" maxX="1.12058" maxY="1.85683" maxZ="0.222185"/>
+  </GeometryBounding>
+</LEGOPrimitive>

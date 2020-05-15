@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="30291"/>
+    <Annotation designname="POLAR BEAR, HEAD"/>
+    <Annotation maingroupid="299"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="8"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.239875" sY="0.792944" sZ="0.590246" angle="157.5" ax="0" ay="0" az="1" tx="0" ty="0" tz="-0.000346"/>
+    <Box sX="0.670641" sY="0.189831" sZ="0.247203" angle="28.61501" ax="0" ay="0" az="1" tx="-1.79516" ty="0.198463" tz="-0.000346"/>
+    <Box sX="0.670641" sY="0.095472" sZ="0.247203" angle="28.61501" ax="0" ay="0" az="1" tx="-1.40654" ty="-0.32506" tz="-0.000346"/>
+    <Box sX="0.571775" sY="0.410232" sZ="0.515278" angle="5.37082" ax="0" ay="0" az="1" tx="-1.04374" ty="0.241673" tz="-0.000346"/>
+    <Box sX="0.578894" sY="0.279289" sZ="0.515278" angle="11.54446" ax="0" ay="0" az="-1" tx="-0.842608" ty="-0.34764" tz="-0.000346"/>
+    <Box sX="0.185358" sY="0.094218" sZ="0.735937" angle="95.73143" ax="0" ay="0" az="1" tx="-1.07356" ty="0.385378" tz="0"/>
+    <Box sX="0.239875" sY="0.813795" sZ="0.590246" angle="157.5" ax="0" ay="0" az="-1" tx="-0.007979" ty="0.019264" tz="-0.000346"/>
+    <Box sX="0.239875" sY="0.792944" sZ="0.590246" angle="112.5" ax="0" ay="0" az="-1" tx="0" ty="0" tz="-0.000346"/>
+    <Box sX="0.239875" sY="0.792944" sZ="0.590246" angle="67.5" ax="0" ay="0" az="-1" tx="0" ty="0" tz="-0.000346"/>
+    <Box sX="0.730127" sY="0.095763" sZ="0.17261" angle="7.15947" ax="0" ay="0" az="1" tx="-0.792665" ty="0.644763" tz="-0.000346"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="6" length="0.669603" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-2" ty="-0.32" tz="0.332901"/>
+    <Hinge type="116" oriented="1" angle="90" ax="-1" ay="0" az="0" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="1.09369,0,0,0,2.73703,0,0,0,2.99496" centerOfMass="-0.55558,0.020671,-0.006575" mass="2.25" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-2.49742" minY="-0.838242" minZ="-0.799566" maxX="0.839" maxY="0.862908" maxZ="0.799566"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-2.49742" minY="-0.838242" minZ="-0.799566" maxX="0.839" maxY="0.841144" maxZ="0.799566"/>
+  </GeometryBounding>
+</LEGOPrimitive>

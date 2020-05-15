@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="27385"/>
+    <Annotation designname="MINI WIG, NO.126"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="1"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.337423" sY="0.127031" sZ="0.40452" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.137031" tz="-0.023652"/>
+    <Box sX="0.161431" sY="0.404828" sZ="0.033481" angle="15.30368" ax="0.060812" ay="0.840333" az="0.538649" tx="-0.138902" ty="-0.290896" tz="-0.548207"/>
+    <Box sX="0.031203" sY="0.117447" sZ="0.033481" angle="57.50189" ax="0.944758" ay="0.309238" az="0.108647" tx="-0.291004" ty="-0.024061" tz="-0.403969"/>
+    <Box sX="0.161431" sY="0.404828" sZ="0.033481" angle="167.15109" ax="0.072176" ay="0.997359" az="0.008148" tx="0.138902" ty="-0.290896" tz="-0.548207"/>
+    <Box sX="0.031203" sY="0.117447" sZ="0.033481" angle="162.89166" ax="0.052848" ay="0.886581" az="0.459544" tx="0.291004" ty="-0.024061" tz="-0.403969"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.197338,0,0,0,0.150787,0,0,0,0.132431" centerOfMass="0,-0.205048,-0.100816" mass="1" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.358915" minY="-0.723191" minZ="-0.669624" maxX="0.358915" maxY="0.313095" maxZ="0.467992"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.358111" minY="-0.723191" minZ="-0.669624" maxX="0.358111" maxY="0.313095" maxZ="0.467992"/>
+  </GeometryBounding>
+</LEGOPrimitive>

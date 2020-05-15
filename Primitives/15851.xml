@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="15851"/>
+    <Annotation designname="MINI  HELMET NO 26 ASS."/>
+    <Annotation maingroupid="244"/>
+    <Annotation maingroupname="FIGURE, HEAD CLOTHING"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.509787" sY="0.16073" sZ="0.527837" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.17073" tz="-0.050682"/>
+    <Box sX="0.395965" sY="0.061036" sZ="0.107394" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.164156" tz="0.637378"/>
+    <Box sX="0.312909" sY="0.103846" sZ="0.047345" angle="60" ax="0" ay="-1" az="0" tx="-0.500007" ty="-0.123658" tz="0.288679"/>
+    <Box sX="0.312909" sY="0.420104" sZ="0.047345" angle="120" ax="0" ay="-1" az="0" tx="-0.500007" ty="-0.337966" tz="-0.288679"/>
+    <Box sX="0.312909" sY="0.103846" sZ="0.047345" angle="120" ax="0" ay="-1" az="0" tx="0.500007" ty="-0.123658" tz="0.288679"/>
+    <Box sX="0.312909" sY="0.420104" sZ="0.047345" angle="60" ax="0" ay="-1" az="0" tx="0.500007" ty="-0.337966" tz="-0.288679"/>
+    <Box sX="0.312909" sY="0.400025" sZ="0.07717" angle="0" ax="0" ay="1" az="0" tx="0" ty="-0.317888" tz="-0.607184"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.326853,0,0,0,0.360903,0,0,0,0.290254" centerOfMass="0,-0.193088,0.010016" mass="1" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.697463" minY="-0.813012" minZ="-0.762159" maxX="0.697463" maxY="0.426836" maxZ="0.78219"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.679414" minY="-0.813012" minZ="-0.762159" maxX="0.679414" maxY="0.426836" maxZ="0.78219"/>
+  </GeometryBounding>
+</LEGOPrimitive>

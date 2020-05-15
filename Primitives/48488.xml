@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="48488"/>
+    <Annotation designname="VISOR, NO. 2/JOKER"/>
+    <Annotation maingroupid="250"/>
+    <Annotation maingroupname="FIGURE, THEME"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="4"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.043132" sY="0.298293" sZ="0.271" angle="45.38101" ax="1" ay="0" az="0" tx="-0.7429" ty="-0.070943" tz="0.176301"/>
+    <Box sX="0.009322" sY="0.545461" sZ="0.321116" angle="98.60686" ax="0.860031" ay="0.360795" az="-0.360795" tx="-0.387829" ty="-0.242394" tz="0.703291"/>
+    <Box sX="0.009322" sY="0.475536" sZ="0.293135" angle="56.04372" ax="0" ay="0" az="-1" tx="-0.384141" ty="0.583044" tz="0.035206"/>
+    <Box sX="0.009322" sY="0.475536" sZ="0.387926" angle="75.18476" ax="0.63789" ay="0.339484" az="-0.691264" tx="-0.384141" ty="0.319878" tz="0.489646"/>
+    <Box sX="0.043132" sY="0.298293" sZ="0.271" angle="180" ax="0" ay="0.922602" az="0.385753" tx="0.7429" ty="-0.070943" tz="0.176301"/>
+    <Box sX="0.009322" sY="0.545461" sZ="0.321116" angle="148.24934" ax="-0.284392" ay="0.677909" az="0.677909" tx="0.387829" ty="-0.242394" tz="0.703291"/>
+    <Box sX="0.009322" sY="0.475536" sZ="0.293135" angle="180" ax="-0.469808" ay="0.882769" az="0" tx="0.384141" ty="0.583044" tz="0.035206"/>
+    <Box sX="0.009322" sY="0.475536" sZ="0.387926" angle="156.09518" ax="-0.431044" ay="0.80993" az="0.397762" tx="0.384141" ty="0.319878" tz="0.489646"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="51" oriented="0" angle="120" ax="0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.16273,0,0,0,0.184586,0,0,0,0.207713" centerOfMass="0,0.161932,0.369492" mass="0.560000002384" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.81987" minY="-0.658796" minZ="-0.304906" maxX="0.81987" maxY="0.976745" maxZ="1.13532"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.81987" minY="-0.658796" minZ="-0.304906" maxX="0.81987" maxY="0.976745" maxZ="1.13532"/>
+  </GeometryBounding>
+</LEGOPrimitive>

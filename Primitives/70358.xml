@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="70358"/>
+    <Annotation designname="9V TRAIN ENGINE"/>
+    <Annotation maingroupid="292"/>
+    <Annotation maingroupname="ELECTRIC PARTS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="8"/>
+  </Annotations>
+  <DefaultOrientation angle="90" ax="0" ay="1" az="0" tx="2.4" ty="0" tz="0"/>
+  <Collision>
+    <Box sX="3.99" sY="0.79" sZ="1.59" angle="0" ax="0" ay="1" az="0" tx="3.6" ty="1.12" tz="-1.2"/>
+    <Box sX="2.39" sY="1.09" sZ="1.59" angle="0" ax="0" ay="1" az="0" tx="3.6" ty="1.42" tz="-1.2"/>
+    <Box sX="4.28" sY="0.11" sZ="0.24" angle="0" ax="0" ay="1" az="0" tx="3.6" ty="0.44" tz="0"/>
+    <Box sX="4.28" sY="0.11" sZ="0.24" angle="0" ax="0" ay="1" az="0" tx="3.6" ty="0.44" tz="-2.4"/>
+    <Box sX="0.849803" sY="0.849803" sZ="0.22" angle="0" ax="0" ay="1" az="0" tx="6" ty="0.844" tz="0.669727"/>
+    <Box sX="0.849803" sY="0.849803" sZ="0.22" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0.844" tz="0.669727"/>
+    <Box sX="0.849803" sY="0.849803" sZ="0.22" angle="0" ax="0" ay="1" az="0" tx="1.2" ty="0.844" tz="-3.07477"/>
+    <Box sX="0.849803" sY="0.849803" sZ="0.22" angle="0" ax="0" ay="1" az="0" tx="6" ty="0.844" tz="-3.07477"/>
+    <Box sX="0.150706" sY="0.27" sZ="0.150706" angle="0" ax="0" ay="1" az="0" tx="3.6" ty="2.84" tz="-1.19998"/>
+  </Collision>
+  <Connectivity>
+    <Rail type="1" angle="90" ax="0" ay="-1" az="0" tx="1.2" ty="0" tz="-1.2"/>
+    <Rail type="1" angle="90" ax="0" ay="-1" az="0" tx="6" ty="0" tz="-1.2"/>
+    <Custom2DField type="23" width="8" height="4" angle="90" ax="0" ay="-1" az="0" tx="1.2" ty="1.92" tz="-2.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Custom2DField type="23" width="8" height="4" angle="90" ax="0" ay="-1" az="0" tx="7.6" ty="1.92" tz="-2.8">
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:2:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:4:1,23:4:1,18:2:1,
+      23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,0:4:1,23:4:1,
+      18:1:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:2:1,23:4:1,18:1:1
+    </Custom2DField>
+    <Hinge type="29" oriented="0" angle="90" ax="0" ay="-1" az="0" tx="3.6" ty="2.72" tz="-1.2"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="243.74564,0,0,0,759.38678,0,0,0,711.29907" centerOfMass="3.6,1.40685,-1.20252" mass="100" frictionType="0"/>
+  <Decoration faces="2" subMaterialRedirectLookupTable="0,1"/>
+  <Bounding>
+    <AABB minX="-0.69" minY="-0.306292" minZ="-3.29477" maxX="7.89" maxY="3.12" maxZ="0.889727"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.69" minY="-0.306292" minZ="-3.24477" maxX="7.89" maxY="3.12" maxZ="0.839727"/>
+  </GeometryBounding>
+</LEGOPrimitive>

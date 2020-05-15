@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="52345"/>
+    <Annotation designname="NUN HEADGEAR"/>
+    <Annotation maingroupid="243"/>
+    <Annotation maingroupname="FIGURE, WIGS"/>
+    <Annotation platformid="200"/>
+    <Annotation platformname="SYSTEM"/>
+    <Annotation version="2"/>
+  </Annotations>
+  <Collision>
+    <Box sX="0.49967" sY="0.252835" sZ="0.256194" angle="0" ax="0" ay="1" az="0" tx="0" ty="0.262835" tz="0"/>
+    <Box sX="0.3135" sY="0.252835" sZ="0.019144" angle="21.88217" ax="-1" ay="0" az="0" tx="0" ty="0.072185" tz="0.41191"/>
+    <Box sX="0.49967" sY="0.661573" sZ="0.045416" angle="16.6079" ax="1" ay="0" az="0" tx="0" ty="-0.233909" tz="-0.578095"/>
+    <Box sX="0.151456" sY="0.625963" sZ="0.268215" angle="5.60745" ax="0" ay="0" az="1" tx="0.750925" ty="-0.240649" tz="-0.092454"/>
+    <Box sX="0.151456" sY="0.625963" sZ="0.268215" angle="180" ax="0.048914" ay="0.998803" az="0" tx="-0.750925" ty="-0.240649" tz="-0.092454"/>
+  </Collision>
+  <Connectivity>
+    <Custom2DField type="22" width="2" height="2" angle="0" ax="0" ay="1" az="0" tx="-0.4" ty="0" tz="-0.4">
+      29:0,29:0,29:0,
+      29:0,5:4:34,29:0,
+      29:0,29:0,29:0
+    </Custom2DField>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.349101,0,0,0,0.601562,0,0,0,0.682863" centerOfMass="0.000129,-0.132513,-0.187199" mass="1.39999997616" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-1.07537" minY="-0.9" minZ="-0.930975" maxX="1.07537" maxY="0.631554" maxZ="0.58052"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-1.07537" minY="-0.9" minZ="-0.930975" maxX="1.07537" maxY="0.631554" maxZ="0.58052"/>
+  </GeometryBounding>
+</LEGOPrimitive>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="2853"/>
+    <Annotation designname="PLASTIC MOTOR, CRANK/CROSS"/>
+    <Annotation maingroupid="372"/>
+    <Annotation maingroupname="TRANSPORTATION MEANS, VEHICLES"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="7"/>
+  </Annotations>
+  <DefaultOrientation angle="90" ax="0" ay="-1" az="0" tx="0" ty="0" tz="0"/>
+  <Collision>
+    <Box sX="0.215" sY="0.0675" sZ="0.5865" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-0.6035"/>
+    <Box sX="0.0675" sY="0.215" sZ="0.5865" angle="0" ax="0" ay="1" az="0" tx="0" ty="0" tz="-0.6035"/>
+    <Box sX="0.198478" sY="0.235" sZ="0.045" angle="0" ax="0" ay="1" az="0" tx="-0.04472" ty="0" tz="-1.255"/>
+    <Box sX="0.116302" sY="0.05" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="-0.226302" ty="0" tz="-1.4"/>
+    <Box sX="0.032352" sY="0.133921" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="0.687352" ty="0" tz="-1.4"/>
+    <Box sX="0.059339" sY="0.05875" sZ="0.19" angle="180" ax="1" ay="0" az="0" tx="0.589707" ty="-0.17625" tz="-1.4"/>
+    <Box sX="0.085268" sY="0.05875" sZ="0.19" angle="180" ax="1" ay="0" az="0" tx="0.184365" ty="-0.17625" tz="-1.4"/>
+    <Box sX="0.020465" sY="0.160293" sZ="0.19" angle="180" ax="0.92388" ay="0.382683" az="0" tx="-0.19806" ty="-0.200244" tz="-1.4"/>
+    <Box sX="0.19" sY="0.047" sZ="0.19" angle="180" ax="1" ay="0" az="0" tx="0.2" ty="-0.313" tz="-1.4"/>
+    <Box sX="0.059339" sY="0.05875" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="0.589707" ty="0.17625" tz="-1.4"/>
+    <Box sX="0.085268" sY="0.05875" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="0.184365" ty="0.17625" tz="-1.4"/>
+    <Box sX="0.020465" sY="0.160293" sZ="0.19" angle="45" ax="0" ay="0" az="-1" tx="-0.19806" ty="0.200244" tz="-1.4"/>
+    <Box sX="0.19" sY="0.047" sZ="0.19" angle="0" ax="0" ay="1" az="0" tx="0.2" ty="0.313" tz="-1.4"/>
+  </Collision>
+  <Connectivity>
+    <Axel type="5" length="1.2" requireGrabbing="0" startCapped="0" endCapped="1" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="0" ty="0" tz="0"/>
+    <Axel type="4" length="0.4" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="0.57735" ay="-0.57735" az="-0.57735" tx="0.4" ty="0" tz="-1.6"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.0913,0,0,0,0.10466,0,0,0,0.037571" centerOfMass="0.104719,0,-1.02175" mass="0.365999996662" frictionType="0"/>
+  <Bounding>
+    <AABB minX="-0.37" minY="-0.37" minZ="-1.6" maxX="0.77" maxY="0.37" maxZ="0"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.37" minY="-0.37" minZ="-1.6" maxX="0.77" maxY="0.37" maxZ="-0.007"/>
+  </GeometryBounding>
+</LEGOPrimitive>
