@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="93065" />
+    <Annotation designname="SKELETONHEAD W/HELMET" />
+    <Annotation maingroupid="242" />
+    <Annotation maingroupname="FIGURE, HEADS AND MASKS" />
+    <Annotation platformid="200" />
+    <Annotation platformname="SYSTEM" />
+    <Annotation version="1" />
+  </Annotations>
+  <Bounding>
+    <AABB minX="-0.873617" minY="-0.604195" minZ="-0.868405" maxX="0.873617" maxY="1.450406" maxZ="1.140601" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-0.873617" minY="-0.604195" minZ="-0.868405" maxX="0.873617" maxY="1.450406" maxZ="1.140601" />
+  </GeometryBounding>
+  <Decoration faces="3" subMaterialRedirectLookupTable="0,1,2" />
+</LEGOPrimitive>
