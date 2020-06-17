@@ -1,4 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Steve Bliss [sbliss]
+Editted for LDD by Jester94
+-->
 <LEGOPrimitive versionMajor="1" versionMinor="0">
   <Annotations>
     <Annotation aliases="30010" />
