@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!--
+Derived from The LDraw Parts Library
+Orginal Author: Philippe Hurbain [Philo]
+Editted for LDD by Equilibrium
+-->
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="932901"/>
+    <Annotation designname="Piston"/>
+    <Annotation maingroupid="399"/>
+    <Annotation maingroupname="LOOSE PARTS"/>
+    <Annotation platformid="300"/>
+    <Annotation platformname="TECHNIC"/>
+    <Annotation version="3"/>
+  </Annotations>
+  <Collision>
+	  <Box sX="0.159677" sY="0.0122829" sZ="2.2077" angle="148.6" ax="-0.678598" ay="0.281085" az="-0.678598" tx="2.62" ty="0.301131" tz="-0.498871"/>
+	  <Box sX="0.159677" sY="0.0122829" sZ="2.2077" angle="180.0" ax="-0.707107" ay="3.10482e-007" az="-0.707107" tx="2.62" ty="0.430515" tz="-0.800002"/>
+	  <Box sX="0.159677" sY="0.0122829" sZ="2.2077" angle="211.4" ax="-0.678598" ay="-0.281086" az="-0.678598" tx="2.62" ty="0.301131" tz="-1.10113"/>
+	  <Box sX="0.159677" sY="0.0122829" sZ="2.2077" angle="240.0" ax="-0.57735" ay="-0.57735" az="-0.57735" tx="2.62" ty="1.95529e-007" tz="-1.23051"/>
+	  <Box sX="0.159677" sY="0.0122829" sZ="2.2077" angle="98.4211" ax="0.357407" ay="0.862856" az="0.357407" tx="2.62" ty="-0.30113" tz="-1.10113"/>
+	  <Box sX="0.159677" sY="0.0122829" sZ="2.2077" angle="90.0" ax="0.0" ay="1.0" az="0.0" tx="2.62" ty="-0.430514" tz="-0.800002"/>
+	  <Box sX="0.159677" sY="0.0122829" sZ="2.2077" angle="98.421" ax="-0.357407" ay="0.862856" az="-0.357407" tx="2.62" ty="-0.30113" tz="-0.498871"/>
+	  <Box sX="0.159677" sY="0.0122829" sZ="2.2077" angle="240.0" ax="0.57735" ay="-0.57735" az="0.57735" tx="2.62" ty="1.95529e-007" tz="-0.369487"/>
+  </Collision>
+  <Connectivity>
+    <Hinge type="135" oriented="1" angle="90" ax="0" ay="0" az="-1" tx="0.4" ty="0" tz="-0.8"/>
+    <Slider type="25" length="0.36" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="-0.707107" az="0" tx="4.48" ty="0" tz="-0.8"/>
+  </Connectivity>
+  <PhysicsAttributes inertiaTensor="0.043872,0,0,0,1.95234,0,0,0,1.95235" centerOfMass="2.62,0,-0.8" mass="18.1000003815" frictionType="0"/>
+  <Bounding>
+    <AABB minX="0.4" minY="-0.48" minZ="-1.28" maxX="4.84" maxY="0.48" maxZ="-0.32"/>
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="0.4" minY="-0.48" minZ="-1.28" maxX="4.84" maxY="0.48" maxZ="-0.32"/>
+  </GeometryBounding>
+</LEGOPrimitive>
