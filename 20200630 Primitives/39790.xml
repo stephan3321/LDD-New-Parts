@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LEGOPrimitive versionMajor="1" versionMinor="0">
+  <Annotations>
+    <Annotation aliases="39790" />
+    <Annotation designname="FRAME 11X15" />
+    <Annotation maingroupid="310" />
+    <Annotation maingroupname="BEAMS" />
+    <Annotation platformid="300" />
+    <Annotation platformname="TECHNIC" />
+    <Annotation version="1" />
+  </Annotations>
+<Connectivity>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-6" ty="0" tz="-4.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-4.4" ty="0" tz="-4.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-2.8" ty="0" tz="-4.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-1.2" ty="0" tz="-4.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="0.4" ty="0" tz="-4.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="2" ty="0" tz="-4.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="3.6" ty="0" tz="-4.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="5.2" ty="0" tz="-4.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-6" ty="0" tz="-2.8"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-6" ty="0" tz="-1.2"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-6" ty="0" tz="0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-6" ty="0" tz="2"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="5.2" ty="0" tz="-2.8"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="5.2" ty="0" tz="-1.2"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="5.2" ty="0" tz="0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="5.2" ty="0" tz="2"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-6" ty="0" tz="3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-4.4" ty="0" tz="3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-2.8" ty="0" tz="3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="-1.2" ty="0" tz="3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="0.4" ty="0" tz="3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="2" ty="0" tz="3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="3.6" ty="0" tz="3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="0" ax="0" ay="0" az="1" tx="5.2" ty="0" tz="3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="-5.6" ty="0.4" tz="-3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="-5.6" ty="0.4" tz="-2"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="-5.6" ty="0.4" tz="-0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="-5.6" ty="0.4" tz="1.2"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="-5.6" ty="0.4" tz="2.8"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="5.6" ty="0.4" tz="-3.6"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="5.6" ty="0.4" tz="-2"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="5.6" ty="0.4" tz="-0.4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="5.6" ty="0.4" tz="1.2"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="180" ax="-0.707107" ay="0.707107" az="0" tx="5.6" ty="0.4" tz="2.8"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-5.2" ty="0.4" tz="-4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-3.6" ty="0.4" tz="-4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-2" ty="0.4" tz="-4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-0.4" ty="0.4" tz="-4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="1.2" ty="0.4" tz="-4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="2.8" ty="0.4" tz="-4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="4.4" ty="0.4" tz="-4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-5.2" ty="0.4" tz="4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-3.6" ty="0.4" tz="4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-2" ty="0.4" tz="4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="-0.4" ty="0.4" tz="4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="1.2" ty="0.4" tz="4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="2.8" ty="0.4" tz="4"/>
+    <Axel type="2" length="0.8" grabbing="0" startCapped="0" endCapped="0" angle="120" ax="-0.57735" ay="0.57735" az="-0.57735" tx="4.4" ty="0.4" tz="4"/>
+</Connectivity>
+  <Bounding>
+    <AABB minX="-6.4" minY="0" minZ="-4.800001" maxX="5.6" maxY="0.8" maxZ="4" />
+  </Bounding>
+  <GeometryBounding>
+    <AABB minX="-6.4" minY="0" minZ="-4.800001" maxX="5.6" maxY="0.8" maxZ="4" />
+  </GeometryBounding>
+</LEGOPrimitive>
